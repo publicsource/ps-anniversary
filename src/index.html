@@ -9,7 +9,19 @@
     <%= t.include("partials/_intro.html") %>
     <%= t.include("partials/_intro_map.html") %>
     <%= t.include("partials/_intro_about.html") %>
-    <%= t.include("partials/_story_list.html") %>
+    <div id="story-list">
+      <nav>
+        <a href="#">MAP</a>
+        <a href="#">DATA</a>
+        <a href="#" class="active">STORIES</a>
+        <a href="#">STATS</a>
+        <a href="#">PARTNERS</a>
+      </nav>
+      <% json.storyList.forEach(function(slide, i) { %>
+        <%= t.include("partials/_story_list.html", { slide: slide, position:i }) %>
+      <% }); %>
+    </div>
+    
     <script src="app.js" async></script>
     <%= t.include("partials/_analytics.html") %>
   </body>
