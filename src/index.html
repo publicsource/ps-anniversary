@@ -9,17 +9,43 @@
     <%= t.include("partials/_intro.html") %>
     <%= t.include("partials/_intro_map.html") %>
     <%= t.include("partials/_intro_about.html") %>
-    <div id="story-list">
-      <nav>
-        <a href="#">MAP</a>
-        <a href="#">DATA</a>
-        <a href="#" class="active">STORIES</a>
-        <a href="#">STATS</a>
-        <a href="#">PARTNERS</a>
-      </nav>
-      <% json.storyList.forEach(function(slide, i) { %>
-        <%= t.include("partials/_story_list.html", { slide: slide, position:i }) %>
-      <% }); %>
+    <div class="container">
+      <div id="story-list">
+        <nav>
+          <a href="#">MAP</a>
+          <a href="#">DATA</a>
+          <a href="#" class="active">STORIES</a>
+          <a href="#">STATS</a>
+          <a href="#">PARTNERS</a>
+        </nav>
+        <% json.storyList.forEach(function(story, i) { %>
+          <% if(i == 0){ %>
+            <div class="row">
+              <div class="one-third column">
+                <img src="assets/story-images/<%= story.img_filename %>" alt="<%= story.headline %>" />
+                <h3><%= story.headlines %></h3>
+                <div class="authors"><%= story.authors %></div>
+                <div class="org"><%= story.org %></div>
+              </div>
+          <% }else if((i % 3 == 0) || (i == json.storyList.length)){ %>
+            </div>
+            <div class="row">
+              <div class="one-third column">
+                <img src="assets/story-images/<%= story.img_filename %>" alt="<%= story.headline %>" />
+                <h3><%= story.headlines %></h3>
+                <div class="authors"><%= story.authors %></div>
+                <div class="org"><%= story.org %></div>
+              </div>
+          <% }else{ %>
+            <div class="one-third column">
+              <img src="assets/story-images/<%= story.img_filename %>" alt="<%= story.headline %>" />
+              <h3><%= story.headlines %></h3>
+              <div class="authors"><%= story.authors %></div>
+              <div class="org"><%= story.org %></div>
+            </div>
+          <% } %>
+        <% }); %>
+      </div>
     </div>
     
     <script src="app.js" async></script>
