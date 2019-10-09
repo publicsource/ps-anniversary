@@ -1,4 +1,57 @@
 @import "values";
+@import "skeleton";
+@import "nav";
+@import "landing";
+@import "footer";
+
+@font-face {
+  font-family: 'LatoThin';
+  src: url('assets/fonts/lato/Lato-Thin.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'LatoLight';
+  src: url('assets/fonts/lato/Lato-Light.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'LatoReg';
+  src: url('assets/fonts/lato/Lato-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'LatoBold';
+  src: url('assets/fonts/lato/Lato-Bold.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'LatoBoldItalic';
+  src: url('assets/fonts/lato/Lato-BoldItalic.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PeaceSans';
+  src: url('assets/fonts/peace-sans/Peace-Sans-Webfont.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CrimsonRoman';
+  src: url('assets/fonts/crimson-text/CrimsonText-Roman.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
 
 //defensive coding
 * {
@@ -18,7 +71,7 @@ body {
   margin: 0;
   //remove 300ms click delay in Safari, AKA still the worst
   touch-action: manipulation;
-  font-family: @sans;
+  font-family: "CrimsonRoman", @sans;
   font-size: 14px;
   line-height: 1.4;
 }
@@ -28,9 +81,19 @@ img, svg {
 }
 
 h1 {
-  .gotham();
+  font-family: "PeaceSans";
   font-size: 20px;
   color: #666;
+}
+
+h2{
+  font-family: "LatoReg";
+  font-size: 2em;
+}
+
+h3{
+  font-family: "LatoReg";
+  font-size: 1.2em;
 }
 
 a, a:visited {
