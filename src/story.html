@@ -23,7 +23,7 @@
     </div>
   </div>
 
-    <img alt="#" src="https://ps-apps-assets.s3.amazonaws.com/watershed/water-equalizer/100Days_Water_9.jpg" />
+  <img alt="#" src="https://ps-apps-assets.s3.amazonaws.com/watershed/water-equalizer/100Days_Water_9.png" />
 
   <div class="container">
     <div id="story-page">
@@ -138,11 +138,76 @@
     </div>
   </div>
 
+  <div class="block">
+    <img src="https://ps-apps-assets.s3.amazonaws.com/watershed/water-equalizer/100Days_Water_9.jpeg" data-speed="-1" class="img-parallax" />
+    <img alt="#" src="https://ps-apps-assets.s3.amazonaws.com/watershed/wavy-transparent.png" />
+  </div>
+
+  <div class="container top-margin ">
+    <div id="story-page">
+      <div class="row">
+        <div class="eight columns offset-by-two">
+          <div id="story-page-top">
+            <h1>Headlines are great, sometimes they're super long like this one let's see maybe edit your stuff better</h1>
+            <div class="wave-divider"></div>
+            <div class="authors">April Johnston</div>
+            <div class="org">100 Days in Appalachia</div>
+            <div class="date">Nov. 14, 2019</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <%= t.include("partials/_footer.html") %>
 
 
   <script src="app.js" async></script>
+  <script
+    src="https://code.jquery.com/jquery-3.4.1.min.js"
+    integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+    crossorigin="anonymous"></script>
   <%= t.include("partials/_analytics.html") %>
+
+  <script>
+    $('.img-parallax').each(function(){
+      var img = $(this);
+      var imgParent = $(this).parent();
+      function parallaxImg () {
+        var speed = img.data('speed');
+        var imgY = imgParent.offset().top;
+        var winY = $(this).scrollTop();
+        var winH = $(this).height();
+        var parentH = imgParent.innerHeight();
+
+
+        // The next pixel to show on screen
+        var winBottom = winY + winH;
+
+        // If block is shown on screen
+        if (winBottom > imgY && winY < imgY + parentH) {
+          // Number of pixels shown after block appear
+          var imgBottom = ((winBottom - imgY) * speed);
+          // Max number of pixels until block disappear
+          var imgTop = winH + parentH;
+          // Porcentage between start showing until disappearing
+          var imgPercent = ((imgBottom / imgTop) * 100) + (50 - (speed * 50));
+        }
+        img.css({
+          top: imgPercent + '%',
+          transform: 'translate(-50%, -' + imgPercent + '%)'
+        });
+      }
+      $(document).on({
+        scroll: function () {
+          parallaxImg();
+        }, ready: function () {
+          parallaxImg();
+        }
+      });
+    });
+  </script>
+
 </body>
 </html>
 
