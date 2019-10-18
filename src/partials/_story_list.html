@@ -1,48 +1,81 @@
-<div class="container">
-  <div id="story-list">
+<div id="story-list">
 
-    <nav>
-      <a href="#">MAP</a>
-      <a href="#">DATA</a>
-      <a href="#" class="active">STORIES</a>
-      <a href="#">STATS</a>
-      <a href="#">PARTNERS</a>
-    </nav>
+  <nav id="slider-links">
+    <a href="#map">MAP</a>
+    <a href="#data">DATA</a>
+    <a href="#stories" class="active">STORIES</a>
+    <a href="#stats">STATS</a>
+    <a href="#partners">PARTNERS</a>
+  </nav>
 
-    <% json.storyList.forEach(function(story, i) { %>
-      <% if(i == 0){ %>
-        <div class="row">
+  <div id="slider">
+    <div id="map" class="slide"><h2>MAP</h2></div>
+    <div id="data" class="slide"><h2>DATA</h2></div>
+    
+    <div id="stories" class="slide container">
+      <% json.storyList.forEach(function(story, i) { %>
+        <% if(i == 0){ %>
+          <div class="row">
+            <div class="one-third column">
+              <img src="assets/story-images/<%= story.img_filename %>" alt="<%= story.headline %>" />
+              <h3><%= story.headlines %></h3>
+              <div class="authors"><%= story.authors %></div>
+              <div class="org"><%= story.org %></div>
+            </div>
+        <% }else if(i % 3 == 0){ %>
+          </div>
+          <div class="row">
+            <div class="one-third column">
+              <img src="assets/story-images/<%= story.img_filename %>" alt="<%= story.headline %>" />
+              <h3><%= story.headlines %></h3>
+              <div class="authors"><%= story.authors %></div>
+              <div class="org"><%= story.org %></div>
+            </div>
+        <% }else if(i+1 == json.storyList.length){ %>
           <div class="one-third column">
             <img src="assets/story-images/<%= story.img_filename %>" alt="<%= story.headline %>" />
             <h3><%= story.headlines %></h3>
             <div class="authors"><%= story.authors %></div>
             <div class="org"><%= story.org %></div>
           </div>
-      <% }else if(i % 3 == 0){ %>
-        </div>
-        <div class="row">
+          </div> <!-- This extra div closes the row-->
+        <% }else{ %>
           <div class="one-third column">
             <img src="assets/story-images/<%= story.img_filename %>" alt="<%= story.headline %>" />
             <h3><%= story.headlines %></h3>
             <div class="authors"><%= story.authors %></div>
             <div class="org"><%= story.org %></div>
           </div>
-      <% }else if(i+1 == json.storyList.length){ %>
-        <div class="one-third column">
-          <img src="assets/story-images/<%= story.img_filename %>" alt="<%= story.headline %>" />
-          <h3><%= story.headlines %></h3>
-          <div class="authors"><%= story.authors %></div>
-          <div class="org"><%= story.org %></div>
-        </div>
-        </div> <!-- This extra div closes the row-->
-      <% }else{ %>
-        <div class="one-third column">
-          <img src="assets/story-images/<%= story.img_filename %>" alt="<%= story.headline %>" />
-          <h3><%= story.headlines %></h3>
-          <div class="authors"><%= story.authors %></div>
-          <div class="org"><%= story.org %></div>
-        </div>
-      <% } %>
-    <% }); %>
+        <% } %>
+      <% }); %>
+    </div>
+    
+    <div id="stats" class="slide"><h2>STATS</h2></div>
+    <div id="partners" class="slide"><h2>PARTNERS</h2></div>
   </div>
 </div>
+
+
+<script>
+  document.addEventListener('DOMContentLoaded', function(event) {
+    
+    var sliderContainer = document.getElementById('slider');
+    //var translate = 0;
+    //var slide = document.getElementById('stories');
+    //sliderContainer.style.transform = "translateX(" + (0 - slide.offsetLeft) + "px" + ")";
+    
+    var a = document.getElementById('slider-links').getElementsByTagName('a');
+    for (var i = 0; i < a.length; i++) {
+      var elem = a[i];
+      elem.addEventListener('click', function(e){ //say this is an anchor
+        e.preventDefault();
+        var slide_id = e.target.hash;
+        var slide = document.getElementById(slide_id.replace('#',''));
+        
+        var slide_position = slide.offsetLeft;
+        
+        sliderContainer.style.transform = "translateX(-" + slide_position + "px" + ")";
+      });
+    }
+  })
+</script>
