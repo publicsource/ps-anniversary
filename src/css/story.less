@@ -2,7 +2,7 @@
   margin-top: 3em;
 }
 
-#story-page #story-page-top h1 {
+#story-page h1 {
   font-family: "PeaceSans";
   font-size: 2.6em;
   color: black;
@@ -10,7 +10,7 @@
   line-height: 1.3;
 }
 
-#story-page #story-page-body h2 {
+#story-page-body h2 {
   font-family: "PeaceSans";
   font-size: 2.2em;
   color: black;
@@ -18,19 +18,19 @@
   line-height: 1.3;
 }
 
-#story-page #story-page-body h3 {
+#story-page-body h3 {
   font-family: "PeaceSans";
   font-size: 2.2em;
   color: @goodriver-bright;
   line-height: 1.3;
 }
 
-#story-page #story-page-body p {
+#story-page-body p {
   font-size: 1.5em;
   line-height: 1.5;
 }
 
-#story-page #story-page-body a {
+#story-page-body a {
   background: linear-gradient(to bottom, var(--mainColor) 0%, var(--mainColor) 100%);
 	background-position: 0 100%;
 	background-repeat: repeat-x;
@@ -39,7 +39,7 @@
   text-decoration: none;
 }
 
-#story-page #story-page-body a:hover {
+#story-page-body a:hover {
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg id='Squiggle-svg' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:ev='http://www.w3.org/2001/xml-events' viewBox='0 0 20 4'%3E%3Cstyle type='text/css'%3E.st0{animation:shift .5s linear infinite;}@keyframes shift {from {transform:translateX(0);}to {transform:translateX(-20px);}}%3C/style%3E%3Cpath fill='none' stroke='%234e83a3' stroke-width='2.25' class='st0' d='M0,3.5 c 5,0,5,-3,10,-3 s 5,3,10,3 c 5,0,5,-3,10,-3 s 5,3,10,3'/%3E%3C/svg%3E");
   background-position: 0 100%;
   background-size: auto 3px;
@@ -72,6 +72,15 @@
   font-family: "CrimsonRoman";
   text-align: center;
   color: grey;
+}
+
+#story-photo-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-column-gap: 6px;
+  @media @mobile {
+    grid-template-columns: 1fr;
+  }
 }
 
 .top-margin {
