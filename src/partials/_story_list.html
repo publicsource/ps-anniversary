@@ -9,45 +9,50 @@
   </nav>
 
   <div id="slider">
-    <div id="map" class="slide"><h2>MAP</h2></div>
+    <div id="map" class="slide">
+      <h2>MAP</h2>
+      <iframe name="slider-map" width="100%" height="600px" src="https://storymaps.arcgis.com/stories/f475fd35e39e41ac9688965cf4e8fbd7"></iframe>
+    </div>
     <div id="data" class="slide"><h2>DATA</h2></div>
     
-    <div id="stories" class="slide container">
-      <% json.storyList.forEach(function(story, i) { %>
-        <% if(i == 0){ %>
-          <div class="row">
+    <div id="stories" class="slide">
+      <div class="container">
+        <% json.storyList.forEach(function(story, i) { %>
+          <% if(i == 0){ %>
+            <div class="row">
+              <div class="one-third column">
+                <img src="assets/story-images/<%= story.img_filename %>" alt="<%= story.headline %>" />
+                <h3><%= story.headlines %></h3>
+                <div class="authors"><%= story.authors %></div>
+                <div class="org"><%= story.org %></div>
+              </div>
+          <% }else if(i % 3 == 0){ %>
+            </div>
+            <div class="row">
+              <div class="one-third column">
+                <img src="assets/story-images/<%= story.img_filename %>" alt="<%= story.headline %>" />
+                <h3><%= story.headlines %></h3>
+                <div class="authors"><%= story.authors %></div>
+                <div class="org"><%= story.org %></div>
+              </div>
+          <% }else if(i+1 == json.storyList.length){ %>
             <div class="one-third column">
               <img src="assets/story-images/<%= story.img_filename %>" alt="<%= story.headline %>" />
               <h3><%= story.headlines %></h3>
               <div class="authors"><%= story.authors %></div>
               <div class="org"><%= story.org %></div>
             </div>
-        <% }else if(i % 3 == 0){ %>
-          </div>
-          <div class="row">
+            </div> <!-- This extra div closes the row-->
+          <% }else{ %>
             <div class="one-third column">
               <img src="assets/story-images/<%= story.img_filename %>" alt="<%= story.headline %>" />
               <h3><%= story.headlines %></h3>
               <div class="authors"><%= story.authors %></div>
               <div class="org"><%= story.org %></div>
             </div>
-        <% }else if(i+1 == json.storyList.length){ %>
-          <div class="one-third column">
-            <img src="assets/story-images/<%= story.img_filename %>" alt="<%= story.headline %>" />
-            <h3><%= story.headlines %></h3>
-            <div class="authors"><%= story.authors %></div>
-            <div class="org"><%= story.org %></div>
-          </div>
-          </div> <!-- This extra div closes the row-->
-        <% }else{ %>
-          <div class="one-third column">
-            <img src="assets/story-images/<%= story.img_filename %>" alt="<%= story.headline %>" />
-            <h3><%= story.headlines %></h3>
-            <div class="authors"><%= story.authors %></div>
-            <div class="org"><%= story.org %></div>
-          </div>
-        <% } %>
-      <% }); %>
+          <% } %>
+        <% }); %>
+      </div>
     </div>
     
     <div id="stats" class="slide"><h2>STATS</h2></div>
@@ -58,21 +63,28 @@
 
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
-    
+    var window_width = window.innerWidth;
     var sliderContainer = document.getElementById('slider');
-    //var translate = 0;
-    //var slide = document.getElementById('stories');
-    //sliderContainer.style.transform = "translateX(" + (0 - slide.offsetLeft) + "px" + ")";
+    var slide = document.getElementById('stories');
+    slide.style.width = window_width + 'px';
+    var slide_position = slide.offsetLeft;
+    sliderContainer.style.transform = "translateX(-" + slide_position + "px" + ")";
     
     var a = document.getElementById('slider-links').getElementsByTagName('a');
     for (var i = 0; i < a.length; i++) {
       var elem = a[i];
       elem.addEventListener('click', function(e){ //say this is an anchor
         e.preventDefault();
+        window_width = window.innerWidth;
         var slide_id = e.target.hash;
-        var slide = document.getElementById(slide_id.replace('#',''));
+        slide = document.getElementById(slide_id.replace('#',''));
+        slide.style.width = window_width + 'px';
         
-        var slide_position = slide.offsetLeft;
+        slide_position = slide.offsetLeft;
+        if(slide_id == '#map'){
+          var ifr = document.getElementsByName('slider-map')[0];
+          ifr.src = ifr.src;
+        };
         
         sliderContainer.style.transform = "translateX(-" + slide_position + "px" + ")";
       });
