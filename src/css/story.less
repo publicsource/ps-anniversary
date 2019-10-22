@@ -78,11 +78,19 @@
 #story-photo-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  grid-column-gap: 6px;
+  grid-column-gap: 10px;
   @media @mobile {
     grid-template-columns: 1fr;
   }
 }
+
+#photo-container {
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding-top: 5px;
+ }
 
 .top-margin {
   margin-top: 8em;
