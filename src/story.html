@@ -44,7 +44,15 @@
         <div class="eight columns offset-by-two">
           <div id="story-page-body">
             <% archieml.TesterStoryforWatershed.paragraphs.forEach(function(paragraph, i) { %>
-              <p> <%= paragraph.value %> </p>
+              <% if(paragraph.type == "text"){ %>
+                <p> <%= paragraph.value %> </p>
+              <%}else if(paragraph.type == "pullquote"){ %>
+                
+                <h3><%= paragraph.value.text %></h3>
+                
+              <%}else{ %>
+                <p>Does not compute</p>
+              <% } %>
             <% }); %> 
         </div>
       </div>
