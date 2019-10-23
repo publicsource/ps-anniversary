@@ -1,4 +1,8 @@
-headline: Headlines are great, sometimes they're super long like this one let's see maybe edit your stuff better
+headline: I Changed the Headline So I Could See If This Shit Is Actually Working
+author: April Johnston
+organization: 100 Days in Appalachia
+pub: Nov. 14, 2019
+[+paragraphs]
 In 1958, researchers from the University of Louisville and the Ohio River Valley Water Sanitation Commission gathered at a lock on the Monongahela River for routine collecting, counting and comparing of fish species.
 At the time, the best way to accomplish this was what’s called lock chamber sampling, or filling a 350-by-56-foot lock with river water, injecting it with cyanide and waiting for the dead fish to float to the top. Archaic, but effective.
 On this particular day, researchers opened the chamber to find one fish inside.
@@ -9,7 +13,10 @@ By the time Shulte began monitoring fish species in the 1990s, thanks to environ
 “It’s a functioning ecosystem now,” Shulte says.
 Functioning doesn’t mean perfect, however. As recently as 2015, the Environmental Protection Agency named the Ohio River one of the country’s most polluted. Industrial contaminants, including the “forever chemical” perfluorooctanoic acid, have been detected on a long stretches of the river and toxic algal blooms erupt when conditions are just right. Still, most of the time, the majority of the river’s 981 miles are ripe for recreation and fit for drinking after proper treatment.
 The same can’t always be said for the watershed.
+{.pullquote}
 "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident."
+{}
+
 The Ohio River drainage basin is an interconnected web of small rivers and creeks covering 205,000 square miles of largely rural, Applachian landscape and is home to 25 million people, many of whom are among the country’s poorest.
 In parts of the basin, acid mine drainage turns creeks the color of Orange Crush, agricultural runoff chokes streams with nutrients, and combined sewage and storm water pipe overflows fill waterways with dangerous bacteria.
 Watershed pollution in Appalachia, much of which has been caused by coal mining, is an ongoing environmental hazard that mimics the threat steel once once posed to big cities on the Ohio, threatening aquatic life, making recreation dangerous and — perhaps most critically — creating water unfit for human consumption.
@@ -17,3 +24,4 @@ It started with a slurry BarbiAnn Maynard stands on the porch of her home in Hun
 The black custard coated and killed everything in its path as it slithered for hundreds of miles and shifted into adjoining waterways, including the Tug Fork, Big Sandy and Ohio Rrivers. In Martin County, sludge crept into yards and across roads, creating pools five feet deep.
 “It was like mud pie,” says Maynard, “only instead of mud and water, it was mud and oil.”
 The slurry was an unprecedented disaster — 30 times larger than the Exxon Valdez oil spill more than a decade earlier — wiping out aquatic life in the creeks and cutting off drinking water to nearly 30,000 people.
+[]

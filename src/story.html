@@ -11,11 +11,11 @@
     <div id="story-page">
       <div class="row">
         <div class="eight columns offset-by-two">
-            <h1>Headlines are great, sometimes they're super long like this one let's see maybe edit your stuff better</h1>
+            <h1><%= t.renderMarkdown(archieml.TesterStoryforWatershed.headline) %></h1>
             <div class="wave-divider"></div>
-            <div class="authors">April Johnston</div>
-            <div class="org">100 Days in Appalachia</div>
-            <div class="date">Nov. 14, 2019</div>
+            <div class="authors"><%= t.renderMarkdown(archieml.TesterStoryforWatershed.author) %></div>
+            <div class="org"><%= t.renderMarkdown(archieml.TesterStoryforWatershed.organization) %></div>
+            <div class="date"><%= t.renderMarkdown(archieml.TesterStoryforWatershed.pub) %></div>
         </div>
       </div>
     </div>
@@ -43,7 +43,9 @@
       <div class="row">
         <div class="eight columns offset-by-two">
           <div id="story-page-body">
-            <%= t.renderMarkdown(archieml.TesterStoryforWatershed.headline) %>
+            <% archieml.TesterStoryforWatershed.paragraphs.forEach(function(paragraph, i) { %>
+              <p> <%= paragraph.value %> </p>
+            <% }); %> 
         </div>
       </div>
     </div>
