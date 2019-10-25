@@ -11,22 +11,22 @@
     <div id="story-page">
       <div class="row">
         <div class="eight columns offset-by-two">
-            <h1><%= t.renderMarkdown(archieml.TesterStoryforWatershed.headline) %></h1>
+            <h1><%= archieml.TesterStoryforWatershed.headline %></h1>
             <div class="wave-divider"></div>
-            <div class="authors"><%= t.renderMarkdown(archieml.TesterStoryforWatershed.author) %></div>
-            <div class="org"><%= t.renderMarkdown(archieml.TesterStoryforWatershed.organization) %></div>
-            <div class="date"><%= t.renderMarkdown(archieml.TesterStoryforWatershed.pub) %></div>
+            <div class="authors"><%= archieml.TesterStoryforWatershed.author %></div>
+            <div class="org"><%= archieml.TesterStoryforWatershed.organization %></div>
+            <div class="date"><%= archieml.TesterStoryforWatershed.pub %></div>
         </div>
       </div>
     </div>
   </div>
 
-  <img alt="#" src="https://ps-apps-assets.s3.amazonaws.com/watershed/water-equalizer/100Days_Water_9.png" />
+  <img alt="#" src="<%= archieml.TesterStoryforWatershed.feature_img.src %>" />
 
   <div class="container">
     <div class="row">
       <div class="eight columns offset-by-two">
-        <div id="caption">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation. (Photo by So and So/PublicSource)</div>
+        <div id="caption"><%= archieml.TesterStoryforWatershed.feature_img.caption %><</div>
       </div>
     </div>
   </div>
@@ -43,142 +43,77 @@
       <div class="row">
         <div class="eight columns offset-by-two">
           <div id="story-page-body">
-            <% archieml.TesterStoryforWatershed.paragraphs.forEach(function(paragraph, i) { %>
-              <% if(paragraph.type == "text"){ %>
-                <p> <%= paragraph.value %> </p>
-              <%}else if(paragraph.type == "pullquote"){ %>
+            <% archieml.TesterStoryforWatershed.sections.forEach(function(section, i) { %>
+            
+              <% if(section.type == "text"){ %>
+                <p> <%= t.renderMarkdown(section.value) %> </p>
                 
-                <h3><%= paragraph.value.text %></h3>
+              <% }else if(section.type == "h2"){ %>
+                <h2><%= section.value %></h2>
+                <div class="wave-divider-inline"></div>
                 
-              <%}else{ %>
-                <p>Does not compute</p>
+              <% }else if(section.type == "pullquote"){ %>
+                <h3><%= section.value %></h3>
+                <div class="wave-divider-pullquote">
+                  <span></span>
+                  <a href="#"><i class="fab fa-twitter fa-lg"></i></a>
+                  <a href="#"><i class="fab fa-facebook-f fa-lg"></i></a>
+                </div>
+                
+              <% }else if(section.type == "story_photo_grid"){ %>
+                </div> <!-- close story-page-body-->
+                </div> <!-- close eight columns-->
+                </div> <!-- close row-->
+                </div> <!-- close container-->
+                
+                <div id="story-photo-grid">
+                  <div>
+                    <img alt="#" src="<%= section.value.top_left %>" />
+                  </div>
+                  <div>
+                    <img alt="#" src="<%= section.value.top_right %>" />
+                  </div>
+                </div>
+                <div id="photo-container">
+                  <img alt="#" src="<%= section.value.big_bottom %>" />
+                </div>
+                <div class="container">
+                  <div class="row">
+                    <div class="eight columns offset-by-two">
+                      <div id="caption"><%= section.value.caption %></div>
+                    </div>
+                  </div>
+                </div>
+                <div class="container">
+                  <div class="row">
+                    <div class="eight columns offset-by-two">
+                      <div id="story-page-body">
+                        
+              <% }else if(section.type == "parallax_img"){ %>
+                </div> <!-- close story-page-body-->
+                </div> <!-- close eight columns-->
+                </div> <!-- close row-->
+                </div> <!-- close container-->
+                
+                <div class="parallax-divider">
+                  <div class="block">
+                    <img src="<%= section.value.src %>" data-speed="-1" class="img-parallax" />
+                    <img alt="#" src="https://ps-apps-assets.s3.amazonaws.com/watershed/wavy-lines-v3.png" />
+                  </div>
+                </div>
+                
+                <div class="container">
+                  <div class="row">
+                    <div class="eight columns offset-by-two">
+                      <div id="story-page-body">
               <% } %>
+              
             <% }); %> 
         </div>
       </div>
     </div>
   </div>
 
-  <div id="story-photo-grid">
-    <div>
-      <img alt="#" src="https://ps-apps-assets.s3.amazonaws.com/watershed/water-equalizer/100Days_Water_9.png" />
-    </div>
-    <div>
-      <img alt="#" src="https://ps-apps-assets.s3.amazonaws.com/watershed/water-equalizer/100Days_Water_9.png" />
-    </div>
-  </div>
-  <div id="photo-container">
-    <img alt="#" src="https://ps-apps-assets.s3.amazonaws.com/watershed/water-equalizer/100Days_Water_9.png" />
-  </div>
-  <div class="container">
-    <div class="row">
-      <div class="eight columns offset-by-two">
-        <div id="caption">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation. (Photo by So and So/PublicSource)</div>
-      </div>
-    </div>
-  </div>
-
-
-  <div class="container">
-      <div class="row">
-        <div class="eight columns offset-by-two">
-          <div id="story-page-body">
-            <p>When water service resumed later that year, bills came stamped with a warning: If you have a severely compromised immune system, have an infant, are pregnant, or are elderly, you may be at increased risk and should seek advice from your health care providers about drinking this water.</p>
-
-            <p>The first time Maynard received that warning, she was 24 years old and pregnant with her daughter. Nineteen years later, the water in Martin County still comes with warnings. </p>
-
-            <p>But the roots of the county’s water issues and the fixes are complicated.</p>
-
-            <p>They start at the treatment plant, where water pulled from the Tug Fork River is disinfected. Multiple municipal tests over the years show water in Martin County exceeds the maximum contaminant level for trihalomethane and haloacetic acid, both byproducts of the water’s treatment and both carcinogenic. Maynard believes her late mother’s multiple bouts with cancer are a direct result. But without such treatment, customers could be exposed to harmful bacteria and whatever residual effects of the coal slurry are still present in the waterway. </p>
-
-            <p>The other problem occurs when water leaves the plant and heads toward homes. Like much of eastern Kentucky and southern West Virginia, Martin County has an aging infrastructure problem and little money to fix it. In West Virginia, underfunded treatment plants and straight-line pipes have allowed raw sewage to collect in creeks, creating a dire public health crisis. In Martin County, the problem is broken pipes. Experts estimate nearly 70 percent of drinking water is lost while contaminants in the soil and groundwater are allowed to leach into the system. In coal country, says Maynard says, who knows what gets in.</p>
-
-            <p>For residents in Martin County, turning on the tap is always a surprise. Some days, it’s cloudy and smells so strongly of chlorine that it burns the eyes. Other days, water is the color of weak tea and sediment settles in toilet bowls and shower drains.  The result is that no one in Martin County trusts or drinks the water. Maynard drives 45 minutes to a spring at the Mingo-Logan Ccounty line in West Virginia to fill containers with fresh water to drink. She uses antibacterial hand soap as body wash in the shower and cleans her hands with disinfectant wipes rather than running them under the tap. She’d like nothing more than to follow her now-grown daughters out of the county and leave the water issues behind, but her land along the Tug Fork in Huntleyville has been in the family for five generations and she is her ill father’s caretaker. So she came up with another option. “I figured I could lay down and die or I could fight,” Maynard says. “And I’m a fighter.”</p>
-
-            <p>She’s become the face of the Martin County water crisis, both locally and in media outlets as far away as France and Japan. She has a vast and growing collection of water-related public documents, religiously attends municipal meetings and writes letters to the public service commission. Every few months, she drives across the state line to a Tennessee grocery store to pick up pallets of bottled water, which she then distributes to county residents. </p>
-
-            <p>But no amount of anger or advocacy can fix the underlying issue plaguing Martin County and others like it: inadequate funds. According to Martin County officials, it will take at least $10 million to address the water issues there. </p>
-
-            <p>As of early September 5, the county had received two grants — one from an abandoned mine fund and another the U.S. Army Corps of Engineers — to improve water supply infrastructure and service. Together, they totaled $4 million, or less than half of what’s needed.</p>
-
-            <p>Even with the money, Maynard doesn’t trust that the most pressing problems will be addressed, and her fears are perhaps well founded. In 2018, several members of the county’s water board quit after the state attorney general opened an investigation into mismanagement.</p>
-
-            <p>“There’s a lot of greed and corruption,” Maynard says. “And they haven’t used common sense.”</p>
-
-            <p>But even in areas of the river basin where sensical solutions to water pollution have been developed and instituted, the results are still subject to imminent financial threat. </p>
-
-            <h2>The great irony</h2>
-            <div class="wave-divider-inline"></div>
-
-            <p>Just off Township Road 1 in the unincorporated community of Carbondale, Ohio, a constant stream of acidic water seeps and sputters out of the abandoned AS-14 mine complex.</p>
-
-            <p>Before 2004, that water washed across a field and the road before dumping into Hewett Fork, turning it tangerine. It was so laden with acidity that snow plows had to be called in to scrape the resulting iron off the asphalt and fish kills became a regular occurrence where Hewett Fork flows into Raccoon Creek.</p>
-
-            <p>Today, the water from AS-14 instead flows into a tall green structure — known as the Carbondale doser — and turns a wheel, releasing pinches of powdery calcium oxide from the cylindrical tower above. The calcium oxide neutralizes the acid in the water as it makes its way through a concrete channel and into Hewett Fork. </p>
-
-            <p>The upshot of the doser is a rehabilitated waterway. Hewett Fork no longer causes fish kills and 90 miles of Raccoon Creek, which flows through southeastern Ohio. are now safe for recreation.</p>
-
-            <p>This process for remediating acid mine drainage in creeks isn’t a perfect one, says Jen Bowman, the director of environmental programs for Ohio University’s Voinovich School of Leadership and Public Affairs, which worked with the Ohio Department of Natural Resources on the doser project. It takes time for the calcium oxide to dissolve, so a section of Hewett Fork near the doser still runs rusty and lifeless before giving way to clean water.</p>
-
-            <p>And the doser is expensive. It cost nearly $400,000 to install, and the tower must be refilled with calcium oxide every six to eight weeks at a rate of about $40,000 per year. </p>
-
-            <p>There are other, cheaper ways to prevent abandoned coal mines from harming waterways, and in southeastern Ohio, where a loose loop of 11 villages and unincorporated communities is collectively known as the “Little Cities of Black Diamonds,” they’ve tried many of them. </p>
-
-            <p>A mine near Lake Hope State Park, less than 20 miles west of Athens, was sealed off nearly 20 years ago, preventing pollution from entering the water and creating a prime area for camping and water recreation. Closer to Athens, Bowman and her team at OU have created a steel slag leach bed system, which uses an alkaline byproduct of steel production to neutralize acidic water. </p>
-
-            <p>However, the funding for all of these projects could be in jeopardy.</p>
-
-            <p>Since 1977, the federal Abandoned Mine Land Reclamation Program has doled out money to states in order to soothe the scars of coal mining. But the money for that program is collected from a fee on coal companies that is set to expire in 2021. </p>
-
-            <p>This is the great irony of coal: the restoration of abandoned mines hinges on the perpetuation of coal mining.</p>
-
-            <p>With the abandoned mine land fund and its resulting projects in peril, university research institutes like Bowman’s have been joining environmental nonprofits in entrepreneurial efforts to ensure that remediation continues. </p>
-
-            <p>In Ohio, researchers at OU’s Russ College Department of Civil Engineering and experts at the nonprofit Rural Action have launched a pilot program that uses acid mine drainage pollution to create paint pigments. </p>
-
-            <p>In West Virginia, director Paul Ziemkiewicz and his team at the West Virginia Water Research Institute are extracting rare earth elements from acid mine drainage. These elements, which until now have largely been imported from China, are used in dozens of technological products, including cell phones, computers and televisions.</p>
-
-            <p>The hope is that these initiatives will eventually generate enough money to cover the remediation and abatement projects that have restored waterways.</p>
-
-            <p>“Maybe it gets us out of that vicious cycle of mining coal to fix the legacy of coal mining,” Bowman says. But even if that cycle can be broken, even if paint pigments and rare earth elements turn a profit and remediation projects are funded in perpetuity, that doesn’t fix the Ohio River drainage basin.  Because while coal is a dire problem, it is just one of many problems. Common sense and a willingness to do the right thing Every September since 2007, open-water swimmers have leaped off the Serpentine Wall at Cincinnati’s Sawyer Point and into the Ohio River. Their goal is to swim the 450 meters to the Kentucky shore and back again. This year, it didn’t happen. Days before the race was to commence, ORSANCO received reports of algae in the water, and the Kentucky Department for Public Health issued a harmful algae bloom advisory, effectively shutting down river recreation. It was the second bloom in the month of September. The first erupted near Huntington, West Virginia.Va., and grew 50 miles long before dissipating.  The blooms are a result of rains that wash fertilizer off farmland and into nearby creeks. Those nutrients eventually make their way to the Ohio River, where algae feed on them. That, by itself, wouldn’t be such a problem. But long periods without rain cause river flow to slow, allowing sediment to drop out of the water and sunlight to come in, creating the perfect conditions for rapid algae growth. “Prior to 2015, everyone thought algae blooms were a lake problem,” says Greg Younstrom, an environmental scientist and harmful algae bloom expert at ORSANCO.  That summer, more than 700 miles of toxic algae grew on the Ohio River in West Virginia and Ohio. River recreation ceased and, as blooms made their way into drinking water intakes, several companies had to switch to alternate water sources.  According to Youngstrom, the increasing frequency of algae blooms is related to the extreme weather conditions brought about by climate change. More intense rainfall followed by long, drought-like stretches are just what algae need to thrive.  There are simple ways to help curb the problem. In Ohio, Bowman is currently on a mission to create a 50-foot buffer at the edge of area waterways, basically, a barrier of untamed grasses, shrubs and trees that would prevent erosion and provide shade from sunlight.  It’s a slow process. In rural areas, farmers aren’t particularly interested in giving 50 feet of land that could be used for planting. Around Athens, residents have become accustomed to neatly manicured riverfront property and aren’t keen to let it go uncut. “A lot of it is just behavioral change,” Bowman says. Ziemkiewicz found that behavioral change was also the solution to a 2008 Morgantown, West Virginia-.Va., area crisis. That fall, salinity in the Monongahela River spiked, causing problems for public water supplies and, eventually, leading to a fish kill on Dunkard Creek.</p>
-        </div>
-      </div>
-    </div>
-  </div>
-
-
-<div class="parallax-divider">
-  <div class="block">
-    <img src="https://ps-apps-assets.s3.amazonaws.com/watershed/water-equalizer/100Days_Water_9.jpeg" data-speed="-1" class="img-parallax" />
-    <img alt="#" src="https://ps-apps-assets.s3.amazonaws.com/watershed/wavy-lines-v3.png" />
-  </div>
-</div>
-
-<div class="container bottom-margin">
-  <div id="story-page">
-    <div class="row">
-      <div class="eight columns offset-by-two">
-        <div id="story-page-body">
-            <p>While government and industry argued over responsibility — “Pennsylvania blamed West Virginia, West Virginia blamed Pennsylvania; coal companies blamed oil and gas, oil and gas blamed coal companies” — Ziemkiewicz and West Virginia Water Research Institute Assistant Director Melissa O’Neal developed a network of watershed groups willing to monitor the total dissolved solids that were causing the rising salinity.</p>
-
-            <p>Their findings showed that while the source of total dissolved solids was mine water, the salinity wasn’t actually the mine’s fault. The weather was especially dry that season, resulting in low flows. They developed a model that showed coal companies how many total dissolved solids could be safely released based on river flow.</p>
-
-            <p>“With Melissa’s data, a spreadsheet model, some common sense and the willingness of industry to do the right thing, we solved it,” Ziemkiewicz says.</p>
-
-            <p>It’s a lesson he tries to impress upon fellow researchers and scientists because he believes if true progress is to be made in the fight for clean water, it will require an abundance of data and a lack of political agenda, especially as burgeoning industries bring about new water challenges.</p>
-
-            <p>“We need to be fair arbiters,” Ziemkiewicz says. “If we just sit in our ivory towers and write journal articles and discuss whether the world is moving in the direction we think it should, we aren’t fixing the problem.”</p>
-
-            <p><em>This story is written by Author Name.</em></p>
-
-            <p><em>This person fact-checked the story.</em></p>
-
-            <p><em>This is a collaborative project</em></p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
 
   <%= t.include("partials/_footer.html") %>
 
