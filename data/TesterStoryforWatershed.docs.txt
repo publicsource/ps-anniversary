@@ -18,7 +18,7 @@ The same can’t always be said for the watershed.
 pullquote: "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident."
 The Ohio River drainage basin is an interconnected web of small rivers and creeks covering 205,000 square miles of largely rural, Applachian landscape and is home to 25 million people, many of whom are among the country’s poorest.
 In parts of the basin, acid mine drainage turns creeks the color of Orange Crush, agricultural runoff chokes streams with nutrients, and combined sewage and storm water pipe overflows fill waterways with dangerous bacteria.
-Watershed pollution in Appalachia, much of which has been caused by coal mining, is an ongoing environmental hazard that mimics the threat steel once once posed to big cities on the Ohio, threatening aquatic life, making recreation dangerous and — perhaps most critically — creating water unfit for human consumption.
+Watershed pollution [in Appalachia](http://localhost:8000/story.html#), much of which has been caused by coal mining, is an ongoing environmental hazard that mimics the threat steel once once posed to big cities on the Ohio, threatening aquatic life, making recreation dangerous and — perhaps most critically — creating water unfit for human consumption.
 It started with a slurry BarbiAnn Maynard stands on the porch of her home in Huntleyville, Kentuckyy., population 188, and points across the two-lane road, where three houses perch on a tree-speckled mountainside. “That one — dementia. This one — dementia. That one over there — dementia. My dad — dementia,” she says. “You can’t tell me that’s not because of the water.” On Oct. 11, 2000, 300 million gallons of coal slurry broke through a reservoir in Martin County, Kentucky, flooding the abandoned mine shafts below and rushing out into the waters of Wolf Creek and Coldwater Fork.
 The black custard coated and killed everything in its path as it slithered for hundreds of miles and shifted into adjoining waterways, including the Tug Fork, Big Sandy and Ohio Rrivers. In Martin County, sludge crept into yards and across roads, creating pools five feet deep.
 “It was like mud pie,” says Maynard, “only instead of mud and water, it was mud and oil.”
@@ -66,7 +66,7 @@ Their findings showed that while the source of total dissolved solids was mine w
 “With Melissa’s data, a spreadsheet model, some common sense and the willingness of industry to do the right thing, we solved it,” Ziemkiewicz says.
 It’s a lesson he tries to impress upon fellow researchers and scientists because he believes if true progress is to be made in the fight for clean water, it will require an abundance of data and a lack of political agenda, especially as burgeoning industries bring about new water challenges.
 “We need to be fair arbiters,” Ziemkiewicz says. “If we just sit in our ivory towers and write journal articles and discuss whether the world is moving in the direction we think it should, we aren’t fixing the problem.”
-This story is written by Author Name.
-This person fact-checked the story.
-This is a collaborative project
+***This story is written by Author Name.***
+***This person fact-checked the story.***
+***This is a collaborative project***
 []

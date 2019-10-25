@@ -46,8 +46,7 @@
             <% archieml.TesterStoryforWatershed.sections.forEach(function(section, i) { %>
             
               <% if(section.type == "text"){ %>
-                <p> <%= t.renderMarkdown(section.value) %> </p>
-                
+                <p> <%= t.renderMarkdown(archieml.TesterStoryforWatershed.sections[i].value) %> </p>
               <% }else if(section.type == "h2"){ %>
                 <h2><%= section.value %></h2>
                 <div class="wave-divider-inline"></div>
