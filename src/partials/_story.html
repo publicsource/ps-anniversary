@@ -31,21 +31,6 @@
 </div>
 
 <div class="container">
-  <div class="row">
-    <div id="story-page-body">
-      <div class="six columns offset-by-three">
-          <p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.</p>
-          <p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.</p>
-          <p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.</p>
-        </div>
-        <div class="three columns">
-          <img alt="#" src="https://ps-apps-assets.s3.amazonaws.com/watershed/water-equalizer/100Days_Water_9.png" />
-        </div>
-    </div>
-  </div>
-</div>
-
-<div class="container">
     <div class="row">
       <div class="six columns offset-by-three">
         <div id="story-page-body">
@@ -112,7 +97,7 @@
                   <div class="six columns offset-by-three">
                     <div id="story-page-body">
 
-              <% }else if(section.type == "two_columns"){ %>
+              <% }else if(section.type == "two_columns-left"){ %>
                 </div> <!-- close story-page-body-->
                 </div> <!-- close eight columns-->
                 </div> <!-- close row-->
@@ -121,13 +106,13 @@
                 <div class="container">
                   <div class="row">
                     <div id="story-page-body">
-                      <div class="six columns offset-by-three">
+                      <div class="three columns">
+                        <img alt="#" style="margin-bottom: 1em;" src="<%= section.value.two_column_image %>" />
+                      </div>
+                      <div class="six columns">
                         <p><%= section.value.text1 %></p>
                         <p><%= section.value.text2 %></p>
                       </div>
-                    <div class="three columns">
-                      <img alt="#" style="margin-bottom: 1em;" src="<%= section.value.two_column_image %>" />
-                    </div>
                     </div>
                   </div>
                 </div>
@@ -136,6 +121,31 @@
                   <div class="row">
                     <div class="six columns offset-by-three" style="margin-top: -1.5em !important;">
                       <div id="story-page-body">
+
+                        <% }else if(section.type == "two_columns-right"){ %>
+                          </div> <!-- close story-page-body-->
+                          </div> <!-- close eight columns-->
+                          </div> <!-- close row-->
+                          </div> <!-- close container-->
+
+                          <div class="container">
+                            <div class="row">
+                              <div id="story-page-body">
+                                <div class="three columns">
+                                  <img alt="#" style="margin-bottom: 1em;" src="<%= section.value.two_column_image %>" />
+                                </div>
+                                <div class="six columns">
+                                  <p><%= section.value.text1 %></p>
+                                  <p><%= section.value.text2 %></p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+
+                          <div class="container">
+                            <div class="row">
+                              <div class="six columns offset-by-three" style="margin-top: -1.5em !important;">
+                                <div id="story-page-body">
             <% } %>
 
           <% }); %>
