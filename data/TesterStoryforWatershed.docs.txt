@@ -4,6 +4,8 @@ organization: 100 Days in Appalachia
 pub: Nov. 14, 2019
 feature_img.src: https://ps-apps-assets.s3.amazonaws.com/watershed/water-equalizer/100Days_Water_9.png
 feature_img.caption: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation. (Photo by This and That/PublicSource)
+twitterlink.src: #
+facebooklink.src: #
 [+sections]
 In 1958, researchers from the University of Louisville and the Ohio River Valley Water Sanitation Commission gathered at a lock on the Monongahela: River for routine collecting, counting and comparing of fish species.
 At the time, the best way to accomplish this was what’s called lock chamber sampling, or filling a 350-by-56-foot lock with river water, injecting it with cyanide and waiting for the dead fish to float to the top. Archaic, but effective.
