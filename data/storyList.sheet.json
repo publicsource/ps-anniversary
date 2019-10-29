@@ -43,5 +43,50 @@
     "org": "100 Days in Appalachia",
     "img_filename": "example-story-img.jpg",
     "link": "#"
+  },
+  {
+    "story_id": 105,
+    "headlines": "More headlines, more things",
+    "publish_date": "December 2, 2019",
+    "authors": "Alexandra Kanik",
+    "org": "Louisville Public Media",
+    "img_filename": "example-story-img.jpg",
+    "link": "#"
+  },
+  {
+    "story_id": 106,
+    "headlines": "How to eat make coffee the right way",
+    "publish_date": "December 3, 2019",
+    "authors": "Alexandra Kanik",
+    "org": "Louisville Public Media",
+    "img_filename": "example-story-img.jpg",
+    "link": "#"
+  },
+  {
+    "story_id": 107,
+    "headlines": "I'd like to be camping right now",
+    "publish_date": "December 4, 2019",
+    "authors": "Alexandra Kanik",
+    "org": "Louisville Public Media",
+    "img_filename": "example-story-img.jpg",
+    "link": "#"
+  },
+  {
+    "story_id": 108,
+    "headlines": "I think I'd rather be a the beach than coding right now",
+    "publish_date": "December 5, 2019",
+    "authors": "Alexandra Kanik",
+    "org": "Louisville Public Media",
+    "img_filename": "example-story-img.jpg",
+    "link": "#"
+  },
+  {
+    "story_id": 109,
+    "headlines": "How to be at the beach instead of coding",
+    "publish_date": "December 6, 2019",
+    "authors": "Alexandra Kanik",
+    "org": "Louisville Public Media",
+    "img_filename": "example-story-img.jpg",
+    "link": "#"
   }
 ]

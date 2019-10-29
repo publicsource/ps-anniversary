@@ -294,7 +294,11 @@
 
               <div class="container more-stories-container">
                 <h2>MORE STORIES</h2>
-                <div class="more-stories-row">
+                <div class="more-stories-row" id="slider">
+                  <div class="story-btns">
+                    <a class="slider-btn" id="slider-prev" href="#"><i class="fab fa-angle-double-left fa-lg"></i></a>
+                    <a class="slider-btn" id="slider-next" href="#"><i class="fab fa-angle-double-right fa-lg"></i></a>
+                  </div>
                   <% storyList.forEach(function(slide, i) { %>
                     <div class="more-stories-story">
                       <img src="assets/story-images/<%= slide.img_filename %>" alt="<%= slide.headline %>" />
@@ -320,52 +324,21 @@
 
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
-    var window_width = window.innerWidth;
-    
-    var slide = document.getElementById('stories');
-    slide.style.width = window_width + 'px';
-    
-    var slide_position = slide.offsetLeft;
-    
     var sliderContainer = document.getElementById('slider');
-    sliderContainer.style.transform = "translateX(-" + slide_position + "px" + ")";
     
-    var a = document.getElementById('slider-links').getElementsByTagName('a');
-    var lastClicked = document.getElementById('slider-links').getElementsByClassName('active')[0];
-    console.log(lastClicked);
+    var sliderNext = document.getElementById('slider-next');
+    var sliderPrev = document.getElementById('slider-prev');
     
-    for (var i = 0; i < a.length; i++) {
-      var elem = a[i];
-      elem.addEventListener('click', function(e){ //say this is an anchor
-        e.preventDefault();
-        
-        lastClicked.classList.remove('active');
-        lastClicked = e.srcElement;
-        lastClicked.classList.add('active');
-        
-        window_width = window.innerWidth;
-        slide.classList.remove('active-slide');
-        var slide_id = e.target.hash;
-        slide = document.getElementById(slide_id.replace('#',''));
-        slide.classList.add('active-slide');
-        slide.style.width = window_width + 'px';
-        
-        slide_position = slide.offsetLeft;
-        if(slide_id == '#map'){
-          var ifr = document.getElementsByName('slider-map')[0];
-          ifr.src = ifr.src;
-        };
-        
-        sliderContainer.style.transform = "translateX(-" + slide_position + "px" + ")";
-      });
-    }
     
-    window.addEventListener('resize', function(event) {
-      console.log('resizing');
-      window_width = window.innerWidth;
-      
-      slide = document.getElementsByClassName('active-slide')[0];
-      slide.style.width = window_width + 'px';
+    sliderNext.addEventListener('click', function(e){ 
+      e.preventDefault();      
+      sliderContainer.style.transform = "translateX(-20px)";
     });
+    
+    sliderPrev.addEventListener('click', function(e){ 
+      e.preventDefault();      
+      sliderContainer.style.transform = "translateX(20px)";
+    });
+    
   });
 </script>
