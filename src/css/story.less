@@ -1,3 +1,5 @@
+ //Text
+
 #story-page {
   margin-top: 3em;
 }
@@ -48,7 +50,6 @@
   color: #000;
 }
 
-
 #story-page .authors{
   font-family: "LatoBold";
   color:@goodriver-bright;
@@ -68,21 +69,7 @@
   color: grey;
 }
 
-#caption {
-  font-family: "CrimsonRoman";
-  text-align: center;
-  color: grey;
-  padding-bottom: 3em;
-}
-
-#story-photo-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-column-gap: 10px;
-  @media @mobile {
-    grid-template-columns: 1fr;
-  }
-}
+//Photos
 
 #photo-container {
   position: relative;
@@ -92,6 +79,47 @@
   padding-top: 5px;
  }
 
+ #photo-container-flip {
+   position: relative;
+   width: 100%;
+   margin: 0 auto;
+   box-sizing: border-box;
+   padding-top: 2.5em;
+  }
+
+ #story-photo-grid-flip {
+   display: grid;
+   grid-template-columns: repeat(2, 1fr);
+   grid-column-gap: 10px;
+   margin-top: .3em;
+   @media @mobile {
+     grid-template-columns: 1fr;
+   }
+ }
+
+#story-photo-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-column-gap: 10px;
+  margin-top: 2.5em;
+  @media @mobile {
+    grid-template-columns: 1fr;
+  }
+}
+
+#story-single-photo {
+  margin: 2.5em 0 0em 0;
+ }
+
+ #caption {
+   font-family: "CrimsonRoman";
+   text-align: center;
+   color: grey;
+   padding-bottom: 2em;
+ }
+
+ //Padding/margin
+
 .top-margin {
   margin-top: 8em;
 }
@@ -100,9 +128,12 @@
   margin-bottom: 5em;
 }
 
+ //Share icons
+
 .share-icons-container {
   text-align: center;
   margin-bottom: 1em;
+  margin-top: 1em;
 }
 
 .share-icons {
