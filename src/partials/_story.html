@@ -291,14 +291,17 @@
               </div> <!-- close eight columns-->
               </div> <!-- close row-->
               </div> <!-- close container-->
+              
+              <div class="container">
+                <h2>MORE STORIES</h2>
+                <div class="story-btns">
+                  <a class="slider-btn" id="slider-prev" href="#"><i class="fas fa-angle-double-left fa-lg"></i></a>
+                  <a class="slider-btn" id="slider-next" href="#"><i class="fas fa-angle-double-right fa-lg"></i></a>
+                </div>
+              </div>
 
               <div class="container more-stories-container">
-                <h2>MORE STORIES</h2>
                 <div class="more-stories-row" id="slider">
-                  <div class="story-btns">
-                    <a class="slider-btn" id="slider-prev" href="#"><i class="fab fa-angle-double-left fa-lg"></i></a>
-                    <a class="slider-btn" id="slider-next" href="#"><i class="fab fa-angle-double-right fa-lg"></i></a>
-                  </div>
                   <% storyList.forEach(function(slide, i) { %>
                     <div class="more-stories-story">
                       <img src="assets/story-images/<%= slide.img_filename %>" alt="<%= slide.headline %>" />
@@ -329,15 +332,18 @@
     var sliderNext = document.getElementById('slider-next');
     var sliderPrev = document.getElementById('slider-prev');
     
+    var translate = 0;
     
     sliderNext.addEventListener('click', function(e){ 
-      e.preventDefault();      
-      sliderContainer.style.transform = "translateX(-20px)";
+      e.preventDefault();
+      translate -= 200;
+      sliderContainer.style.transform = "translateX(" + translate + "px" + ")";
     });
     
     sliderPrev.addEventListener('click', function(e){ 
-      e.preventDefault();      
-      sliderContainer.style.transform = "translateX(20px)";
+      e.preventDefault();  
+      translate += 200;    
+      sliderContainer.style.transform = "translateX(" + translate + "px" + ")";
     });
     
   });
