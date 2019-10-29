@@ -300,7 +300,7 @@
                 </div>
               </div>
 
-              <div class="container more-stories-container">
+              <div class="container more-stories-container" id="sliderContainer">
                 <div class="more-stories-row" id="slider">
                   <% storyList.forEach(function(slide, i) { %>
                     <div class="more-stories-story">
@@ -327,23 +327,33 @@
 
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
-    var sliderContainer = document.getElementById('slider');
+    var sliderContainer = document.getElementById('sliderContainer');
+    var slider = document.getElementById('slider');
+    var sliderWidth = sliderContainer.scrollWidth - 800;
     
     var sliderNext = document.getElementById('slider-next');
     var sliderPrev = document.getElementById('slider-prev');
     
     var translate = 0;
-    
+        
     sliderNext.addEventListener('click', function(e){ 
       e.preventDefault();
-      translate -= 200;
-      sliderContainer.style.transform = "translateX(" + translate + "px" + ")";
+      console.log('sliderWidth: ', sliderWidth);
+      console.log('translate: ', translate);
+      if(Math.abs(translate) < sliderWidth){
+        translate -= 200;
+        slider.style.transform = "translateX(" + translate + "px" + ")";
+      }
     });
     
     sliderPrev.addEventListener('click', function(e){ 
-      e.preventDefault();  
-      translate += 200;    
-      sliderContainer.style.transform = "translateX(" + translate + "px" + ")";
+      e.preventDefault();
+      console.log('sliderWidth: ', sliderWidth);
+      console.log('translate: ', translate);
+      if(translate < 0){ 
+        translate += 200;    
+        slider.style.transform = "translateX(" + translate + "px" + ")";
+      }
     });
     
   });

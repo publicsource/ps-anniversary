@@ -162,24 +162,32 @@
   scroll-snap-align: start;
 }
 
+.more-stories-story:first-child {
+  margin-left:0px;
+}
+
 .more-stories-story img{
   width:100%;
 }
 
 .slider-btn{
   position: absolute;
-  top: 50px;
+  top: 100px;
   bottom:0;
-  width: 30px;
-  height:20px;
+  padding:17px 7px 0px 15px;
+  width: 50px;
+  height:50px;
+  border-radius:50px;
+  background-color: rgba(255,255,255,0.3);
+  //background-color: rgba(0,0,0,.3);
 }
 
 #slider-prev{
-  left:0px;
+  left:10px;
   z-index: 1;
 }
 
 #slider-next{
-  right:0px;
+  right:10px;
   z-index: 1;
 }
