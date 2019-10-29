@@ -7,7 +7,7 @@
 <body>
   <%= t.include("partials/_main_nav.html") %>
 
-  <%= t.include("partials/_story.html", {'story': archieml.TesterStoryforWatershed}) %>
+  <%= t.include("partials/_story.html", {'story': archieml.TesterStoryforWatershed, 'storyList': json.storyList}) %>
 
   <%= t.include("partials/_footer.html") %>
 

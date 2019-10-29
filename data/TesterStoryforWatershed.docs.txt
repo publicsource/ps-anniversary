@@ -57,7 +57,6 @@ text2:The other problem occurs when water leaves the plant and heads toward home
 two_column_image: https://ps-apps-assets.s3.amazonaws.com/watershed/water-equalizer/100Days_Water_9.png
 {}
 She’s become the face of the Martin County water crisis, both locally and in media outlets as far away as France and Japan. She has a vast and growing collection of water-related public documents, religiously attends municipal meetings and writes letters to the public service commission. Every few months, she drives across the state line to a Tennessee grocery store to pick up pallets of bottled water, which she then distributes to county residents.
-more_stories: TesterStoryforWatershed
 But no amount of anger or advocacy can fix the underlying issue plaguing Martin County and others like it: inadequate funds. According to Martin County officials, it will take at least $10 million to address the water issues there.
 As of early September 5, the county had received two grants — one from an abandoned mine fund and another the U.S. Army Corps of Engineers — to improve water supply infrastructure and service. Together, they totaled $4 million, or less than half of what’s needed.
 Even with the money, Maynard doesn’t trust that the most pressing problems will be addressed, and her fears are perhaps well founded. In 2018, several members of the county’s water board quit after the state attorney general opened an investigation into mismanagement.
