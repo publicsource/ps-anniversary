@@ -1,5 +1,6 @@
 [
   {
+    "story_id": 100,
     "headlines": "Headlines are great, sometimes they're super long like this one let's see maybe edit your stuff better",
     "publish_date": "November 9, 2019",
     "authors": "Rance McCullough",
@@ -8,6 +9,7 @@
     "link": "#"
   },
   {
+    "story_id": 101,
     "headlines": "This is a headline",
     "publish_date": "November 11, 2019",
     "authors": "Natasha Vicens",
@@ -16,6 +18,7 @@
     "link": "#"
   },
   {
+    "story_id": 102,
     "headlines": "This is another headline, something longer",
     "publish_date": "November 19, 2019",
     "authors": "Alexandra Kanik",
@@ -24,6 +27,7 @@
     "link": "#"
   },
   {
+    "story_id": 103,
     "headlines": "Oh look, this one has a Proper Noun in it",
     "publish_date": "November 24, 2019",
     "authors": "Raul Carivagio",
@@ -32,6 +36,7 @@
     "link": "#"
   },
   {
+    "story_id": 104,
     "headlines": "How you headline: Headlines with colons",
     "publish_date": "December 1, 2019",
     "authors": "Paul Rubins",
