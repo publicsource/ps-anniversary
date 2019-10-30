@@ -18,7 +18,7 @@ var fullpage = require("./lib/fullpage.extensions.min");
 var myFullpage = new fullpage('#fullpage', {
     licenseKey: 'D8303C79-0BD64932-AEC886F3-4E1AAB2D',
     anchors: ['page1', 'page2', 'page3', 'page4'],
-    sectionsColor: ['#000000', '#000000', '#000000', '#fffff'],
+    sectionsColor: ['#000000', '#202020', '#000000', '#fffff'],
     slidesNavigation:true,
     navigation: true,
     navigationPosition: 'right',
