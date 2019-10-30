@@ -6,11 +6,21 @@
 </head>
 <body>
   <%= t.include("partials/_main_nav.html") %>
-  <%= t.include("partials/_intro.html") %>
-  <%= t.include("partials/_intro_map.html") %>
-  <%= t.include("partials/_intro_about.html") %>
-  <%= t.include("partials/_story_list.html") %>
-  <%= t.include("partials/_footer.html") %>
+  <div id="fullpage">
+    <div class="section" id="section0">
+      <%= t.include("partials/_intro.html") %>
+    </div>
+    <div class="section" id="section1">
+      <h1 style="text-align:center">Text here</h1>
+    </div>
+    <div class="section" id="section2">
+      <%= t.include("partials/_intro_map.html") %>
+    </div>
+  </div>
+    <!-- <%= t.include("partials/_intro_about.html") %> -->
+      <%= t.include("partials/_story_list.html") %>
+      <%= t.include("partials/_footer.html") %>
+  </div>
   <script src="app.js" async></script>
   <%= t.include("partials/_analytics.html") %>
 </body>
