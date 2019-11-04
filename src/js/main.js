@@ -28,7 +28,7 @@ var myFullpage = new fullpage('#fullpage', {
     // animateAnchor: false,
     autoScrolling: false,
     keyboardScrolling: true,
-    scrollOverflow: true,
+    scrollOverflow: false,
     loopHorizontal:false,
     afterResize: function(width, height){
   		var fullpageContainer = this;
