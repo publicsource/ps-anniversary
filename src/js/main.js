@@ -8,11 +8,11 @@ require("./lib/scrolloverflow.js");
 // Optional. When using scrollOverflow:true
 // require('fullpage.js/vendors/scrolloverflow');
 
-//var fullpage = require('fullpage.js');
+var fullpage = require('fullpage.js');
 
 // When using fullPage extensions replace the previos require
 // of fullpage.js for this file
-var fullpage = require("./lib/fullpage.extensions.min");
+// var fullpage = require("./lib/fullpage.extensions.min");
 
 // Initializing it
 var myFullpage = new fullpage('#fullpage', {
@@ -28,7 +28,7 @@ var myFullpage = new fullpage('#fullpage', {
     // animateAnchor: false,
     autoScrolling: false,
     keyboardScrolling: true,
-    scrollOverflow: false,
+    // scrollOverflow: false,
     loopHorizontal:false,
     afterResize: function(width, height){
   		var fullpageContainer = this;

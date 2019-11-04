@@ -1,5 +1,5 @@
 /*!
- * fullPage 3.0.4
+ * fullPage 3.0.7
  * https://github.com/alvarotrigo/fullPage.js
  *
  * @license GPLv3 for open source use only
@@ -8,13 +8,6 @@
  *
  * Copyright (C) 2018 http://alvarotrigo.com/fullPage - A project by Alvaro Trigo
  */
- html,
- body,
- #fullpage,
- .section{
-     height: 100%;
- }
-
 html.fp-enabled,
 .fp-enabled body {
     margin: 0;
@@ -80,12 +73,12 @@ html.fp-enabled,
 .fp-controlArrow.fp-prev {
     left: 15px;
     width: 0;
-    border-width: 33.5px 25px 33.5px 0;
+    border-width: 38.5px 34px 38.5px 0;
     border-color: transparent #fff transparent transparent;
 }
 .fp-controlArrow.fp-next {
     right: 15px;
-    border-width: 33.5px 0 33.5px 25px;
+    border-width: 38.5px 0 38.5px 34px;
     border-color: transparent transparent transparent #fff;
 }
 .fp-scrollable {
@@ -103,7 +96,6 @@ html.fp-enabled,
     transition: none !important;
 }
 #fp-nav {
-    display: none;
     position: fixed;
     z-index: 100;
     margin-top: -32px;
@@ -136,7 +128,6 @@ html.fp-enabled,
 }
 #fp-nav ul,
 .fp-slidesNav ul {
-  display: none;
   margin: 0;
   padding: 0;
 }
