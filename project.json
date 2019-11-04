@@ -15,9 +15,9 @@
   "scripts": {
     "src/js/main.js": "build/app.js"
   },
-  "title": "",
-  "description": "",
-  "url": "",
+  "title": "Good River: Stories of the Ohio",
+  "description": "Good River is a reporting project by seven newsrooms across the Ohio River Watershed",
+  "url": "https://www.ohiowatershed.org/",
   "image": "assets/logo.png",
   "sheets": [
     "1NffSkcgsgeiLprZVY42AXeJgEBaLaVTIQx2A0OLluvE"
