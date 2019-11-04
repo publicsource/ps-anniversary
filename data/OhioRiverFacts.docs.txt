@@ -1,0 +1,55 @@
+[+sections]
+h2: Geography
+
+**Length -** The Ohio River runs 981 miles from the confluence of the Allegheny and Monongahela rivers in Pittsburgh, Pennsylvania, to Cairo, Illinois, where it joins the Mississippi. It flows through or forms partial borders of six states: Pennsylvania, Ohio, West Virginia, Kentucky, Indiana and Illinois.
+
+**Watershed -** The land area where all flowing water eventually reaches, the Ohio River watershed covers [205,000 square miles](http://www.orsanco.org/river-facts/) across 15 states. States within the watershed include: Pennsylvania, Ohio, Kentucky, West Virginia, Indiana, Illinois, Tennessee, New York, Virginia, Maryland, Georgia, Mississippi, Alabama, North Carolina and South Carolina.
+
+**Tributaries -** The largest rivers flowing into the Ohio include Tennessee River, Cumberland River, Wabash River, Allegheny River, Monongahela River, Kanawha River and Allegheny River.
+
+**Pollution -** The Ohio is commonly cited as the most-polluted river in the United States. According to reporting from the Louisville Courier-Journal, this is based on analysis of the U.S. EPA’s Toxic Release Inventory [TRI], which tracks industrial discharges. According to 2013 TRI data, 23 million pounds of toxic chemicals were released into the Ohio River, outpacing the Mississippi and New rivers for pollution. The Ohio River Valley Water Sanitation Commission [ORSANCO], which compiled the report on TRI data, warns that the numbers don’t account for river volume or chemical concentrations.
+
+**Drinking water -** The river supplies about five million people with drinking water. That is complicated by the heavy industrial and commercial use of the river and their potential for hazardous spills that can contaminate drinking water supplies.
+h2: Regulation
+
+**ORSANCO** is an interstate commission established to control water pollution in the basin. Commissioners are appointed by the federal government and the governors of eight member states: Illinois, Indiana, Kentucky, New York, Ohio, Pennsylvania, Virginia and West Virginia.
+
+ORSANCO has for decades set standards for pollutants discharged into the river. Environmental advocates credit basin-wide standards for improving water quality along the length of the river. The commission controversially voted in 2019 to make those standards voluntary for states. Those in favor of the revision say water quality is still protected by U.S. Environmental Protection Agency [EPA] and state regulations and states now have more flexibility in meeting those standards. Opponents, including some ORSANCO commissioners, say more than 100 ORSANCO standards are not covered by several member states. 
+
+h2: Pollutants 
+
+**Mercury** is a neurotoxin that causes nerve and brain damage, especially in children. People are most commonly exposed through eating contaminated fish. A 2018 ORSANCO assessment found mercury does not impair safe fish consumption along the entire Ohio River.
+    However, just how much mercury is in the Ohio and how safe the fish are is a point of controversy. The Cincinnati Enquirer reported in 2015 that “annual mercury discharges into the Ohio River rose by nearly 50 percent from 2007 to 2013,” according to a report issued in March by the commission. The commission's sampling showed an increase of 92 to 132 pounds of mercury. In a move that made environmental advocates mistrustful, ORSANCO released updated data in June that showed there was less mercury in the water than the earlier report found and the new level met mercury standards.”
+    ORSANCO in 2003 proposed a ban on “mixing zones” that industrial facilities like coal plants use to discharge high concentrations of mercury that are diluted downstream to legal levels. The commission then gave industries 10 years to comply with the ban before voting to scrap it completely. 
+    The commission is conducting a basin-wide mercury study to estimate loads and sources of mercury “for a better understanding of the future management needs regarding mercury in the Ohio River.” They expect to complete it in 2019. 
+
+**PFAS** is a group of as many as 4,000 per- and polyfluoroalkyl substances that include PFOA (known as C8) and PFOS. The chemicals have been around for decades but have only recently garnered attention from regulators. Some of the chemicals are in consumer products like Teflon and Gore-Tex. The chemicals persist in the environment and human body without breaking down and have been tied to adverse health effects, including high cholesterol and certain cancers. The EPA released its PFAS Action Plan in 2019.
+    PFAS have become a public health issue through contaminated surface and drinking water. A recent study by the Environmental Working Group found PFAS in drinking water supplies of 19 million people in 43 states. Perfluorinated compounds have been detected in water supplies throughout the Ohio Valley; Ohio River Valley ReSource has mapped positive tests in some states.
+    University of Cincinnati researchers found high PFOA levels in mid-Ohio River Valley residents. “The exposure source was likely from drinking water contaminated by industrial discharges upriver,” according to a release from the university. 
+
+Secrets, denials and toxic water: C8 in the Ohio River Valley, Fayetteville Observer
+Ohio Valley ReSource C8 archives
+SEJ Primer on PFAS and a PFAS database
+Environmental Health News and PublicSource partnership on PFAS reporting
+
+**Nutrients** like nitrogen and phosphorous impact the Ohio River’s wildlife and drinking water supplies. The 2008 Gulf Hypoxia Action Plan labeled the Ohio as the largest contributor of nutrients to the Gulf of Mexico by way of the Mississippi River. Nutrients enter the Ohio through agricultural runoff and overflows and leaks from aging and overwhelmed combined sewer systems in many cities along the river.
+        Pittsburgh, Cincinnati, Louisville, Evansville and other cities on the Ohio, as well as many more in the watershed, have combined storm and sanitary sewers. When heavy rainfall overwhelms combined sewers, raw or partially treated sewage flows directly into waterways, causing elevated nutrient and bacteria concentrations. 
+        Nutrients fuel harmful algal blooms, which the Ohio Environmental Council says are increasingly reported on the Ohio River. Water utilities reported taste and odor issues during blooms in 2010 and 2012, according to ORSANCO. A 600-mile long bloom of cyanobacteria on the river in 2015 shut down swimming and forced water utilities to use costly additional treatment steps. 
+
+It’s Not Just Lake Erie. The Ohio River Has a Major Algae Problem, Too, Allegheny Front
+
+h2: Climate Change
+Climate studies suggest the Ohio River basin will experience rising temperatures and changes in precipitation throughout the next century. Modeling in a 2017 U.S. Army Corps of Engineers climate study suggests temperatures could rise one-half degree per decade until 2040, then one degree per decade until 2099. Regions north and west of the Ohio River are expected to see decreasing rain and lower streamflows in those sub-basins, while areas to the northeast, east and south will see more rain and increasing streamflows.
+“The potential impacts to infrastructure, energy production, and both aquatic and terrestrial ecosystems over the three 30-year time periods range from minimal in some … sub-basins to dramatic and potentially devastating in others,” according to the study. Those impacts include threats to flood control systems, power plant cooling intakes and fish and mussel communities.
+
+Climate Change Increasing Flood Risks As Louisville’s Protection Decays, WPFL
+Climate report predicts dramatic changes for Ohio River basin, Pittsburgh Post-Gazette
+h2: Economy
+**Transportation -** The Ohio has been used as a transportation and trade route for thousands of years. It is commercially navigable from Pittsburgh to the Mississippi River. A series of dams has raised the water level of the naturally shallow river and divides it into a series of pools or reservoirs. The McAlpine Locks and Dam bypass otherwise unnavigable Falls of the Ohio near Louisville. Towboats and barges move shipments of coal, steel, chemicals and grain and other goods.
+
+**Steel mills** have operated along the river throughout the 20th century. Many have closed but the industry has left a legacy of pollution. The AK Steel plant in Evansville, Indiana, contributes 70 percent of the Ohio River’s total toxic chemical load by pound, according to 2015 news reports on an EPA study.
+
+**Oil and Gas** production have boomed in the Ohio River Valley throughout the past decade as the Marcellus Shale formation attracted the hydraulic fracturing industry. The abundance of natural gas has contributed to the decline of coal mining and burning in the region. But the process leaks methane gas — a potent greenhouse gas — and raises concerns over groundwater contamination. Particulate matter, ozone and benzene pollution found around many fracking sites can impact brain development in children.
+        The gas boom may also be fueling development of a petrochemical and plastics manufacturing hub along 300 miles of the river from Pittsburgh to Kentucky.
+
+The Health Risks of Fracking from A to Z, Allegheny Front

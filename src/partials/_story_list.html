@@ -13,7 +13,7 @@
       <iframe name="slider-map" width="100%" height="600px" src="https://storymaps.arcgis.com/stories/f475fd35e39e41ac9688965cf4e8fbd7"></iframe>
     </div>
     <div id="data" class="slide"><h2>DATA</h2></div>
-    
+
     <div id="stories" class="slide active-slide">
       <div class="container">
         <% json.storyList.forEach(function(story, i) { %>
@@ -53,7 +53,7 @@
         <% }); %>
       </div>
     </div>
-    
+
     <div id="stats" class="slide"><h2>STATS</h2></div>
     <div id="partners" class="slide"><h2>PARTNERS</h2></div>
   </div>
@@ -63,49 +63,49 @@
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
     var window_width = window.innerWidth;
-    
+
     var slide = document.getElementById('stories');
     slide.style.width = window_width + 'px';
-    
+
     var slide_position = slide.offsetLeft;
-    
+
     var sliderContainer = document.getElementById('slider');
     sliderContainer.style.transform = "translateX(-" + slide_position + "px" + ")";
-    
+
     var a = document.getElementById('slider-links').getElementsByTagName('a');
     var lastClicked = document.getElementById('slider-links').getElementsByClassName('active')[0];
     console.log(lastClicked);
-    
+
     for (var i = 0; i < a.length; i++) {
       var elem = a[i];
       elem.addEventListener('click', function(e){ //say this is an anchor
         e.preventDefault();
-        
+
         lastClicked.classList.remove('active');
         lastClicked = e.srcElement;
         lastClicked.classList.add('active');
-        
+
         window_width = window.innerWidth;
         slide.classList.remove('active-slide');
         var slide_id = e.target.hash;
         slide = document.getElementById(slide_id.replace('#',''));
         slide.classList.add('active-slide');
         slide.style.width = window_width + 'px';
-        
+
         slide_position = slide.offsetLeft;
         if(slide_id == '#map'){
           var ifr = document.getElementsByName('slider-map')[0];
           ifr.src = ifr.src;
         };
-        
+
         sliderContainer.style.transform = "translateX(-" + slide_position + "px" + ")";
       });
     }
-    
+
     window.addEventListener('resize', function(event) {
       console.log('resizing');
       window_width = window.innerWidth;
-      
+
       slide = document.getElementsByClassName('active-slide')[0];
       slide.style.width = window_width + 'px';
     });

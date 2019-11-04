@@ -1,0 +1,23 @@
+<div class="container top-margin">
+  <div id="story-page">
+    <div class="row">
+      <div class="six columns offset-by-three">
+        <div id="story-page-body">
+          <h1>Facts about the Ohio River</h1>
+          <div class="wave-divider"></div>
+          <!-- <h2>Geography</h2>
+          <p><b style="padding-bottom: .5em !important;">Length:</b> The Ohio River runs 981 miles from the confluence of the Allegheny and Monongahela rivers in Pittsburgh, Pennsylvania, to Cairo, Illinois, where it joins the Mississippi. It flows through or forms partial borders of six states: Pennsylvania, Ohio, West Virginia, Kentucky, Indiana and Illinois.</p> -->
+          <% facts.sections.forEach(function(section, i) { %>
+
+            <% if(section.type == "text"){ %>
+              <p> <%= t.renderMarkdown(facts.sections[i].value) %> </p>
+            <% }else if(section.type == "h2"){ %>
+              <h2 style="color: #4e83a3;"><%= section.value %></h2>
+            <% } %>
+
+          <% }); %>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
