@@ -236,55 +236,87 @@
                   <div class="six columns offset-by-three">
                     <div id="story-page-body">
 
-              <% }else if(section.type == "two_columns-left"){ %>
-                </div> <!-- close story-page-body-->
-                </div> <!-- close eight columns-->
-                </div> <!-- close row-->
-                </div> <!-- close container-->
+            <% }else if(section.type == "two_columns-left"){ %>
+              </div> <!-- close story-page-body-->
+              </div> <!-- close eight columns-->
+              </div> <!-- close row-->
+              </div> <!-- close container-->
 
-                <div class="container">
-                  <div class="row">
-                    <div id="story-page-body">
-                      <div class="three columns">
-                        <img alt="#" style="margin-bottom: 1em;" src="<%= section.value.two_column_image %>" />
-                      </div>
-                      <div class="six columns">
-                        <p><%= section.value.text1 %></p>
-                        <p><%= section.value.text2 %></p>
-                      </div>
+              <div class="container">
+                <div class="row">
+                  <div id="story-page-body">
+                    <div class="three columns">
+                      <img alt="#" style="margin-bottom: 1em;" src="<%= section.value.two_column_image %>" />
+                    </div>
+                    <div class="six columns">
+                      <p><%= section.value.text1 %></p>
+                      <p><%= section.value.text2 %></p>
                     </div>
                   </div>
                 </div>
+              </div>
 
-                <div class="container">
-                  <div class="row">
-                    <div class="six columns offset-by-three" style="margin-top: -1.5em !important;">
-                      <div id="story-page-body">
+              <div class="container">
+                <div class="row">
+                  <div class="six columns offset-by-three" style="margin-top: -1.5em !important;">
+                    <div id="story-page-body">
 
-                        <% }else if(section.type == "two_columns-right"){ %>
-                          </div> <!-- close story-page-body-->
-                          </div> <!-- close eight columns-->
-                          </div> <!-- close row-->
-                          </div> <!-- close container-->
+                      <% }else if(section.type == "two_columns-right"){ %>
+                        </div> <!-- close story-page-body-->
+                        </div> <!-- close eight columns-->
+                        </div> <!-- close row-->
+                        </div> <!-- close container-->
 
-                          <div class="container">
-                            <div class="row">
-                              <div id="story-page-body">
-                                <div class="six columns offset-by-three">
-                                  <p><%= section.value.text1 %></p>
-                                  <p><%= section.value.text2 %></p>
-                                </div>
-                              </div>
-                              <div class="three columns">
-                                <img alt="#" style="margin-bottom: 1em;" src="<%= section.value.two_column_image %>" />
+                        <div class="container">
+                          <div class="row">
+                            <div id="story-page-body">
+                              <div class="six columns offset-by-three">
+                                <p><%= section.value.text1 %></p>
+                                <p><%= section.value.text2 %></p>
                               </div>
                             </div>
+                            <div class="three columns">
+                              <img alt="#" style="margin-bottom: 1em;" src="<%= section.value.two_column_image %>" />
+                            </div>
                           </div>
+                        </div>
 
-                          <div class="container">
-                            <div class="row">
-                              <div class="six columns offset-by-three" style="margin-top: -1.5em !important;">
-                                <div id="story-page-body">
+                        <div class="container">
+                          <div class="row">
+                            <div class="six columns offset-by-three" style="margin-top: -1.5em !important;">
+                              <div id="story-page-body">
+                                
+            <% }else if(section.type == "more_stories"){ %>
+              </div> <!-- close story-page-body-->
+              </div> <!-- close eight columns-->
+              </div> <!-- close row-->
+              </div> <!-- close container-->
+              
+              <div class="container">
+                <h2>MORE STORIES</h2>
+                <div class="story-btns">
+                  <a class="slider-btn" id="slider-prev" href="#"><i class="fas fa-angle-double-left fa-lg"></i></a>
+                  <a class="slider-btn" id="slider-next" href="#"><i class="fas fa-angle-double-right fa-lg"></i></a>
+                </div>
+              </div>
+
+              <div class="container more-stories-container" id="sliderContainer">
+                <div class="more-stories-row" id="slider">
+                  <% storyList.forEach(function(slide, i) { %>
+                    <div class="more-stories-story">
+                      <img src="assets/story-images/<%= slide.img_filename %>" alt="<%= slide.headline %>" />
+                      <h3><%= slide.headlines %></h3>
+                    </div>
+                  <% }); %>
+                </div>
+              </div>
+              
+              <div class="container">
+                <div class="row">
+                  <div class="six columns offset-by-three" style="margin-top: -1.5em !important;">
+                    <div id="story-page-body">
+
+              
             <% } %>
 
           <% }); %>
@@ -292,3 +324,37 @@
     </div>
   </div>
 </div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function(event) {
+    var sliderContainer = document.getElementById('sliderContainer');
+    var slider = document.getElementById('slider');
+    var sliderWidth = sliderContainer.scrollWidth - 800;
+    
+    var sliderNext = document.getElementById('slider-next');
+    var sliderPrev = document.getElementById('slider-prev');
+    
+    var translate = 0;
+        
+    sliderNext.addEventListener('click', function(e){ 
+      e.preventDefault();
+      console.log('sliderWidth: ', sliderWidth);
+      console.log('translate: ', translate);
+      if(Math.abs(translate) < sliderWidth){
+        translate -= 200;
+        slider.style.transform = "translateX(" + translate + "px" + ")";
+      }
+    });
+    
+    sliderPrev.addEventListener('click', function(e){ 
+      e.preventDefault();
+      console.log('sliderWidth: ', sliderWidth);
+      console.log('translate: ', translate);
+      if(translate < 0){ 
+        translate += 200;    
+        slider.style.transform = "translateX(" + translate + "px" + ")";
+      }
+    });
+    
+  });
+</script>
