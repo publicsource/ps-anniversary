@@ -3,7 +3,7 @@
 ////////// fullPage.js
 // Optional. When using fullPage extensions
 // require("./lib/fullpage.dragAndMove.min.js");
-require("./lib/scrolloverflow.js");
+// require("./lib/scrolloverflow.js");
 
 // Optional. When using scrollOverflow:true
 // require('fullpage.js/vendors/scrolloverflow');
@@ -28,7 +28,7 @@ var myFullpage = new fullpage('#fullpage', {
     // animateAnchor: false,
     autoScrolling: false,
     keyboardScrolling: true,
-    // scrollOverflow: false,
+    // scrollOverflow: true,
     loopHorizontal:false,
     afterResize: function(width, height){
   		var fullpageContainer = this;
