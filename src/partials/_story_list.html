@@ -1,12 +1,4 @@
 <div id="story-list">
-
-  <nav id="secondary-links">
-    <div>Other ways to explore Good River:</div>
-    <a href="#map">MAP</a>
-    <a href="#data">DATA</a>
-    <a href="#stats">STATS</a>
-    <a href="#partners">PARTNERS</a>
-  </nav>
   
   <h2>STORIES</h2>
 
@@ -20,11 +12,9 @@
             <div class="authors"><%= story.authors %></div>
             <div class="org"><%= story.org %></div>
           </div>
-      <% }else if(i == 3){ %>
-        </div>
-        <div class="row">
+      <% }else if(i == 2){ %>
           <div class="one-third column">
-            <img src="assets/story-images/good-river-facts.png" alt="Good River Facts" />
+            <img src="assets/story-images/good-river-facts.jpg" alt="Good River Facts" />
             <h3 class="media"><a href="facts.html">Explore facts about the Ohio River</a></h3>
           </div>
       <% }else if(i % 3 == 0){ %>
