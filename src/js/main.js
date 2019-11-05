@@ -7,7 +7,7 @@
 // require("./lib/scrolloverflow.js");
 
 // Optional. When using scrollOverflow:true
-// require('fullpage.js/vendors/scrolloverflow');
+require('fullpage.js/vendors/scrolloverflow');
 
 var fullpage = require('fullpage.js');
 
@@ -18,8 +18,8 @@ var fullpage = require('fullpage.js');
 // Initializing it
 var myFullpage = new fullpage('#fullpage', {
   licenseKey: 'D8303C79-0BD64932-AEC886F3-4E1AAB2D',
-  anchors: ['page1', 'page2', 'page3', 'page4'],
-  sectionsColor: ['#000000', '#ffffff', '#ffffff', '#fffff'],
+  anchors: ['page1', 'page2', 'page3', 'page4', 'page5'],
+  sectionsColor: ['#000000', '#ffffff', '#ffffff', '#fffff', '#fffff'],
   slidesNavigation:true,
   navigation: true,
   navigationPosition: 'right',
@@ -29,7 +29,7 @@ var myFullpage = new fullpage('#fullpage', {
   // animateAnchor: false,
   autoScrolling: false,
   keyboardScrolling: true,
-  // scrollOverflow: true,
+  scrollOverflow: true,
   loopHorizontal:false,
   afterResize: function(width, height){
     var fullpageContainer = this;
