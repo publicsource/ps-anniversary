@@ -51,6 +51,7 @@ module.exports = function(grunt) {
   grunt.registerTask("publish", "Pushes the build folder to S3", function(deploy) {
 
     var done = this.async();
+    var auth = require("../auth.json");
 
     deploy = deploy || "stage";
 
@@ -64,24 +65,32 @@ module.exports = function(grunt) {
     };
     //strip slashes for safety
     bucketConfig.path = bucketConfig.path.replace(/^\/|\/$/g, "");
-    if (!bucketConfig.path) {
-      grunt.fail.fatal("You must specify a destination path in your project.json.");
-    }
+    //if (!bucketConfig.path) {
+    //  grunt.fail.fatal("You must specify a destination path in your project.json.");
+    //}
 
     var creds = {
       accessKeyId: process.env.AWS_ACCESS_KEY_ID,
       secretAccessKey: process.env.AWS_SECRET_ACCESS_KEY,
       region: process.env.AWS_DEFAULT_REGION || "us-west-1"
     };
+    
     if (!creds.accessKeyId) {
+      creds = {
+        accessKeyId: auth.AWS_ACCESS_KEY_ID,
+        secretAccessKey: auth.AWS_SECRET_ACCESS_KEY,
+        region: auth.AWS_DEFAULT_REGION || "us-west-1"
+      };
+    }else{
       grunt.fail.fatal("Missing AWS configuration variables.")
     }
     aws.config.update(creds);
 
     var s3 = new aws.S3();
     var uploads = findBuiltFiles();
+    console.log(bucketConfig);
     async.eachLimit(uploads, 10, function(upload, c) {
-
+  
       async.waterfall([function(next) {
         //create the config object
         next(null, {
