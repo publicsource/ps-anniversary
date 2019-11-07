@@ -17,7 +17,7 @@
 <div class="container">
   <div class="row">
     <div class="six columns offset-by-three">
-      <div id="caption"><%= story.feature_img.caption %><</div>
+      <div id="caption"><%= story.feature_img.caption %></div>
     </div>
   </div>
 </div>
@@ -285,13 +285,13 @@
                           <div class="row">
                             <div class="six columns offset-by-three" style="margin-top: -1.5em !important;">
                               <div id="story-page-body">
-                                
+
             <% }else if(section.type == "more_stories"){ %>
               </div> <!-- close story-page-body-->
               </div> <!-- close eight columns-->
               </div> <!-- close row-->
               </div> <!-- close container-->
-              
+
               <div class="container">
                 <h2>MORE STORIES</h2>
                 <div class="story-btns">
@@ -310,13 +310,13 @@
                   <% }); %>
                 </div>
               </div>
-              
+
               <div class="container">
                 <div class="row">
                   <div class="six columns offset-by-three" style="margin-top: -1.5em !important;">
                     <div id="story-page-body">
 
-              
+
             <% } %>
 
           <% }); %>
@@ -330,13 +330,13 @@
     var sliderContainer = document.getElementById('sliderContainer');
     var slider = document.getElementById('slider');
     var sliderWidth = sliderContainer.scrollWidth - 800;
-    
+
     var sliderNext = document.getElementById('slider-next');
     var sliderPrev = document.getElementById('slider-prev');
-    
+
     var translate = 0;
-        
-    sliderNext.addEventListener('click', function(e){ 
+
+    sliderNext.addEventListener('click', function(e){
       e.preventDefault();
       console.log('sliderWidth: ', sliderWidth);
       console.log('translate: ', translate);
@@ -345,16 +345,16 @@
         slider.style.transform = "translateX(" + translate + "px" + ")";
       }
     });
-    
-    sliderPrev.addEventListener('click', function(e){ 
+
+    sliderPrev.addEventListener('click', function(e){
       e.preventDefault();
       console.log('sliderWidth: ', sliderWidth);
       console.log('translate: ', translate);
-      if(translate < 0){ 
-        translate += 200;    
+      if(translate < 0){
+        translate += 200;
         slider.style.transform = "translateX(" + translate + "px" + ")";
       }
     });
-    
+
   });
 </script>
