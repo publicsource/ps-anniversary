@@ -1,5 +1,5 @@
 <div id="story-list">
-  
+
   <h2>STORIES</h2>
 
   <div id="stories" class="container">
@@ -14,7 +14,7 @@
           </div>
       <% }else if(i % 3 == 0){ %>
         </div>
-        <div class="row">
+        <div class="row row-less-margin">
           <div class="one-third column">
             <img src="assets/story-images/<%= story.img_filename %>" alt="<%= story.headline %>" />
             <h3><%= story.headlines %></h3>
@@ -39,5 +39,5 @@
       <% } %>
     <% }); %>
   </div>
-    
+
 </div>

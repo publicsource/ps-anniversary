@@ -33,7 +33,7 @@ function fullpageInit(){
 }
 
 var w = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
-console.log(w);
+
 if(w > 500){
   fullpageInit();
 }

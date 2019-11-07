@@ -46,7 +46,7 @@
         display: none;
     }
     #river-intro {
-        background: url('https://www.publicsource.org/wp-content/uploads/2019/10/IMG_4052-1170x731.jpg');
+        background: url('https://ps-apps-assets.s3.amazonaws.com/watershed/background.png');
         background-size: cover;
     }
 }
@@ -81,9 +81,10 @@
   color:#e1e1e1;
   animation-duration: 2.3s;
   animation-delay: 1s;
+  @media @mobile {
+    font-size: 3em;
+  }
 }
-
-
 
 #river-intro #intro-text h2{
   font-family: "LatoThin";
@@ -93,6 +94,11 @@
   padding:0;
   animation-duration: 2.3s;
   animation-delay: 1s;
+  @media @mobile {
+    font-family: "LatoReg";
+    font-size: 1.4em;
+    margin: .5em 0 .5em 0;
+  }
 }
 
 #intro-about h1{
@@ -147,6 +153,9 @@
   font-family: "PeaceSans";
   font-size: 1.75em;
   margin-bottom: 0;
+  @media @mobile {
+    font-size: 1.4em;
+  }
 }
 
 #story-list h3.media{
@@ -173,4 +182,13 @@
 
 #story-list .org{
   font-family: "LatoBoldItalic";
+  @media @mobile {
+    padding-bottom: 1.3em !important;
+  }
+}
+
+.row-less-margin {
+  @media @mobile {
+    margin-top: -1.5em;
+  }
 }
