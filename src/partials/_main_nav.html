@@ -1,14 +1,33 @@
 <div id="main-nav" class="row">
-  <div id="title-logo" class="four columns">
+  <div id="title-logo" class="item">
     <div class="logo"><a href="#"><img src="/assets/logo-white-150x.png" alt="Watershed logo"></a></div>
     <div class="title"><a href="#">STORIES OF THE OHIO</a></div>
   </div>
 
-  <nav class="eight columns">
+  <div id="main-nav-links" class="item">
     <span><a href="story.html">STORIES</a></span>
     <span><a href="about.html">ABOUT</a></span>
     <span><a href="facts.html">FACTS</a></span>
     <span><a href="map.html">MAP</a></span>
     <span><a href="partners.html">PARTNERS</a></span>
-  </nav>
+  </div>
+  <div id="nav-burger"><i class="fal fa-bars"></i></div>
+
+  </div>
 </div>
+
+<script>
+  var hamburger = document.getElementById('nav-burger');
+  var linx = document.getElementById('main-nav-links');
+
+  hamburger.addEventListener('click', function(e){
+    if (linx.classList.contains('show')) {
+      linx.classList.remove('show');
+    } else {
+      linx.classList.add('show');
+    }
+  })
+  function myFunction() {
+
+  }
+</script>

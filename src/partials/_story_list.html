@@ -1,115 +1,43 @@
-<p>Blah blah blah</p>
+<div id="story-list">
+  
+  <h2>STORIES</h2>
 
-<!-- <div id="story-list">
-
-<nav id="slider-links">
-    <a href="#map">MAP</a>
-    <a href="#data">DATA</a>
-    <a href="#stories" class="active">STORIES</a>
-    <a href="#stats">STATS</a>
-    <a href="#partners">PARTNERS</a>
-  </nav>
-
-  <div id="slider">
-    <div id="map" class="slide">
-      <iframe name="slider-map" width="100%" height="600px" src="https://storymaps.arcgis.com/stories/f475fd35e39e41ac9688965cf4e8fbd7"></iframe>
-    </div>
-    <div id="data" class="slide"><h2>DATA</h2></div>
-
-    <div id="stories" class="slide active-slide">
-      <div class="container">
-        <% json.storyList.forEach(function(story, i) { %>
-          <% if(i == 0){ %>
-            <div class="row">
-              <div class="one-third column">
-                <img src="assets/story-images/<%= story.img_filename %>" alt="<%= story.headline %>" />
-                <h3><%= story.headlines %></h3>
-                <div class="authors"><%= story.authors %></div>
-                <div class="org"><%= story.org %></div>
-              </div>
-          <% }else if(i % 3 == 0){ %>
-            </div>
-            <div class="row">
-              <div class="one-third column">
-                <img src="assets/story-images/<%= story.img_filename %>" alt="<%= story.headline %>" />
-                <h3><%= story.headlines %></h3>
-                <div class="authors"><%= story.authors %></div>
-                <div class="org"><%= story.org %></div>
-              </div>
-          <% }else if(i+1 == json.storyList.length){ %>
-            <div class="one-third column">
-              <img src="assets/story-images/<%= story.img_filename %>" alt="<%= story.headline %>" />
-              <h3><%= story.headlines %></h3>
-              <div class="authors"><%= story.authors %></div>
-              <div class="org"><%= story.org %></div>
-            </div>
-            </div> <!-- This extra div closes the row-->
-          <% }else{ %>
-            <div class="one-third column">
-              <img src="assets/story-images/<%= story.img_filename %>" alt="<%= story.headline %>" />
-              <h3><%= story.headlines %></h3>
-              <div class="authors"><%= story.authors %></div>
-              <div class="org"><%= story.org %></div>
-            </div>
-          <% } %>
-        <% }); %>
-      </div>
-    </div>
-
-    <div id="stats" class="slide"><h2>STATS</h2></div>
-    <div id="partners" class="slide"><h2>PARTNERS</h2></div>
+  <div id="stories" class="container">
+    <% json.storyList.forEach(function(story, i) { %>
+      <% if(i == 0){ %>
+        <div class="row">
+          <div class="one-third column">
+            <img src="assets/story-images/<%= story.img_filename %>" alt="<%= story.headline %>" />
+            <h3><%= story.headlines %></h3>
+            <div class="authors"><%= story.authors %></div>
+            <div class="org"><%= story.org %></div>
+          </div>
+      <% }else if(i % 3 == 0){ %>
+        </div>
+        <div class="row">
+          <div class="one-third column">
+            <img src="assets/story-images/<%= story.img_filename %>" alt="<%= story.headline %>" />
+            <h3><%= story.headlines %></h3>
+            <div class="authors"><%= story.authors %></div>
+            <div class="org"><%= story.org %></div>
+          </div>
+      <% }else if(i+1 == json.storyList.length){ %>
+        <div class="one-third column">
+          <img src="assets/story-images/<%= story.img_filename %>" alt="<%= story.headline %>" />
+          <h3><%= story.headlines %></h3>
+          <div class="authors"><%= story.authors %></div>
+          <div class="org"><%= story.org %></div>
+        </div>
+        </div> <!-- This extra div closes the row-->
+      <% }else{ %>
+        <div class="one-third column">
+          <img src="assets/story-images/<%= story.img_filename %>" alt="<%= story.headline %>" />
+          <h3><%= story.headlines %></h3>
+          <div class="authors"><%= story.authors %></div>
+          <div class="org"><%= story.org %></div>
+        </div>
+      <% } %>
+    <% }); %>
   </div>
+    
 </div>
-
-
-<script>
-  document.addEventListener('DOMContentLoaded', function(event) {
-    var window_width = window.innerWidth;
-
-    var slide = document.getElementById('stories');
-    slide.style.width = window_width + 'px';
-
-    var slide_position = slide.offsetLeft;
-
-    var sliderContainer = document.getElementById('slider');
-    sliderContainer.style.transform = "translateX(-" + slide_position + "px" + ")";
-
-    var a = document.getElementById('slider-links').getElementsByTagName('a');
-    var lastClicked = document.getElementById('slider-links').getElementsByClassName('active')[0];
-    console.log(lastClicked);
-
-    for (var i = 0; i < a.length; i++) {
-      var elem = a[i];
-      elem.addEventListener('click', function(e){ //say this is an anchor
-        e.preventDefault();
-
-        lastClicked.classList.remove('active');
-        lastClicked = e.srcElement;
-        lastClicked.classList.add('active');
-
-        window_width = window.innerWidth;
-        slide.classList.remove('active-slide');
-        var slide_id = e.target.hash;
-        slide = document.getElementById(slide_id.replace('#',''));
-        slide.classList.add('active-slide');
-        slide.style.width = window_width + 'px';
-
-        slide_position = slide.offsetLeft;
-        if(slide_id == '#map'){
-          var ifr = document.getElementsByName('slider-map')[0];
-          ifr.src = ifr.src;
-        };
-
-        sliderContainer.style.transform = "translateX(-" + slide_position + "px" + ")";
-      });
-    }
-
-    window.addEventListener('resize', function(event) {
-      console.log('resizing');
-      window_width = window.innerWidth;
-
-      slide = document.getElementsByClassName('active-slide')[0];
-      slide.style.width = window_width + 'px';
-    });
-  });
-</script> -->
