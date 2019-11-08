@@ -7,7 +7,7 @@ function fullpageInit(){
   // Initializing it
   var myFullpage = new fullpage('#fullpage', {
     licenseKey: 'D8303C79-0BD64932-AEC886F3-4E1AAB2D',
-    anchors: ['intro', 'about', 'map', 'stories', 'footer'],
+    anchors: ['intro', 'about', 'map', 'stories', 'end'],
     sectionsColor: ['#000000', '#ffffff', '#ffffff', '#fffff', '#fffff'],
     slidesNavigation:true,
     navigation: true,
