@@ -50,6 +50,10 @@
                 <a href="#"><i class="fab fa-facebook-f fa-lg"></i></a>
               </div>
 
+            <% }else if(section.type == "inline-img"){ %>
+              <img class="top-padding" alt="<%= section.value.alt %>" src="<%= section.value.img %>" />
+              <div id="caption"><%= section.value.caption %></div>
+
             <% }else if(section.type == "story_photo_grid"){ %>
               </div> <!-- close story-page-body-->
               </div> <!-- close eight columns-->
@@ -108,35 +112,35 @@
                             <div class="six columns offset-by-three">
                               <div id="story-page-body">
 
-                                <% }else if(section.type == "story_photo_grid"){ %>
-                                  </div> <!-- close story-page-body-->
-                                  </div> <!-- close eight columns-->
-                                  </div> <!-- close row-->
-                                  </div> <!-- close container-->
+                      <% }else if(section.type == "story_photo_grid"){ %>
+                        </div> <!-- close story-page-body-->
+                        </div> <!-- close eight columns-->
+                        </div> <!-- close row-->
+                        </div> <!-- close container-->
 
-                                  <div id="story-photo-grid">
-                                    <div>
-                                      <img alt="#" src="<%= section.value.top_left %>" />
-                                    </div>
-                                    <div>
-                                      <img alt="#" src="<%= section.value.top_right %>" />
-                                    </div>
-                                  </div>
-                                  <div id="photo-container">
-                                    <img alt="#" src="<%= section.value.big_bottom %>" />
-                                  </div>
-                                  <div class="container">
-                                    <div class="row">
-                                      <div class="six columns offset-by-three">
-                                        <div id="caption"><%= section.value.caption %></div>
-                                      </div>
-                                    </div>
-                                  </div>
+                        <div id="story-photo-grid">
+                          <div>
+                            <img alt="#" src="<%= section.value.top_left %>" />
+                          </div>
+                          <div>
+                            <img alt="#" src="<%= section.value.top_right %>" />
+                          </div>
+                        </div>
+                        <div id="photo-container">
+                          <img alt="#" src="<%= section.value.big_bottom %>" />
+                        </div>
+                        <div class="container">
+                          <div class="row">
+                            <div class="six columns offset-by-three">
+                              <div id="caption"><%= section.value.caption %></div>
+                            </div>
+                          </div>
+                        </div>
 
-                                  <div class="container">
-                                    <div class="row">
-                                      <div class="six columns offset-by-three">
-                                        <div id="story-page-body">
+                        <div class="container">
+                          <div class="row">
+                            <div class="six columns offset-by-three">
+                              <div id="story-page-body">
 
                       <% }else if(section.type == "side-by-side-photo"){ %>
                         </div> <!-- close story-page-body-->
@@ -208,7 +212,7 @@
                           <div class="container">
                             <div class="row">
                               <div class="six columns offset-by-three">
-                                <div id="caption">Caption here.</div>
+                                <div id="caption"><%= section.value.caption %></div>
                               </div>
                             </div>
                           </div>
@@ -218,66 +222,75 @@
                             <div class="six columns offset-by-three">
                               <div id="story-page-body">
 
-            <% }else if(section.type == "parallax_img"){ %>
-              </div> <!-- close story-page-body-->
-              </div> <!-- close eight columns-->
-              </div> <!-- close row-->
-              </div> <!-- close container-->
+                                <% }else if(section.type == "video"){ %>
+                                  </div> <!-- close story-page-body-->
+                                  </div> <!-- close eight columns-->
+                                  </div> <!-- close row-->
+                                  </div> <!-- close container-->
 
-              <div class="parallax-divider">
-                <div class="block">
-                  <img src="<%= section.value.src %>" data-speed="-1" class="img-parallax" />
-                  <img alt="#" src="https://ps-apps-assets.s3.amazonaws.com/watershed/wavy-lines-v3.png" />
-                </div>
-              </div>
+                                  <div class="container" style="margin-top: 2em;">
+                                    <div class="row">
+                                        <div class="twelve columns">
+                                          <div class='embed-container'>
+                                            <iframe src='<%= section.value.videolink %>' frameborder='0' allowfullscreen></iframe>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
 
-              <div class="container">
-                <div class="row">
-                  <div class="six columns offset-by-three">
-                    <div id="story-page-body">
+                                    <div class="container">
+                                      <div class="row">
+                                        <div class="six columns offset-by-three">
+                                          <div id="caption"><%= section.value.caption %></div>
+                                        </div>
+                                      </div>
+                                    </div>
 
-            <% }else if(section.type == "two_columns-left"){ %>
-              </div> <!-- close story-page-body-->
-              </div> <!-- close eight columns-->
-              </div> <!-- close row-->
-              </div> <!-- close container-->
+                                  <div class="container">
+                                    <div class="row">
+                                      <div class="six columns offset-by-three">
+                                        <div id="story-page-body">
 
-              <div class="container">
-                <div class="row">
-                  <div id="story-page-body">
-                    <div class="three columns">
-                      <img alt="#" style="margin-bottom: 1em;" src="<%= section.value.two_column_image %>" />
-                    </div>
-                    <div class="six columns">
-                      <p><%= section.value.text1 %></p>
-                      <p><%= section.value.text2 %></p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="container">
-                <div class="row">
-                  <div class="six columns offset-by-three" style="margin-top: -1.5em !important;">
-                    <div id="story-page-body">
-
-                      <% }else if(section.type == "two_columns-right"){ %>
+                      <% }else if(section.type == "parallax_img"){ %>
                         </div> <!-- close story-page-body-->
                         </div> <!-- close eight columns-->
                         </div> <!-- close row-->
                         </div> <!-- close container-->
 
+                        <div class="parallax-divider">
+                          <div class="block">
+                            <img src="<%= section.value.src %>" data-speed="-1" class="img-parallax" />
+                            <img alt="#" src="https://ps-apps-assets.s3.amazonaws.com/watershed/wavy-lines-v3.png" />
+                          </div>
+                        </div>
+
                         <div class="container">
                           <div class="row">
-                            <div id="story-page-body">
-                              <div class="six columns offset-by-three">
-                                <p><%= section.value.text1 %></p>
-                                <p><%= section.value.text2 %></p>
+                            <div class="six columns offset-by-three">
+                              <div id="story-page-body">
+
+                      <% }else if(section.type == "more_stories"){ %>
+                        </div> <!-- close story-page-body-->
+                        </div> <!-- close eight columns-->
+                        </div> <!-- close row-->
+                        </div> <!-- close container-->
+
+                        <div class="container more-stories">
+                          <h2>MORE STORIES</h2>
+                          <div class="story-btns">
+                            <a class="slider-btn" id="slider-prev" href="#"><i class="fas fa-angle-double-left fa-lg"></i></a>
+                            <a class="slider-btn" id="slider-next" href="#"><i class="fas fa-angle-double-right fa-lg"></i></a>
+                          </div>
+                        </div>
+
+                        <div class="container more-stories-container" id="sliderContainer">
+                          <div class="more-stories-row" id="slider">
+                            <% storyList.forEach(function(slide, i) { %>
+                              <div class="more-stories-story">
+                                <img src="assets/story-images/<%= slide.img_filename %>" alt="<%= slide.headline %>" />
+                                <h3><%= slide.headlines %></h3>
                               </div>
-                            </div>
-                            <div class="three columns">
-                              <img alt="#" style="margin-bottom: 1em;" src="<%= section.value.two_column_image %>" />
-                            </div>
+                            <% }); %>
                           </div>
                         </div>
 
@@ -285,36 +298,6 @@
                           <div class="row">
                             <div class="six columns offset-by-three" style="margin-top: -1.5em !important;">
                               <div id="story-page-body">
-
-            <% }else if(section.type == "more_stories"){ %>
-              </div> <!-- close story-page-body-->
-              </div> <!-- close eight columns-->
-              </div> <!-- close row-->
-              </div> <!-- close container-->
-
-              <div class="container">
-                <h2>MORE STORIES</h2>
-                <div class="story-btns">
-                  <a class="slider-btn" id="slider-prev" href="#"><i class="fas fa-angle-double-left fa-lg"></i></a>
-                  <a class="slider-btn" id="slider-next" href="#"><i class="fas fa-angle-double-right fa-lg"></i></a>
-                </div>
-              </div>
-
-              <div class="container more-stories-container" id="sliderContainer">
-                <div class="more-stories-row" id="slider">
-                  <% storyList.forEach(function(slide, i) { %>
-                    <div class="more-stories-story">
-                      <img src="assets/story-images/<%= slide.img_filename %>" alt="<%= slide.headline %>" />
-                      <h3><%= slide.headlines %></h3>
-                    </div>
-                  <% }); %>
-                </div>
-              </div>
-
-              <div class="container">
-                <div class="row">
-                  <div class="six columns offset-by-three" style="margin-top: -1.5em !important;">
-                    <div id="story-page-body">
 
 
             <% } %>
