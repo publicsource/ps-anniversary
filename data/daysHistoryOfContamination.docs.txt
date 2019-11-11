@@ -2,7 +2,7 @@ headline: 'That's vinegar:' The Ohio River's history of contamination and progre
 author: April Johnston
 organization: 100 Days in Appalachia
 pub: Nov. 14, 2019
-feature_img.src: ./assets/images/100DAYS-history-of-contamination/100Days_Water_70.jpg
+feature_img.src: ./assets/images/100DAYS-history-of-contamination/100Days_Water_32.jpg
 feature_img.caption: BarbiAnn Maynard drives 45 minutes from her home in Martin County, Kentucky, to a spring at the Mingo-Logan county line in West Virginia to fill containers with fresh water. Like most of her neighbors, Maynard doesn’t trust the water in Martin County, which routinely exceeds maximum levels of contaminants, including the carcinogen trihalomethane. (Photos by Curren Sheldon/100 Days in Appalachia) 
 twitterlink.src: #
 facebooklink.src: #
@@ -20,6 +20,7 @@ It shouldn’t have been surprising, said Jerry Schulte, a biologist who managed
 “That’s vinegar,” Schulte said. “It was so polluted, you could see it, smell it and taste it.”
 
 By the time Schulte began monitoring fish species in the 1990s, thanks to environmental and industrial regulations like the Clean Water Act, the Ohio River and its major tributaries, including the Mon, had changed. They no longer looked or smelled like open sewers. Mayflies hatched on their surfaces; many pollution-intolerant aquatic species returned; and lock chamber sampling — done without cyanide — could yield hundreds, even thousands, of fish. 
+pullquote: “That’s vinegar,” Schulte said. “It was so polluted, you could see it, smell it and taste it.”
 
 “It’s a functioning ecosystem now,” Schulte said.
 
@@ -33,9 +34,13 @@ In parts of the basin, acid mine drainage turns creeks the color of Orange Crush
 
 Watershed pollution in Appalachia, much of which has been caused by coal mining, is an ongoing environmental hazard that mimics the threat steel once posed to big cities on the Ohio. It threatens aquatic life, endangers people taking part in river recreation and — perhaps most critically — creates water unfit for human consumption.
 
-It started with a slurry
+h2: It started with a slurry
 BarbiAnn Maynard stands on the porch of her home in Huntleyville, Kentucky, (population 188) and points across the two-lane road, where three houses perch on a tree-speckled mountainside.
 “That one — dementia. This one — dementia. That one over there — dementia. My dad — dementia,” she said. “You can’t tell me that’s not because of the water.”
+{.single-photo-hero}
+photo: ./assets/images/100DAYS-history-of-contamination/100Days_Water_70.jpg
+caption: For the past 19 years, BarbiAnn Maynard has been fighting to fix contaminated water in Martin County, Kentucky. The issues began in 2000 when a coal slurry broke through an abandoned mine shaft and dumped sludge into tributaries of the Tug Fork River. (Photos by Curren Sheldon/100 Days in Appalachia)
+{}
 On Oct. 11, 2000, 300 million gallons of coal slurry broke through a reservoir in Martin County, Kentucky, flooding the abandoned mine shafts below and rushing out into the waters of Wolf Creek and Coldwater Fork.
 
 The black custard coated and killed everything in its path as it slithered for hundreds of miles and shifted into adjoining waterways, including the Tug Fork, Big Sandy and Ohio 
@@ -61,6 +66,11 @@ In Martin County, the problem is broken pipes. Experts estimate nearly 70% of dr
 
 Representatives from the Martin County Water District did not return a phone call seeking comment but have said in the past that they are changing the chlorination process to avoid contamination issues and are looking for funds to fix broken water lines.
 
+{.parallax_img}
+src:  
+./assets/images/100DAYS-history-of-contamination/100Days_Water_79_cut.jpg
+{}
+
 For residents in Martin County, turning on the tap is always a surprise. Some days, it’s cloudy and smells so strongly of chlorine that it burns the eyes. Other days, water is the color of weak tea and sediment settles in toilet bowls and shower drains.  
 The result, Maynard claims, is that no one in Martin County trusts or drinks the water. Maynard drives 45 minutes to a spring at the Mingo-Logan county line in West Virginia to fill containers with fresh water to drink. She uses antibacterial hand soap as body wash in the shower and cleans her hands with disinfectant wipes rather than running them under the tap.
 She’d like nothing more than to follow her now-grown daughters out of the county and leave the water issues behind, but her land along the Tug Fork in Huntleyville has been in the family for five generations and she is her ill father’s caretaker. So she came up with another option.
@@ -78,7 +88,7 @@ Even with the money, Maynard doesn’t trust that the most pressing problems wil
 
 But even in areas of the river basin where sensical solutions to water pollution have been developed and instituted, the results are still subject to imminent financial threat. 
 
-The great irony
+h2: The great irony
 
 Just off Township Road 1 in the unincorporated community of Carbondale, Ohio, a constant stream of acidic water seeps and sputters out of the abandoned AS-14 mine complex.
 
@@ -113,7 +123,7 @@ The hope is that these initiatives will eventually generate enough money to cove
 “Maybe it gets us out of that vicious cycle of mining coal to fix the legacy of coal mining,” Bowman said.
 But even if that cycle can be broken, even if paint pigments and rare earth elements turn a profit and remediation projects are funded in perpetuity, that doesn’t fix the Ohio River drainage basin. 
 Because while coal is a dire problem, it is just one of many problems.
-Common sense and a willingness to do the right thing
+h2: Common sense and a willingness to do the right thing
 Every September since 2007, open-water swimmers have leapt off the Serpentine Wall at Cincinnati’s Sawyer Point and into the Ohio River. Their goal is to swim the 450 meters to the Kentucky shore and back again.
 This year, it didn’t happen. Days before the race was to commence, ORSANCO received reports of algae in the water, and the Kentucky Department for Public Health issued a harmful algae bloom advisory, effectively shutting down river recreation.
 It was the second bloom in the month of September. The first erupted near Huntington, West Virginia, and grew 50 miles long before dissipating, according to Youngstrom.  
@@ -136,8 +146,8 @@ It’s a lesson he tries to impress upon fellow researchers and scientists becau
 
 “We need to be fair arbiters,” Ziemkiewicz said. “If we just sit in our ivory towers and write journal articles and discuss whether the world is moving in the direction we think it should, we aren’t fixing the problem.”
 
-April Johnston, a freelance writer for 100 Days in Appalachia, authored this story. She can be reached at aljohnston14@gmail.com.
+*April Johnston, a freelance writer for 100 Days in Appalachia, authored this story. She can be reached at aljohnston14@gmail.com.*
 
-Good River: Stories of the Ohio is a series about the environment, economy, and culture of the Ohio River watershed, produced by seven nonprofit newsrooms. To see more, please visit ohiowatershed.org.
+*Good River: Stories of the Ohio is a series about the environment, economy, and culture of the Ohio River watershed, produced by seven nonprofit newsrooms. To see more, please visit ohiowatershed.org.*
 
 []
