@@ -17,7 +17,11 @@ By the time Shulte began monitoring fish species in the 1990s, thanks to environ
 “It’s a functioning ecosystem now,” Shulte says.
 Functioning doesn’t mean perfect, however. As recently as 2015, the Environmental Protection Agency named the Ohio River one of the country’s most polluted. Industrial contaminants, including the “forever chemical” perfluorooctanoic acid, have been detected on a long stretches of the river and toxic algal blooms erupt when conditions are just right. Still, most of the time, the majority of the river’s 981 miles are ripe for recreation and fit for drinking after proper treatment.
 The same can’t always be said for the watershed.
-pullquote: "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident."
+{.pullquote}
+text: That’s vinegar,” Schulte said. “It was so polluted, you could see it, smell it and taste it.”
+twitter: https://www.publicsource.org/
+facebook: https://www.publicsource.org/
+{}
 The Ohio River drainage basin is an interconnected web of small rivers and creeks covering 205,000 square miles of largely rural, Applachian landscape and is home to 25 million people, many of whom are among the country’s poorest.
 {.inline-img}
 img: https://ps-apps-assets.s3.amazonaws.com/watershed/water-equalizer/100Days_Water_9.png
