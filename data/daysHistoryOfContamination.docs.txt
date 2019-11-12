@@ -3,7 +3,7 @@ author: April Johnston
 organization: 100 Days in Appalachia
 pub: Nov. 14, 2019
 feature_img.src: ./assets/story-images/100DAYS-history-of-contamination/100Days_Water_52.jpg
-feature_img.caption:  Guy Riefler, chair of Ohio University’s Russ College of Civil Engineering, shows how the water coming from the creek has a high level of acidity. (Photo by Curren Sheldon/100 Days in Appalachia)
+feature_img.caption:  Guy Riefler, chair of Ohio University’s Russ College of Civil Engineering, shows how the water coming from a creek has a high level of acidity. (Photo by Curren Sheldon/100 Days in Appalachia)
 twitterlink.src: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fthe-ohio-rivers-history-of-contamination-and-progress-made.html&amp;text=Good%20River%3A%20Stories%20of%20the%20Ohio%20is%20a%20series%20about%20the%20environment%2C%20economy%20and%20culture%20of%20the%20Ohio%20River%20watershed.%20Journalists%20in%20seven%20nonprofit%20newsrooms%20%E2%80%94%20spanning%20five%20of%20the%2015%20watershed%20states%20%E2%80%94%20have%20been%20working%20since%20May%202019%20to%20produce%20informative%20and%20compelling%20stories%20on%20the%20river%20and%20its%20watershed.%20%23ohioriverstories
 facebooklink.src: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fthe-ohio-rivers-history-of-contamination-and-progress-made.html
 [+sections]
