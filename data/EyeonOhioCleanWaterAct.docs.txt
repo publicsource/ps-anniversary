@@ -1,6 +1,14 @@
-The water is cleaner but the politics are messier: A look back at the Clean Water Act movement after 50 years
+headline: The water is cleaner but the politics are messier: A look back at the Clean Water Act movement after 50 years
 
-In June 1969, a Time Magazine article garnered national attention when it brought to light the water quality conditions in Ohio: a river had literally caught fire. 
+author: Lucia Walinchus
+organization: Eye on Ohio, the Ohio Center for Investigative Journalism
+pub: Nov. 14, 2019
+feature_img.src: ./assets/story-images/EYEONOHIO-clean-water-act/IMG_7008.JPG
+feature_img.caption: A barge ships coal up the Ohio River near Cincinnati. (Photo by Lucia Walinchus/Eye on Ohio, the Ohio Center for Investigative Journalism)
+twitterlink.src: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fa-look-back-at-the-clean-water-act-movement-after-50-years.html&amp;text=Good%20River%3A%20Stories%20of%20the%20Ohio%20-%20The%20water%20is%20cleaner%20but%20the%20politics%20are%20messier%3A%20A%20look%20back%20at%20the%20Clean%20Water%20Act%20movement%20after%2050%20years%20%23ohioriverstories
+facebooklink.src: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fa-look-back-at-the-clean-water-act-movement-after-50-years.html
+[+sections]
+In June 1969, a [Time Magazine article](https://time.com/3921976/cuyahoga-fire/) garnered national attention when it brought to light the water quality conditions in Ohio: a river had literally caught fire. 
 
 Oil-soaked debris ignited after sparks, likely from a passing train, set the slick ablaze. Local media actually didn’t spend much time reporting on the fire. This was, after all, at least the 13th time a waterway had been set ablaze in Ohio alone, not to mention river fires in Philadelphia, Baltimore and other industrial cities. Time Magazine didn’t even run pictures of this specific fire. Instead, they used stock photos of another fire that happened in the same area in 1957. 
 
@@ -10,43 +18,63 @@ Today, the quality of river water has improved markedly since the early 1970s, t
 
 The Clean Water Act has not been altered much over the past 50 years, though how we interpret the act has recently changed dramatically. And water quality concerns continue to mount as studies have shown that some pollutants, such as PFAS, are a grave concern to public health and aren’t regulated by the Clean Water Act.
 
-Limiting pollution, raising awareness
+h2: Limiting pollution, raising awareness
 
 Though a Cuyahoga River fire near Cleveland helped to spark the Clean Water Act movement, arguably the law had an even greater effect on the Ohio River.
 
-The Ohio drains the southern three-quarters of Ohio, as well as parts of 14 other states. A history of early industrialization, combined with legacy stormwater systems and heavy agricultural use, led to the Ohio River being named the “most polluted” river in the United States as recently as 2015.
+The Ohio drains the southern three-quarters of Ohio, as well as parts of 14 other states. A history of early industrialization, combined with legacy stormwater systems and heavy agricultural use, led to the Ohio River being named the [“most polluted” river in the United States](https://www.wlwt.com/article/report-ohio-river-most-polluted-body-of-water-in-u-s-for-7th-year-in-row/3551807) as recently as 2015.
 
-Still, today the river is much cleaner than it was. Residents also have more access to water quality information: They can look up what contaminants their drinking water contains or if the Ohio River has tested positive for harmful bacteria. 
+{.groundsource}
+img: ./assets/story-images/groundsource/groundsource.png
+alt: Groundsource image
+{}
+Still, today the river is much cleaner than it was. Residents also have more access to water quality information: They can [look up what contaminants their drinking water](https://www.ewg.org/tapwater/) contains or if the [Ohio River has tested positive](http://www.orsanco.org/river-facts/is-it-safe-to-swim-in-the-ohio-river/) for harmful bacteria. 
 
-The Clean Water Act [CWA] requires a permit for any regulated pollutants dumped into large bodies of water. Congress authorized the general framework to protect the quality of local waters and delegated its administration to the U.S. Environmental Protection Agency [EPA] and the states. For example, the EPA publishes scientifically justified limits for various pollutants under the CWA. States can write standards for those pollutants that are at least as protective as federally recommended criteria or more strict. 
+The Clean Water Act [CWA] requires a permit for any regulated pollutants dumped into large bodies of water. Congress authorized the general framework to protect the quality of local waters and delegated its administration to the U.S. Environmental Protection Agency [EPA] and the states. For example, the EPA publishes scientifically justified limits for various pollutants under the CWA. States can write standards for those pollutants that are at least as protective as federally recommended criteria or more strict.
 
-For example, E. coli bacteria can’t exceed 126 colony-forming units of bacteria per 100 milliliters. The EPA recommended the standard first in 1986, based in part on studies of a sewage-contaminated Ohio River beach near Cincinnati where swimmers got sick. In that particular case, the median coliform density of the water registered 2,300 units of bacteria per 100 milliliters. 
+For example, [E. coli bacteria can’t exceed](https://www.epa.gov/sites/production/files/2015-10/documents/rwqc2012.pdf) 126 colony-forming units of bacteria per 100 milliliters. The EPA recommended the standard first in 1986, based in part on studies of a [sewage-contaminated Ohio River beach](https://www.regulations.gov/document?D=EPA-HQ-OW-2007-0808-0001) near Cincinnati where swimmers got sick. In that particular case, the median coliform density of the water registered 2,300 units of bacteria per 100 milliliters.
+
+{.pullquote}
+text: Today, the quality of river water has improved markedly since the early 1970s, though critics say the red tape imposed through the Clean Water Act has become burdensome. 
+twitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fa-look-back-at-the-clean-water-act-movement-after-50-years.html&amp;text=Today%2C%20the%20quality%20of%20river%20water%20has%20improved%20markedly%20since%20the%20early%201970s%2C%20though%20critics%20say%20the%20red%20tape%20imposed%20through%20the%20Clean%20Water%20Act%20has%20become%20burdensome.%20%23ohioriverstories
+facebook: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fa-look-back-at-the-clean-water-act-movement-after-50-years.html
+{} 
 
 The CWA significantly reduced the amount of contaminants found in local streams, though even in 2019, the United States still has not complied with the pollution and quality goals it set for 1983. 
 
 Notably, the CWA exempted most agricultural uses from permit applications, so that farmers spraying fertilizer would not need to seek a permit to do so. Nutrient overload, however, is a “widespread and worsening problem,” according to EPA reports.
 
-Since its inception, the CWA has instituted water quality standards for 150 different pollutants, such as toxic chemicals, nitrogen and pathogens. Altogether, the United States has spent about $129 billion on water infrastructure, including Clean Water Appropriations and water treatment plant financing. 
+Since its inception, the CWA has instituted water quality standards for 150 different pollutants, such as toxic chemicals, nitrogen and pathogens. Altogether, the United States has spent about [$129 billion on water infrastructure](https://www.everycrsreport.com/files/20190306_R43871_62cff5283cf02a4b20e31b7b848d48bb65b8f467.pdf), including Clean Water Appropriations and water treatment plant financing. 
 
-Recent rollbacks
+h2: Recent rollbacks
 
-The Clean Water Act says it is a comprehensive program “for preventing, reducing, or eliminating the pollution of the navigable waters and ground waters and improving the sanitary condition of surface and underground waters.”
+[The Clean Water Act](https://www3.epa.gov/npdes/pubs/cwatxt.txt) says it is a comprehensive program “for preventing, reducing, or eliminating the pollution of the navigable waters and ground waters and improving the sanitary condition of surface and underground waters.”
 
 But what exactly are “navigable waters and ground waters?”
 
-This question went all the way to the U.S. Supreme Court in 2006, in Rapanos v. United States, when the Supreme Court had to decide whether four former Michigan wetlands counted as regulated bodies. They each laid near ditches or man-made drains that eventually emptied into navigable waters, though they weren’t directly adjacent to those rivers. 
+This question went all the way to the U.S. Supreme Court [in 2006, in Rapanos v. United States](https://supreme.justia.com/cases/federal/us/547/715/), when the Supreme Court had to decide whether four former Michigan wetlands counted as regulated bodies. They each laid near ditches or man-made drains that eventually emptied into navigable waters, though they weren’t directly adjacent to those rivers. 
 
 The court noted that the CWA made it illegal to dump without a permit into “navigable waters,” and the statute defines “navigable waters” as “the waters of the United States, including the territorial seas.” 
 
-Four justices decided that “waters of the United States” could only include continuously flowing bodies of water. Another four justices disagreed, noting that the Supreme Court had previously ruled that the entire watershed is key to each navigable water. Justice Anthony Kennedy wrote a concurring opinion, saying a wetland must possess a significant nexus to a navigable water. 
+{.single-photo-small}
+photo: ./assets/story-images/EYEONOHIO-clean-water-act/IMG_7020.JPG
+caption: A barge ships coal up the Ohio River near Cincinnati. (Photo by Lucia Walinchus/Eye on Ohio, the Ohio Center for Investigative Journalism) 
+{}
+Four justices decided that “waters of the United States” could only include continuously flowing bodies of water. Another four justices disagreed, noting that the Supreme Court had [previously ruled](https://supreme.justia.com/cases/federal/us/313/508/) that the entire watershed is key to each navigable water. Justice Anthony Kennedy wrote a concurring opinion, saying a wetland must possess a significant nexus to a navigable water. 
 
 But what exactly is a “significant nexus?”
 
-Over the next several years, the term sparked a plethora of lawsuits. The Obama administration solicited a 25-member review panel to look at the results of 1,200 studies and to solicit the advice of 49 experts for an opinion on exactly which wetlands should be covered. 
+Over the next several years, the term sparked a plethora of lawsuits. The Obama administration solicited a 25-member review panel to look at the results of 1,200 studies and to solicit the advice of 49 experts for [an opinion](https://cfpub.epa.gov/ncea/risk/recordisplay.cfm?deid=296414) on exactly which wetlands should be covered. 
 
-The EPA then came up with the 2015 “Waters of the United States” rule based off of that opinion. However, due to litigation, the WOTUS rule currently only applies in 22 states and federal territories. Then, in September 2019, the Trump Administration repealed the rule. 
+The EPA then came up with the 2015 “Waters of the United States” rule based off of that opinion. However, due to litigation, the WOTUS rule currently only applies in 22 states and federal territories. Then, in September 2019, the Trump Administration [repealed the rule](https://www.epa.gov/wotus-rule/definition-waters-united-states-recodification-pre-existing-rules). 
 
 As a result, at least 16 million acres across the United States lost protections, with the possibility of more losses to come.
+
+{.inline-img}
+img: ./assets/story-images/EYEONOHIO-clean-water-act/epa-graphic.png
+alt: (Source: U.S. Environmental Protection Agency)
+caption: (Source: U.S. Environmental Protection Agency)
+{}
 
 “We already have lost in Ohio, historically, around 90 percent of our wetlands,” said Mažeika Sulliván, director of the Wilma H. Schiermeier Olentangy River Wetland Research Park at Ohio State University. “And these wetlands are what helps flood control. These wetlands sequester nutrients, so that nutrients coming off of [agricultural] fields or other types of things, wetlands pick these up and transform them before they get in the streams and rivers downstream and end up in the Gulf of Mexico.”
 
@@ -58,29 +86,42 @@ Tony Francois, senior attorney at the Pacific Legal Foundation, disagreed with r
 
 “Everybody struggles with whether or not a given aquatic feature on private property is covered or not. There’s a very expensive consulting process that you have to go through to get the government to tell you ‘yay’ or ‘nay,’ one way or another,” he said. 
 
-For example, his client Joseph Robertson was criminally convicted after digging drainage ponds. The case went to the Supreme Court, though it was dismissed after Robertson passed away this year. 
+{.single-photo-small}
+photo: ./assets/story-images/EYEONOHIO-clean-water-act/epa-impaired-waters-map.png
+caption: (Map by Blue Raster)
+{}
+
+For example, his client [Joseph Robertson](https://mtstandard.com/natural-resources/a-drop-in-the-pond-joseph-robertson-shrugs-off-federal/article_cc763370-d510-5d3f-abb2-93cbf9d1fc16.html) was criminally convicted after digging drainage ponds. The case went to the Supreme Court, though it was [dismissed](https://www.courtlistener.com/opinion/4638208/united-states-v-joseph-robertson/?q=16-30178&order_by=score+desc&court=ca9+dcd+almd+alnd+alsd+akd+azd+ared+arwd+cacd+caed+cand+casd+cod+ctd+ded+flmd+flnd+flsd+gamd+gand+gasd+hid+idd+ilcd+ilnd+ilsd+innd+insd+iand+iasd+ksd+kyed+kywd+laed+lamd+lawd+med+mdd+mad+mied+miwd+mnd+msnd+mssd+moed+mowd+mtd+ned+nvd+nhd+njd+nmd+nyed+nynd+nysd+nywd+nced+ncmd+ncwd+ndd+ohnd+ohsd+oked+oknd+okwd+ord+paed+pamd+pawd+rid+scd+sdd+tned+tnmd+tnwd+txed+txnd+txsd+txwd+utd+vtd+vaed+vawd+waed+wawd+wvnd+wvsd+wied+wiwd+wyd+gud+nmid+prd+vid+californiad+caca+circtdel+illinoised+illinoisd+indianad+orld+circtnc+ohiod+pennsylvaniad+southcarolinaed+southcarolinawd+tennessed+circttenn+canalzoned+bap1+bap2+bap6+bap8+bap9+bap10+bapme+bapma+almb+alnb+alsb+akb+arb+areb+arwb+cacb+caeb+canb+casb+cob+ctb+deb+dcb+flmb+flnb+flsb+gamb+ganb+gasb+hib+idb+ilcb+ilnb+ilsb+innb+insb+ianb+iasb+ksb+kyeb+kywb+laeb+lamb+lawb+meb+mdb+mab+mieb+miwb+mnb+msnb+mssb+moeb+mowb+mtb+nebraskab+nvb+nhb+njb+nmb+nyeb+nynb+nysb+nywb+nceb+ncmb+ncwb+ndb+ohnb+ohsb+okeb+oknb+okwb+orb+paeb+pamb+pawb+rib+scb+sdb+tneb+tnmb+tnwb+tennesseeb+txeb+txnb+txsb+txwb+utb+vtb+vaeb+vawb+waeb+wawb+wvnb+wvsb+wieb+wiwb+wyb+gub+nmib+prb+vib+ala+alactapp+alacrimapp+alacivapp+alaska+alaskactapp+ariz+arizctapp+ariztaxct+ark+arkctapp+arkworkcompcom+arkag+cal+calctapp+calappdeptsuper+calag+colo+coloctapp+coloworkcompcom+coloag+conn+connappct+connsuperct+connworkcompcom+del+delch+delsuperct+delctcompl+delfamct+deljudct+dc+fla+fladistctapp+flaag+ga+gactapp+haw+hawapp+idaho+idahoctapp+ill+illappct+ind+indctapp+indtc+iowa+iowactapp+kan+kanctapp+kanag+ky+kyctapp+kyctapphigh+la+lactapp+laag+me+md+mdctspecapp+mdag+mass+massappct+masssuperct+massdistct+maworkcompcom+mich+michctapp+minn+minnctapp+minnag+miss+missctapp+mo+moctapp+moag+mont+monttc+montag+neb+nebctapp+nebag+nev+nh+nj+njsuperctappdiv+njtaxct+njch+nm+nmctapp+ny+nyappdiv+nyappterm+nysupct+nyfamct+nysurct+nycivct+nycrimct+nyag+nc+ncctapp+ncsuperct+ncworkcompcom+nd+ndctapp+ohio+ohioctapp+ohioctcl+okla+oklacivapp+oklacrimapp+oklajeap+oklacoj+oklaag+or+orctapp+ortc+pa+pasuperct+pacommwct+cjdpa+ri+risuperct+sc+scctapp+sd+tenn+tennctapp+tenncrimapp+tennsuperct+tex+texapp+texcrimapp+texreview+texjpml+texag+utah+utahctapp+vt+vtsuperct+va+vactapp+wash+washctapp+washag+wva+wis+wisctapp+wisag+wyo+ag+afcca+asbca+armfor+acca+uscfc+tax+mc+mspb+nmcca+cavc+bva+fiscr+fisc+cit+usjc+jpml+sttex+stp+cc+com+ccpa+cusc+eca+tecoa+reglrailreorgct+kingsbench&type=o&stat_Non-Precedential=on&) after Robertson passed away this year. 
 
 “Right now, what’s developed is this partisan back and forth between administrations of different political parties of how broadly or narrowly to define this term,” Francois said. “That’s not good for the regulated public, and that’s not good for the environment either.” 
 
-In April, the Trump Administration issued an executive order directing the EPA to update its regulations on the Water Quality Certification process under the CWA as well. The proposed changes would, among other things, waive the required permit to dump regulated pollutants into large bodies of water if a state or tribe didn’t issue one in the legally required period. It would also limit environmental aquatic impact statements — for example, by not noting air quality or transportation effects. 
+In April, the Trump Administration issued an executive order directing the EPA to update its [regulations on the Water Quality Certification](https://www.regulations.gov/docketBrowser?rpp=25&so=DESC&sb=commentDueDate&po=0&D=EPA-HQ-OW-2019-0405) process under the CWA as well. The proposed changes would, among other things, waive the required permit to dump regulated pollutants into large bodies of water if a state or tribe didn’t issue one in the legally required period. It would also limit environmental aquatic impact statements — for example, by not noting air quality or transportation effects.
 
-The public comment period on the measure lasted from Aug. 22 to Oct. 21, with nearly 4,000 comments registered. A new regulation is expected later in the winter. 
+more_stories: 100 
+
+The [public comment period](https://www.regulations.gov/comment?D=EPA-HQ-OW-2019-0405-0025) on the measure lasted from Aug. 22 to Oct. 21, with nearly 4,000 comments registered. A new regulation is expected later in the winter. 
 
 “That’s a really interesting one because it’s probably the most important lever for states to weigh in on federal permitting … including [for] some of the natural gas infrastructure that’s going on in Ohio,” said Madeline Fleisher, an environmental lawyer at Dickinson Wright in Columbus and a former associate in the Environment and Natural Resources Division at the Department of Justice. “So I think that will be really important for folks in Ohio to keep an eye on.”
 
-Looking to the future
+h2: Looking to the future
 
 The biggest difference between now and before the Clean Water Act is that citizens who have grown up with it have come to expect clean water, and they aren’t happy when the river gets polluted, said Howard Learner, president of the Environmental Law and Policy Center, the largest Midwest public-interest environmental legal advocacy group. 
 
 “I think we’re at a transition point now where there is an overwhelming public consensus on the need for businesses to reduce pollution in community waterways and for our state and federal governments to step up by implementing enforceable regulatory standards leading to cleaner, safe drinking water, robust fisheries and enjoyable outdoor recreation,” he said.  
 
-The Environmental Law and Policy Center sued the U.S. EPA for failing to enforce the CWA after toxic algal blooms near Toledo in 2017. The Ohio EPA later acknowledged that western Lake Erie waters were impaired. The parties involved are still sorting out exactly how to prevent more algae. 
+The Environmental Law and Policy Center [sued the U.S. EPA](https://www.courtlistener.com/docket/6121783/environmental-law-and-policy-center-v-environmental-protection-agency/) for failing to enforce the CWA after toxic algal blooms near Toledo in 2017. The Ohio EPA later acknowledged that western Lake Erie waters were impaired. The parties involved are [still sorting out](https://www.toledoblade.com/local/environment/2019/09/24/Judge-Carr-says-he-puzzled-over-what-Ohio-actually-is-doing-to-help-reduce-Lake-Erie-s-algae-burden/stories/20190924137) exactly how to prevent more algae. 
 
 So far, the EPA has finalized 46 deregulatory actions under the Trump administration, and EPA Administrator Andrew Wheeler has publicly stated that his goal is to continue pursuing a similar policy. 
 
+{.pullquote}
+text: “But the power we all see with the Ohio River — we have this shared care for it. Its restoration would be symbolic of something bigger.”
+twitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fa-look-back-at-the-clean-water-act-movement-after-50-years.html&amp;text=%E2%80%9CBut%20the%20power%20we%20all%20see%20with%20the%20Ohio%20River%20%E2%80%94%20we%20have%20this%20shared%20care%20for%20it.%20Its%20restoration%20would%20be%20symbolic%20of%20something%20bigger.%E2%80%9D%20%23ohioriverstories
+facebook: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fa-look-back-at-the-clean-water-act-movement-after-50-years.html
+{} 
+
 For this article, an EPA spokesman issued a statement, saying that, “The EPA’s existing certification rules have not been updated in nearly 50 years, were promulgated before Section 401 [the CWA permitting process] was enacted, and are inconsistent with the text of CWA Section 401. The EPA is proposing to modernize and clarify the timeline and scope of CWA Section 401 certification review and action to be consistent with the plain language of the CWA.”
 
-At the state level, water quality issues are a perennial concern. The CWA so far does not regulate PFAS (per- and polyfluoroalkyl substances) used in firefighting foam, food packaging and industrial processes. In the last week of September, Gov. Mike DeWine ordered the Ohio EPA and Department of Health to develop a plan for testing drinking water for PFAS, due Dec. 1. Neighboring Pennsylvania is in the process of testing more than 300 drinking water sources across the state to try to determine the scope of the contamination problem.
+At the state level, water quality issues are a perennial concern. The CWA so far does not regulate PFAS (per- and polyfluoroalkyl substances) used in firefighting foam, food packaging and industrial processes. In the last week of September, Gov. Mike DeWine [ordered the Ohio EPA](https://governor.ohio.gov/wps/portal/gov/governor/media/news-and-media/analysis-of-pfas-in-drinking-water) and Department of Health to develop a plan for testing drinking water for PFAS, due Dec. 1. Neighboring Pennsylvania is in the process of testing more than 300 drinking water sources across the state to try to determine the scope of the contamination problem.
 
 Dustin Herrmann, assistant professor of environmental studies at the University of Cincinnati, said environmental change will have to come from not only regulatory forces, but also market pressures. Herrmann got his Ph.D. in ecology, researching how urban landscapes affect the water and nitrogen cycles and focusing on how cities can use green infrastructure to meet CWA standards.  
 
@@ -88,6 +129,8 @@ The Ohio River, he said, is a “defining feature of a large region.”
 
 “It’s a shared identity. Wetland 732 in County E doesn’t really have a shared identity. But the power we all see with the Ohio River — we have this shared care for it. Its restoration would be symbolic of something bigger.”
 
-Lucia Walinchus, the author of this story, serves as executive director at Eye on Ohio, the Ohio Center for Investigative Journalism. She can be reached at lucia@eyeonohio.com.
+*Lucia Walinchus, the author of this story, serves as executive director at Eye on Ohio, the Ohio Center for Investigative Journalism. She can be reached at lucia@eyeonohio.com.*
 
-Good River: Stories of the Ohio is a series about the environment, economy and culture of the Ohio River watershed, produced by seven nonprofit newsrooms. To see more, please visit ohiowatershed.org.
+*Good River: Stories of the Ohio is a series about the environment, economy and culture of the Ohio River watershed, produced by seven nonprofit newsrooms. To see more, please visit [ohiowatershed.org](https://www.ohiowatershed.org/).*
+
+[]

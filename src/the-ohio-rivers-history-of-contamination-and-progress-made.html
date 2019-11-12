@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <title>Good River - 'That's vinegar:' The Ohio River's history of contamination and progress made</title>
+
+  <!-- Favicon -->
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/logo-white-150x.png" />
+  <link rel="icon" sizes="96x96" href="/assets/logo-white-150x.png" />
+  <link rel="icon" sizes="32x32" href="/assets/logo-white-150x.png" />
+  <link rel="icon" sizes="19x19" href="/assets/logo-white-150x.png" />
+
+  <!-- Safari, you're the worst -->
+  <meta name='format-detection' content='telephone=no'>
+
+  <!-- Font Awesome -->
+  <script src="https://kit.fontawesome.com/ddd1535883.js" crossorigin="anonymous"></script>
+
+  <!-- BEGIN TWITTER SUMMARY CARD -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Good River - 'That's vinegar:' The Ohio River's history of contamination and progress made">
+  <meta name="twitter:url" content="https://www.ohiowatershed.org/the-ohio-rivers-history-of-contamination-and-progress-made.html">
+  <meta name="twitter:image" content="./assets/story-images/100DAYS-history-of-contamination/100Days_Water_52.jpg">
+  <meta name="twitter:description" content="Good River is a reporting project by seven newsrooms across the Ohio River Watershed. Our journalists are working on stories, photos, videos, maps and more as you read this.">
+
+  <!-- Social sharing meta -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Good River - 'That's vinegar:' The Ohio River's history of contamination and progress made">
+  <meta property="og:site_name" content="Good River: Stories of the Ohio">
+  <meta property="og:url" content="https://www.ohiowatershed.org/the-ohio-rivers-history-of-contamination-and-progress-made.html">
+  <meta property="og:image" content="./assets/story-images/100DAYS-history-of-contamination/100Days_Water_52.jpg">
+  <meta property="og:description" content="Good River is a reporting project by seven newsrooms across the Ohio River Watershed. Our journalists are working on stories, photos, videos, maps and more as you read this.">
+
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <%= t.include("partials/_main_nav.html") %>
+
+  <%= t.include("partials/_story.html", {'story': archieml.daysHistoryOfContamination, 'storyList': json.storyList}) %>
+
+  <%= t.include("partials/_story-footer.html") %>
+
+  <script src="app.js" async></script>
+  <%= t.include("partials/_analytics.html") %>
+
+</body>
+</html>
