@@ -3,7 +3,7 @@ author: April Johnston
 organization: 100 Days in Appalachia
 pub: Nov. 14, 2019
 feature_img.src: ./assets/story-images/100DAYS-history-of-contamination/100Days_Water_52.jpg
-feature_img.caption:  Guy Riefler, chair of Ohio University’s Russ College of Civil Engineering, shows how the water coming from the creek has a high level of acidity. (Photos by Curren Sheldon/100 Days in Appalachia)
+feature_img.caption:  Guy Riefler, chair of Ohio University’s Russ College of Civil Engineering, shows how the water coming from the creek has a high level of acidity. (Photo by Curren Sheldon/100 Days in Appalachia)
 twitterlink.src: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fthe-ohio-rivers-history-of-contamination-and-progress-made.html&amp;text=Good%20River%3A%20Stories%20of%20the%20Ohio%20is%20a%20series%20about%20the%20environment%2C%20economy%20and%20culture%20of%20the%20Ohio%20River%20watershed.%20Journalists%20in%20seven%20nonprofit%20newsrooms%20%E2%80%94%20spanning%20five%20of%20the%2015%20watershed%20states%20%E2%80%94%20have%20been%20working%20since%20May%202019%20to%20produce%20informative%20and%20compelling%20stories%20on%20the%20river%20and%20its%20watershed.%20%23ohioriverstories
 facebooklink.src: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fthe-ohio-rivers-history-of-contamination-and-progress-made.html
 [+sections]
@@ -13,16 +13,16 @@ At the time, the best way to accomplish this was what’s called lock chamber sa
 
 On this particular day, researchers opened the chamber to find one fish inside.
 
-One fish.
+*One fish.*
 
 It shouldn’t have been surprising, said Jerry Schulte, a biologist who managed the source water protection and emergency response team for the Ohio River Valley Water Sanitation Commission [ORSANCO] for more than two decades. After all, the steel companies that dotted the region’s riverbanks were dumping their contaminated water right into the rivers. The waterways were so acidic that the steel-hulled boats meant to last 20 years rusted out in three and the pH routinely measured less than 4.
+
+“That’s vinegar,” Schulte said. “It was so polluted, you could see it, smell it and taste it.”
 
 {.groundsource}
 img: ./assets/story-images/groundsource/groundsource.png
 alt: Groundsource image
 {}
-
-“That’s vinegar,” Schulte said. “It was so polluted, you could see it, smell it and taste it.”
 
 By the time Schulte began monitoring fish species in the 1990s, thanks to environmental and industrial regulations like the Clean Water Act, the Ohio River and its major tributaries, including the Mon, had changed. They no longer looked or smelled like open sewers. Mayflies hatched on their surfaces; many pollution-intolerant aquatic species returned; and lock chamber sampling — done without cyanide — could yield hundreds, even thousands, of fish. 
 
@@ -45,12 +45,12 @@ In parts of the basin, acid mine drainage turns creeks the color of Orange Crush
 Watershed pollution in Appalachia, much of which has been caused by coal mining, is an ongoing environmental hazard that mimics the threat steel once posed to big cities on the Ohio. It threatens aquatic life, endangers people taking part in river recreation and — perhaps most critically — creates water unfit for human consumption.
 
 h2: It started with a slurry
-BarbiAnn Maynard stands on the porch of her home in Huntleyville, Kentucky, (population 188) and points across the two-lane road, where three houses perch on a tree-speckled mountainside.
+BarbiAnn Maynard stands on the porch of her home in Huntleyville, Kentucky (population 188), and points across the two-lane road, where three houses perch on a tree-speckled mountainside.
 “That one — dementia. This one — dementia. That one over there — dementia. My dad — dementia,” she said. “You can’t tell me that’s not because of the water.”
 {.single-photo-hero}
 photo: ./assets/story-images/100DAYS-history-of-contamination/100Days_Water_70.jpg
-alt: For the past 19 years, BarbiAnn Maynard has been fighting to fix contaminated water in Martin County, Kentucky. The issues began in 2000 when a coal slurry broke through an abandoned mine shaft and dumped sludge into tributaries of the Tug Fork River. (Photos by Curren Sheldon/100 Days in Appalachia)
-caption: For the past 19 years, BarbiAnn Maynard has been fighting to fix contaminated water in Martin County, Kentucky. The issues began in 2000 when a coal slurry broke through an abandoned mine shaft and dumped sludge into tributaries of the Tug Fork River. (Photos by Curren Sheldon/100 Days in Appalachia)
+alt: For the past 19 years, BarbiAnn Maynard has been fighting to fix contaminated water in Martin County, Kentucky. The issues began in 2000 when a coal slurry broke through an abandoned mine shaft and dumped sludge into tributaries of the Tug Fork River. (Photo by Curren Sheldon/100 Days in Appalachia)
+caption: For the past 19 years, BarbiAnn Maynard has been fighting to fix contaminated water in Martin County, Kentucky. The issues began in 2000 when a coal slurry broke through an abandoned mine shaft and dumped sludge into tributaries of the Tug Fork River. (Photo by Curren Sheldon/100 Days in Appalachia)
 {}
 On Oct. 11, 2000, 300 million gallons of coal slurry broke through a reservoir in Martin County, Kentucky, flooding the abandoned mine shafts below and rushing out into the waters of Wolf Creek and Coldwater Fork.
 
@@ -82,7 +82,7 @@ Representatives from the Martin County Water District did not return a phone cal
 For residents in Martin County, turning on the tap is always a surprise. Some days, it’s cloudy and smells so strongly of chlorine that it burns the eyes. Other days, water is the color of weak tea and sediment settles in toilet bowls and shower drains.  
 The result, Maynard claims, is that no one in Martin County trusts or drinks the water. Maynard drives 45 minutes to a spring at the Mingo-Logan county line in West Virginia to fill containers with fresh water to drink. She uses antibacterial hand soap as body wash in the shower and cleans her hands with disinfectant wipes rather than running them under the tap.
 {.pullquote}
-text: “I figured I could lay down and die or I could fight. “And I’m a fighter.”
+text: “I figured I could lay down and die or I could fight. And I’m a fighter.”
 twitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fthe-ohio-rivers-history-of-contamination-and-progress-made.html&amp;text=%E2%80%9CI%20figured%20I%20could%20lay%20down%20and%20die%20or%20I%20could%20fight.%20%E2%80%9CAnd%20I%E2%80%99m%20a%20fighter.%E2%80%9D%20%23ohioriverstories
 facebook: https://www.facebook.com/sharer.php?s=100&p[url]=https%3A%2F%2Fwww.ohiowatershed.org%2F%2Fthe-ohio-rivers-history-of-contamination-and-progress-made.html
 {}
@@ -110,7 +110,7 @@ Before 2004, that water washed across a field and the road before dumping into H
 Today, the water from AS-14 instead flows into a tall green structure — known as the Carbondale doser — and turns a wheel, releasing pinches of powdery calcium oxide from the cylindrical tower above. The calcium oxide neutralizes the acid in the water as it makes its way through a concrete channel and into Hewett Fork.
 
 {.story_photo_grid}
-top_left: ./assets/story-images/100DAYS-history-of-contamination/100Days_Water_27.jpg
+top_left: ./assets/story-images/100DAYS-history-of-contamination/100Days_Water_26.jpg
 top_right: ./assets/story-images/100DAYS-history-of-contamination/100Days_Water_32.jpg
 big_bottom: ./assets/story-images/100DAYS-history-of-contamination/100Days_Water_16.jpg
 caption: A creek contaminated with acid mine drainage twists through the hills of the Appalachian Mountains in Eastern Ohio. (Photos by Curren Sheldon/100 Days in Appalachia)
@@ -132,7 +132,7 @@ Since 1977, the federal Abandoned Mine Land Reclamation Program has doled out mo
 
 {.single-photo-hero}
 photo: ./assets/story-images/100DAYS-history-of-contamination/100Days_Water_68.jpg
-caption: Jen Bowman, the director of environmental programs for Ohio University’s Voinovich School of Leadership and Public Affairs, has been working on acid mine drainage abatement since her days as a graduate student. (Photos by Curren Sheldon/100 Days in Appalachia)
+caption: Jen Bowman, the director of environmental programs for Ohio University’s Voinovich School of Leadership and Public Affairs, has been working on acid mine drainage abatement since her days as a graduate student. (Photo by Curren Sheldon/100 Days in Appalachia)
 {}
 This is the great irony of coal: the restoration of abandoned mines hinges on the perpetuation of coal mining.
 
