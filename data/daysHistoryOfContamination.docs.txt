@@ -4,7 +4,7 @@ organization: 100 Days in Appalachia
 pub: Nov. 14, 2019
 feature_img.src: ./assets/images/100DAYS-history-of-contamination/100Days_Water_52.jpg
 feature_img.caption:  Guy Riefler, chair of Ohio University’s Russ College of Civil Engineering, shows how the water coming from the creek has a high level of acidity. (Photos by Curren Sheldon/100 Days in Appalachia)
-twitterlink.src: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fthe-ohio-rivers-history-of-contamination-and-progress-made.html&amp;text=Good%20River%3A%20Stories%20of%20the%20Ohio%3A%20'That's%20vinegar%3A'%20The%20Ohio%20River's%20history%20of%20contamination%20and%20progress%20made%20%23ohioriverstories
+twitterlink.src: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fthe-ohio-rivers-history-of-contamination-and-progress-made.html&amp;text=Good%20River%3A%20Stories%20of%20the%20Ohio%20is%20a%20series%20about%20the%20environment%2C%20economy%20and%20culture%20of%20the%20Ohio%20River%20watershed.%20Journalists%20in%20seven%20nonprofit%20newsrooms%20%E2%80%94%20spanning%20five%20of%20the%2015%20watershed%20states%20%E2%80%94%20have%20been%20working%20since%20May%202019%20to%20produce%20informative%20and%20compelling%20stories%20on%20the%20river%20and%20its%20watershed.%20%23ohioriverstories
 facebooklink.src: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fthe-ohio-rivers-history-of-contamination-and-progress-made.html
 [+sections]
 In 1958, researchers from the University of Louisville and the Ohio River Valley Water Sanitation Commission gathered at a lock on the Monongahela River for routine collecting, counting and comparing of fish species. 
@@ -32,7 +32,7 @@ Functioning doesn’t mean perfect, however. As recently as 2015, the U.S. Envir
 
 {.pullquote}
 text: “That’s vinegar. It was so polluted, you could see it, smell it and taste it.”
-twitter: https://twitter.com/share?url=%E2%80%9CThat%E2%80%99s%20vinegar.%20It%20was%20so%20polluted%2C%20you%20could%20see%20it%2C%20smell%20it%20and%20taste%20it.%E2%80%9D%20%23ohioriverstories%20https%3A%2F%2Fwww.ohiowatershed.org%2F%2Fthe-ohio-rivers-history-of-contamination-and-progress-made.html
+twitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fthe-ohio-rivers-history-of-contamination-and-progress-made.html&amp;text=%E2%80%9CThat%E2%80%99s%20vinegar.%20It%20was%20so%20polluted%2C%20you%20could%20see%20it%2C%20smell%20it%20and%20taste%20it.%E2%80%9D%20%23ohioriverstories
 facebook: https://www.facebook.com/sharer.php?s=100&p[url]=https%3A%2F%2Fwww.ohiowatershed.org%2F%2Fthe-ohio-rivers-history-of-contamination-and-progress-made.html
 {}
 
@@ -83,7 +83,7 @@ For residents in Martin County, turning on the tap is always a surprise. Some da
 The result, Maynard claims, is that no one in Martin County trusts or drinks the water. Maynard drives 45 minutes to a spring at the Mingo-Logan county line in West Virginia to fill containers with fresh water to drink. She uses antibacterial hand soap as body wash in the shower and cleans her hands with disinfectant wipes rather than running them under the tap.
 {.pullquote}
 text: “I figured I could lay down and die or I could fight. “And I’m a fighter.”
-twitter: https://twitter.com/share?url=%E2%80%9CI%20figured%20I%20could%20lay%20down%20and%20die%20or%20I%20could%20fight.%20%E2%80%9CAnd%20I%E2%80%99m%20a%20fighter.%E2%80%9D%20%23ohioriverstories%20https%3A%2F%2Fwww.ohiowatershed.org%2F%2Fthe-ohio-rivers-history-of-contamination-and-progress-made.html
+twitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fthe-ohio-rivers-history-of-contamination-and-progress-made.html&amp;text=%E2%80%9CI%20figured%20I%20could%20lay%20down%20and%20die%20or%20I%20could%20fight.%20%E2%80%9CAnd%20I%E2%80%99m%20a%20fighter.%E2%80%9D%20%23ohioriverstories
 facebook: https://www.facebook.com/sharer.php?s=100&p[url]=https%3A%2F%2Fwww.ohiowatershed.org%2F%2Fthe-ohio-rivers-history-of-contamination-and-progress-made.html
 {}
 She’d like nothing more than to follow her now-grown daughters out of the county and leave the water issues behind, but her land along the Tug Fork in Huntleyville has been in the family for five generations and she is her ill father’s caretaker. So she came up with another option.
