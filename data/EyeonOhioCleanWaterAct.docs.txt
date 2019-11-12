@@ -70,7 +70,11 @@ The EPA then came up with the 2015 “Waters of the United States” rule based 
 
 As a result, at least 16 million acres across the United States lost protections, with the possibility of more losses to come.
 
-more_stories: 100
+{.inline-img}
+img: ./assets/story-images/EYEONOHIO-clean-water-act/epa-graphic.png
+alt: (Source: U.S. Environmental Protection Agency)
+caption: (Source: U.S. Environmental Protection Agency)
+{}
 
 “We already have lost in Ohio, historically, around 90 percent of our wetlands,” said Mažeika Sulliván, director of the Wilma H. Schiermeier Olentangy River Wetland Research Park at Ohio State University. “And these wetlands are what helps flood control. These wetlands sequester nutrients, so that nutrients coming off of [agricultural] fields or other types of things, wetlands pick these up and transform them before they get in the streams and rivers downstream and end up in the Gulf of Mexico.”
 
@@ -82,17 +86,18 @@ Tony Francois, senior attorney at the Pacific Legal Foundation, disagreed with r
 
 “Everybody struggles with whether or not a given aquatic feature on private property is covered or not. There’s a very expensive consulting process that you have to go through to get the government to tell you ‘yay’ or ‘nay,’ one way or another,” he said. 
 
-{.pullquote}
-text: “Right now, what’s developed is this partisan back and forth between administrations of different political parties of how broadly or narrowly to define this term. That’s not good for the regulated public, and that’s not good for the environment either.”
-twitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fa-look-back-at-the-clean-water-act-movement-after-50-years.html&amp;text=%E2%80%9CRight%20now%2C%20what%E2%80%99s%20developed%20is%20this%20partisan%20back%20and%20forth%20between%20administrations%20of%20different%20political%20parties%20of%20how%20broadly%20or%20narrowly%20to%20define%20this%20term.%20That%E2%80%99s%20not%20good%20for%20the%20regulated%20public%2C%20and%20that%E2%80%99s%20not%20good%20for%20the%20environment%20either.%E2%80%9D%20%23ohioriverstories
-facebook: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fa-look-back-at-the-clean-water-act-movement-after-50-years.html
-{} 
+{.single-photo-small}
+photo: ./assets/story-images/EYEONOHIO-clean-water-act/epa-impaired-waters-map.png
+caption: (Map by Blue Raster)
+{}
 
 For example, his client [Joseph Robertson](https://mtstandard.com/natural-resources/a-drop-in-the-pond-joseph-robertson-shrugs-off-federal/article_cc763370-d510-5d3f-abb2-93cbf9d1fc16.html) was criminally convicted after digging drainage ponds. The case went to the Supreme Court, though it was [dismissed](https://www.courtlistener.com/opinion/4638208/united-states-v-joseph-robertson/?q=16-30178&order_by=score+desc&court=ca9+dcd+almd+alnd+alsd+akd+azd+ared+arwd+cacd+caed+cand+casd+cod+ctd+ded+flmd+flnd+flsd+gamd+gand+gasd+hid+idd+ilcd+ilnd+ilsd+innd+insd+iand+iasd+ksd+kyed+kywd+laed+lamd+lawd+med+mdd+mad+mied+miwd+mnd+msnd+mssd+moed+mowd+mtd+ned+nvd+nhd+njd+nmd+nyed+nynd+nysd+nywd+nced+ncmd+ncwd+ndd+ohnd+ohsd+oked+oknd+okwd+ord+paed+pamd+pawd+rid+scd+sdd+tned+tnmd+tnwd+txed+txnd+txsd+txwd+utd+vtd+vaed+vawd+waed+wawd+wvnd+wvsd+wied+wiwd+wyd+gud+nmid+prd+vid+californiad+caca+circtdel+illinoised+illinoisd+indianad+orld+circtnc+ohiod+pennsylvaniad+southcarolinaed+southcarolinawd+tennessed+circttenn+canalzoned+bap1+bap2+bap6+bap8+bap9+bap10+bapme+bapma+almb+alnb+alsb+akb+arb+areb+arwb+cacb+caeb+canb+casb+cob+ctb+deb+dcb+flmb+flnb+flsb+gamb+ganb+gasb+hib+idb+ilcb+ilnb+ilsb+innb+insb+ianb+iasb+ksb+kyeb+kywb+laeb+lamb+lawb+meb+mdb+mab+mieb+miwb+mnb+msnb+mssb+moeb+mowb+mtb+nebraskab+nvb+nhb+njb+nmb+nyeb+nynb+nysb+nywb+nceb+ncmb+ncwb+ndb+ohnb+ohsb+okeb+oknb+okwb+orb+paeb+pamb+pawb+rib+scb+sdb+tneb+tnmb+tnwb+tennesseeb+txeb+txnb+txsb+txwb+utb+vtb+vaeb+vawb+waeb+wawb+wvnb+wvsb+wieb+wiwb+wyb+gub+nmib+prb+vib+ala+alactapp+alacrimapp+alacivapp+alaska+alaskactapp+ariz+arizctapp+ariztaxct+ark+arkctapp+arkworkcompcom+arkag+cal+calctapp+calappdeptsuper+calag+colo+coloctapp+coloworkcompcom+coloag+conn+connappct+connsuperct+connworkcompcom+del+delch+delsuperct+delctcompl+delfamct+deljudct+dc+fla+fladistctapp+flaag+ga+gactapp+haw+hawapp+idaho+idahoctapp+ill+illappct+ind+indctapp+indtc+iowa+iowactapp+kan+kanctapp+kanag+ky+kyctapp+kyctapphigh+la+lactapp+laag+me+md+mdctspecapp+mdag+mass+massappct+masssuperct+massdistct+maworkcompcom+mich+michctapp+minn+minnctapp+minnag+miss+missctapp+mo+moctapp+moag+mont+monttc+montag+neb+nebctapp+nebag+nev+nh+nj+njsuperctappdiv+njtaxct+njch+nm+nmctapp+ny+nyappdiv+nyappterm+nysupct+nyfamct+nysurct+nycivct+nycrimct+nyag+nc+ncctapp+ncsuperct+ncworkcompcom+nd+ndctapp+ohio+ohioctapp+ohioctcl+okla+oklacivapp+oklacrimapp+oklajeap+oklacoj+oklaag+or+orctapp+ortc+pa+pasuperct+pacommwct+cjdpa+ri+risuperct+sc+scctapp+sd+tenn+tennctapp+tenncrimapp+tennsuperct+tex+texapp+texcrimapp+texreview+texjpml+texag+utah+utahctapp+vt+vtsuperct+va+vactapp+wash+washctapp+washag+wva+wis+wisctapp+wisag+wyo+ag+afcca+asbca+armfor+acca+uscfc+tax+mc+mspb+nmcca+cavc+bva+fiscr+fisc+cit+usjc+jpml+sttex+stp+cc+com+ccpa+cusc+eca+tecoa+reglrailreorgct+kingsbench&type=o&stat_Non-Precedential=on&) after Robertson passed away this year. 
 
 “Right now, what’s developed is this partisan back and forth between administrations of different political parties of how broadly or narrowly to define this term,” Francois said. “That’s not good for the regulated public, and that’s not good for the environment either.” 
 
-In April, the Trump Administration issued an executive order directing the EPA to update its [regulations on the Water Quality Certification](https://www.regulations.gov/docketBrowser?rpp=25&so=DESC&sb=commentDueDate&po=0&D=EPA-HQ-OW-2019-0405) process under the CWA as well. The proposed changes would, among other things, waive the required permit to dump regulated pollutants into large bodies of water if a state or tribe didn’t issue one in the legally required period. It would also limit environmental aquatic impact statements — for example, by not noting air quality or transportation effects. 
+In April, the Trump Administration issued an executive order directing the EPA to update its [regulations on the Water Quality Certification](https://www.regulations.gov/docketBrowser?rpp=25&so=DESC&sb=commentDueDate&po=0&D=EPA-HQ-OW-2019-0405) process under the CWA as well. The proposed changes would, among other things, waive the required permit to dump regulated pollutants into large bodies of water if a state or tribe didn’t issue one in the legally required period. It would also limit environmental aquatic impact statements — for example, by not noting air quality or transportation effects.
+
+more_stories: 100 
 
 The [public comment period](https://www.regulations.gov/comment?D=EPA-HQ-OW-2019-0405-0025) on the measure lasted from Aug. 22 to Oct. 21, with nearly 4,000 comments registered. A new regulation is expected later in the winter. 
 
