@@ -18,15 +18,6 @@
     "link": "a-look-back-at-the-clean-water-act-movement-after-50-years.html"
   },
   {
-    "story_id": 999,
-    "headlines": "",
-    "publish_date": "",
-    "authors": "",
-    "org": "",
-    "img_filename": "good-river-facts-v3.jpg",
-    "link": "facts.html"
-  },
-  {
     "story_id": 998,
     "headlines": "",
     "publish_date": "",
@@ -34,5 +25,14 @@
     "org": "",
     "img_filename": "good-river-map-v3.jpg",
     "link": "map.html"
+  },
+  {
+    "story_id": 102,
+    "headlines": "Video: Paddling 300 miles to protect the waters of Ohiyo', the 'good river'",
+    "publish_date": "November 14, 2019",
+    "authors": "Ryan Loew",
+    "org": "PublicSource",
+    "img_filename": "PUBLISOURCE-seneca-nation-video/dega_1500x1000.jpg",
+    "link": "seneca-nation-video.html"
   }
 ]

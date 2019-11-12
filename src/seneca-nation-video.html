@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+  <%= t.include("partials/_head.html", grunt.data.json) %>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <%= t.include("partials/_main_nav.html") %>
+
+  <div class="container top-margin ">
+    <div id="story-page">
+      <div class="row">
+        <div class="six columns offset-by-three">
+            <h1>Paddling 300 miles to protect the waters of Ohiyo', the 'good river'</h1>
+            <div class="wave-divider"></div>
+            <div class="authors">Ryan Loew</div>
+            <div class="org">PublicSource</div>
+            <div class="date">Nov. 14, 2019</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<div class="container" style="margin-top: 1em; margin-bottom: 3em;">
+  <div class="row">
+      <div class="twelve columns">
+        <div class='embed-container'>
+          <iframe src='https://player.vimeo.com/video/369403949?title=0&byline=0&portrait=0' frameborder='0' allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+<div class="container">
+  <div class="row">
+    <div class="six columns offset-by-three">
+      <div id="story-page-body">
+
+        <p>For degawëno:da’s, paddling the length of the Allegheny River over the course of four months this year was to be a “witness to the raw element of the natural world.”</p>
+
+        <p>The roughly 300-mile trip began on May 18 at the river’s headwaters near Coudersport, Pa., and ended on Sept. 21 by the Point State Park fountain in downtown Pittsburgh. </p>
+
+        <p>The 49-year-old New York resident is a member of <a href="https://www.facebook.com/groups/2021812548032842/" target="_blank">Defend Ohi:yo’</a>, a grassroots organization committed to protecting the Allegheny River and all waterways. “Ohi:yo’” translates to “good river” in the Seneca language.</p>
+
+        <p>The Allegheny and Monongahela rivers form the beginning of the Ohio River in Pittsburgh, and much of the Allegheny River flows within the Ohio River watershed.</p>
+
+        <p>Sometimes alone on legs of the journey, other times accompanied by fellow paddlers, degawëno:da’s said the trip was to call attention to the need for vigilance in protecting the region’s waters and to “give people an opportunity to acknowledge their natural surroundings.”</p>
+
+        <p>Along the river, degawëno:da’s saw not only beauty but also industrialization and, on many portions of the trip, he said he felt his ancestors traveling along as well. “I had a few instances where they revealed themselves in different ways.”</p>
+
+        <p>He hopes to follow up with many of the people he met along the journey, continuing to impress upon them the importance of protecting the waterway and advocating that it have the same rights to safety and well-being that humans have.</p>
+
+        <p><em>The video was produced by Ryan Loew, with additional footage from Nick Childers, for PublicSource. Loew can be reached at ryan@publicsource.org</em></p>
+
+        <p><em>Good River: Stories of the Ohio is a series about the environment, economy, and culture of the Ohio River watershed, produced by seven nonprofit newsrooms. To see more, please visit <a href="https://www.ohiowatershed.org/" target="_blank">ohiowatershed.org</a>.</em></p>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+  <%= t.include("partials/_story-footer.html") %>
+
+  <script src="app.js" async></script>
+  <%= t.include("partials/_analytics.html") %>
+
+</body>
+</html>
