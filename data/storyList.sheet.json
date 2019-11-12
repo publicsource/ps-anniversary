@@ -1,21 +1,21 @@
 [
   {
     "story_id": 100,
-    "headlines": "Headlines are great, sometimes they're super long like this one let's see maybe edit your stuff better",
-    "publish_date": "November 9, 2019",
-    "authors": "Rance McCullough",
-    "org": "FreeRide",
-    "img_filename": "example-story-img.jpg",
-    "link": "story.html"
+    "headlines": "That's vinegar:' The Ohio River's history of contamination and progress made",
+    "publish_date": "November 14, 2019",
+    "authors": "April Johnston",
+    "org": "100 Days in Appalachia",
+    "img_filename": "/100DAYS-history-of-contamination/100Days_Water_52.jpg",
+    "link": "the-ohio-rivers-history-of-contamination-and-progress-made.html"
   },
   {
     "story_id": 101,
-    "headlines": "This is a headline",
-    "publish_date": "November 11, 2019",
-    "authors": "Natasha Vicens",
-    "org": "PublicSource",
-    "img_filename": "example-story-img.jpg",
-    "link": "#"
+    "headlines": "The water is cleaner but the politics are messier: A look back at the Clean Water Act movement after 50 years",
+    "publish_date": "November 14, 2019",
+    "authors": "Lucia Walinchus",
+    "org": "Eye on Ohio, the Ohio Center for Investigative Journalism",
+    "img_filename": "/EYEONOHIO-clean-water-act/IMG_7008.JPG",
+    "link": "a-look-back-at-the-clean-water-act-movement-after-50-years.html"
   },
   {
     "story_id": 999,
@@ -27,15 +27,6 @@
     "link": "facts.html"
   },
   {
-    "story_id": 102,
-    "headlines": "This is another headline, something longer",
-    "publish_date": "November 19, 2019",
-    "authors": "Alexandra Kanik",
-    "org": "Louisville Public Media",
-    "img_filename": "example-story-img.jpg",
-    "link": "#"
-  },
-  {
     "story_id": 998,
     "headlines": "",
     "publish_date": "",
@@ -43,68 +34,5 @@
     "org": "",
     "img_filename": "good-river-map-v4.jpg",
     "link": "map.html"
-  },
-  {
-    "story_id": 103,
-    "headlines": "Oh look, this one has a Proper Noun in it",
-    "publish_date": "November 24, 2019",
-    "authors": "Raul Carivagio",
-    "org": "Belt",
-    "img_filename": "example-story-img.jpg",
-    "link": "#"
-  },
-  {
-    "story_id": 104,
-    "headlines": "How you headline: Headlines with colons",
-    "publish_date": "December 1, 2019",
-    "authors": "Paul Rubins",
-    "org": "100 Days in Appalachia",
-    "img_filename": "example-story-img.jpg",
-    "link": "#"
-  },
-  {
-    "story_id": 105,
-    "headlines": "More headlines, more things",
-    "publish_date": "December 2, 2019",
-    "authors": "Alexandra Kanik",
-    "org": "Louisville Public Media",
-    "img_filename": "example-story-img.jpg",
-    "link": "#"
-  },
-  {
-    "story_id": 106,
-    "headlines": "How to eat make coffee the right way",
-    "publish_date": "December 3, 2019",
-    "authors": "Alexandra Kanik",
-    "org": "Louisville Public Media",
-    "img_filename": "example-story-img.jpg",
-    "link": "#"
-  },
-  {
-    "story_id": 107,
-    "headlines": "I'd like to be camping right now",
-    "publish_date": "December 4, 2019",
-    "authors": "Alexandra Kanik",
-    "org": "Louisville Public Media",
-    "img_filename": "example-story-img.jpg",
-    "link": "#"
-  },
-  {
-    "story_id": 108,
-    "headlines": "I think I'd rather be a the beach than coding right now",
-    "publish_date": "December 5, 2019",
-    "authors": "Alexandra Kanik",
-    "org": "Louisville Public Media",
-    "img_filename": "example-story-img.jpg",
-    "link": "#"
-  },
-  {
-    "story_id": 109,
-    "headlines": "How to be at the beach instead of coding",
-    "publish_date": "December 6, 2019",
-    "authors": "Alexandra Kanik",
-    "org": "Louisville Public Media",
-    "img_filename": "example-story-img.jpg",
-    "link": "#"
   }
 ]
