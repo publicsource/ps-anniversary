@@ -17,12 +17,6 @@
 	max-width: 30rem;
 }
 
-@media (min-width: 1200px) {
-  #scrolly article {
-  	max-width: 50rem;
-  }
-}
-
 #scrolly figure {
 	position: -webkit-sticky;
 	position: sticky;
@@ -79,4 +73,18 @@
 	padding: 1rem;
 	font-size: 1.75rem;
 	background-color: #3b3b3b;
+}
+
+@media (min-width: 1200px) {
+  #scrolly article {
+  	max-width: 50rem;
+  }
+  
+  #scrolly .step p {
+    font-size: 2em;
+  }
+  
+  #scrolly figure img {
+  	max-width:90%;
+  }
 }
