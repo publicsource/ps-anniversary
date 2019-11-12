@@ -34,17 +34,17 @@ The Clean Water Act [CWA] requires a permit for any regulated pollutants dumped 
 
 For example, [E. coli bacteria can’t exceed](https://www.epa.gov/sites/production/files/2015-10/documents/rwqc2012.pdf) 126 colony-forming units of bacteria per 100 milliliters. The EPA recommended the standard first in 1986, based in part on studies of a [sewage-contaminated Ohio River beach](https://www.regulations.gov/document?D=EPA-HQ-OW-2007-0808-0001) near Cincinnati where swimmers got sick. In that particular case, the median coliform density of the water registered 2,300 units of bacteria per 100 milliliters.
 
-{.pullquote}
-text: Today, the quality of river water has improved markedly since the early 1970s, though critics say the red tape imposed through the Clean Water Act has become burdensome. 
-twitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fa-look-back-at-the-clean-water-act-movement-after-50-years.html&amp;text=Today%2C%20the%20quality%20of%20river%20water%20has%20improved%20markedly%20since%20the%20early%201970s%2C%20though%20critics%20say%20the%20red%20tape%20imposed%20through%20the%20Clean%20Water%20Act%20has%20become%20burdensome.%20%23ohioriverstories
-facebook: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fa-look-back-at-the-clean-water-act-movement-after-50-years.html
-{} 
-
 The CWA significantly reduced the amount of contaminants found in local streams, though even in 2019, the United States still has not complied with the pollution and quality goals it set for 1983. 
 
 Notably, the CWA exempted most agricultural uses from permit applications, so that farmers spraying fertilizer would not need to seek a permit to do so. Nutrient overload, however, is a “widespread and worsening problem,” according to EPA reports.
 
 Since its inception, the CWA has instituted water quality standards for 150 different pollutants, such as toxic chemicals, nitrogen and pathogens. Altogether, the United States has spent about [$129 billion on water infrastructure](https://www.everycrsreport.com/files/20190306_R43871_62cff5283cf02a4b20e31b7b848d48bb65b8f467.pdf), including Clean Water Appropriations and water treatment plant financing. 
+
+{.inline-img}
+img: ./assets/story-images/EYEONOHIO-clean-water-act/epa-graphic.png
+alt: (Source: U.S. Environmental Protection Agency)
+caption: (Source: U.S. Environmental Protection Agency)
+{}
 
 h2: Recent rollbacks
 
@@ -66,15 +66,15 @@ But what exactly is a “significant nexus?”
 
 Over the next several years, the term sparked a plethora of lawsuits. The Obama administration solicited a 25-member review panel to look at the results of 1,200 studies and to solicit the advice of 49 experts for [an opinion](https://cfpub.epa.gov/ncea/risk/recordisplay.cfm?deid=296414) on exactly which wetlands should be covered. 
 
-The EPA then came up with the 2015 “Waters of the United States” rule based off of that opinion. However, due to litigation, the WOTUS rule currently only applies in 22 states and federal territories. Then, in September 2019, the Trump Administration [repealed the rule](https://www.epa.gov/wotus-rule/definition-waters-united-states-recodification-pre-existing-rules). 
+The EPA then came up with the 2015 “Waters of the United States” rule based off of that opinion. However, due to litigation, the WOTUS rule currently only applies in 22 states and federal territories. Then, in September 2019, the Trump Administration [repealed the rule](https://www.epa.gov/wotus-rule/definition-waters-united-states-recodification-pre-existing-rules).
+
+{.pullquote}
+text: Today, the quality of river water has improved markedly since the early 1970s, though critics say the red tape imposed through the Clean Water Act has become burdensome. 
+twitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fa-look-back-at-the-clean-water-act-movement-after-50-years.html&amp;text=Today%2C%20the%20quality%20of%20river%20water%20has%20improved%20markedly%20since%20the%20early%201970s%2C%20though%20critics%20say%20the%20red%20tape%20imposed%20through%20the%20Clean%20Water%20Act%20has%20become%20burdensome.%20%23ohioriverstories
+facebook: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fa-look-back-at-the-clean-water-act-movement-after-50-years.html
+{}  
 
 As a result, at least 16 million acres across the United States lost protections, with the possibility of more losses to come.
-
-{.inline-img}
-img: ./assets/story-images/EYEONOHIO-clean-water-act/epa-graphic.png
-alt: (Source: U.S. Environmental Protection Agency)
-caption: (Source: U.S. Environmental Protection Agency)
-{}
 
 “We already have lost in Ohio, historically, around 90 percent of our wetlands,” said Mažeika Sulliván, director of the Wilma H. Schiermeier Olentangy River Wetland Research Park at Ohio State University. “And these wetlands are what helps flood control. These wetlands sequester nutrients, so that nutrients coming off of [agricultural] fields or other types of things, wetlands pick these up and transform them before they get in the streams and rivers downstream and end up in the Gulf of Mexico.”
 
