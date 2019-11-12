@@ -45,6 +45,12 @@ video::-webkit-media-controls {
   transform: translate3d(0,0,0);
 }
 
+#mobile-no-show {
+  @media @mobile {
+    display:none;
+  }
+}
+
 #videoBG {
     position:fixed;
     z-index: -1;
@@ -73,7 +79,7 @@ video::-webkit-media-controls {
         display: none;
     }
     #river-intro {
-        background: url('https://ps-apps-assets.s3.amazonaws.com/watershed/Dam_5086+(1)+2.jpg');
+        background: url('./assets/story-images/mobile-cover.jpg');
         background-size: cover;
     }
 }
@@ -159,7 +165,7 @@ video::-webkit-media-controls {
   #story-list{
     margin-top:25em;
   }
-  
+
   #intro-about{
     padding:7em 0 20em 0;
   }
