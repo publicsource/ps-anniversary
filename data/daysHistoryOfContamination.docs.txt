@@ -4,8 +4,8 @@ organization: 100 Days in Appalachia
 pub: Nov. 14, 2019
 feature_img.src: ./assets/images/100DAYS-history-of-contamination/100Days_Water_52.jpg
 feature_img.caption:  Guy Riefler, chair of Ohio University’s Russ College of Civil Engineering, shows how the water coming from the creek has a high level of acidity. (Photos by Curren Sheldon/100 Days in Appalachia)
-twitterlink.src: #
-facebooklink.src: #
+twitterlink.src: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fthe-ohio-rivers-history-of-contamination-and-progress-made.html&amp;text=Good%20River%3A%20Stories%20of%20the%20Ohio%3A%20'That's%20vinegar%3A'%20The%20Ohio%20River's%20history%20of%20contamination%20and%20progress%20made%20%23ohioriverstories
+facebooklink.src: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fthe-ohio-rivers-history-of-contamination-and-progress-made.html
 [+sections]
 In 1958, researchers from the University of Louisville and the Ohio River Valley Water Sanitation Commission gathered at a lock on the Monongahela River for routine collecting, counting and comparing of fish species. 
 
@@ -26,15 +26,15 @@ alt: Groundsource image
 
 By the time Schulte began monitoring fish species in the 1990s, thanks to environmental and industrial regulations like the Clean Water Act, the Ohio River and its major tributaries, including the Mon, had changed. They no longer looked or smelled like open sewers. Mayflies hatched on their surfaces; many pollution-intolerant aquatic species returned; and lock chamber sampling — done without cyanide — could yield hundreds, even thousands, of fish. 
 
-{.pullquote}
-text: That’s vinegar,” Schulte said. “It was so polluted, you could see it, smell it and taste it.”
-twitter: https://www.publicsource.org/
-facebook: https://www.publicsource.org/
-{}
-
 “It’s a functioning ecosystem now,” Schulte said.
 
 Functioning doesn’t mean perfect, however. As recently as 2015, the U.S. Environmental Protection Agency named the Ohio River one of the country’s most polluted. Industrial contaminants, including the “forever chemical” perfluorooctanoic acid (PFOA), have been detected on long stretches of the river and toxic algal blooms erupt when conditions are just right. Still, most of the time, the majority of the river’s 981 miles are ripe for recreation and fit for drinking after proper treatment. 
+
+{.pullquote}
+text: “That’s vinegar. It was so polluted, you could see it, smell it and taste it.”
+twitter: https://twitter.com/share?url=%E2%80%9CThat%E2%80%99s%20vinegar.%20It%20was%20so%20polluted%2C%20you%20could%20see%20it%2C%20smell%20it%20and%20taste%20it.%E2%80%9D%20%23ohioriverstories%20https%3A%2F%2Fwww.ohiowatershed.org%2F%2Fthe-ohio-rivers-history-of-contamination-and-progress-made.html
+facebook: https://www.facebook.com/sharer.php?s=100&p[url]=https%3A%2F%2Fwww.ohiowatershed.org%2F%2Fthe-ohio-rivers-history-of-contamination-and-progress-made.html
+{}
 
 The same can’t always be said for the greater Ohio River watershed.
 
@@ -54,8 +54,7 @@ caption: For the past 19 years, BarbiAnn Maynard has been fighting to fix contam
 {}
 On Oct. 11, 2000, 300 million gallons of coal slurry broke through a reservoir in Martin County, Kentucky, flooding the abandoned mine shafts below and rushing out into the waters of Wolf Creek and Coldwater Fork.
 
-The black custard coated and killed everything in its path as it slithered for hundreds of miles and shifted into adjoining waterways, including the Tug Fork, Big Sandy and Ohio 
-rivers. In Martin County, sludge crept into yards and across roads, creating pools 5 feet deep.
+The black custard coated and killed everything in its path as it slithered for hundreds of miles and shifted into adjoining waterways, including the Tug Fork, Big Sandy and Ohio rivers. In Martin County, sludge crept into yards and across roads, creating pools 5 feet deep.
 
 “It was like mud pie,” Maynard said, “only instead of mud and water, it was mud and oil.”
 
@@ -63,8 +62,11 @@ The slurry was an unprecedented disaster — 30 times larger than the Exxon Vald
 
 When water service resumed later that year, bills came stamped with a warning: If you have a severely compromised immune system, have an infant, are pregnant, or are elderly, you may be at increased risk and should seek advice from your health care providers about drinking this water.
 
-The first time Maynard received that warning, she was 24 years old and pregnant with her daughter. Nineteen years later, the water in Martin County still comes with warnings. 
+The first time Maynard received that warning, she was 24 years old and pregnant with her daughter. Nineteen years later, the water in Martin County still comes with warnings.
 
+{.parallax_img}
+src: ./assets/images/100DAYS-history-of-contamination/100Days_Water_79_cut.jpg
+{}
 But the roots of the county’s water issues and the fixes are complicated.
 
 The water issues start at the treatment plant, where water pulled from the Tug Fork River is disinfected. Multiple municipal tests over the years show water in Martin County exceeds the maximum contaminant level for trihalomethane and haloacetic acid, both byproducts of the water’s treatment and both carcinogenic. Maynard believes her late mother’s multiple bouts with cancer are a direct result. But without such treatment to the water, customers could be exposed to harmful bacteria and whatever residual effects of the coal slurry are still present in the waterway.  
@@ -79,6 +81,11 @@ Representatives from the Martin County Water District did not return a phone cal
 
 For residents in Martin County, turning on the tap is always a surprise. Some days, it’s cloudy and smells so strongly of chlorine that it burns the eyes. Other days, water is the color of weak tea and sediment settles in toilet bowls and shower drains.  
 The result, Maynard claims, is that no one in Martin County trusts or drinks the water. Maynard drives 45 minutes to a spring at the Mingo-Logan county line in West Virginia to fill containers with fresh water to drink. She uses antibacterial hand soap as body wash in the shower and cleans her hands with disinfectant wipes rather than running them under the tap.
+{.pullquote}
+text: “I figured I could lay down and die or I could fight. “And I’m a fighter.”
+twitter: https://twitter.com/share?url=%E2%80%9CI%20figured%20I%20could%20lay%20down%20and%20die%20or%20I%20could%20fight.%20%E2%80%9CAnd%20I%E2%80%99m%20a%20fighter.%E2%80%9D%20%23ohioriverstories%20https%3A%2F%2Fwww.ohiowatershed.org%2F%2Fthe-ohio-rivers-history-of-contamination-and-progress-made.html
+facebook: https://www.facebook.com/sharer.php?s=100&p[url]=https%3A%2F%2Fwww.ohiowatershed.org%2F%2Fthe-ohio-rivers-history-of-contamination-and-progress-made.html
+{}
 She’d like nothing more than to follow her now-grown daughters out of the county and leave the water issues behind, but her land along the Tug Fork in Huntleyville has been in the family for five generations and she is her ill father’s caretaker. So she came up with another option.
 “I figured I could lay down and die or I could fight,” Maynard said. “And I’m a fighter.”
 
@@ -100,7 +107,14 @@ Just off Township Road 1 in the unincorporated community of Carbondale, Ohio, a 
 
 Before 2004, that water washed across a field and the road before dumping into Hewett Fork, turning it tangerine. It was so laden with acidity that snow plows had to be called in to scrape the resulting iron off the asphalt, and fish kills became a regular occurrence where Hewett Fork flows into Raccoon Creek.
 
-Today, the water from AS-14 instead flows into a tall green structure — known as the Carbondale doser — and turns a wheel, releasing pinches of powdery calcium oxide from the cylindrical tower above. The calcium oxide neutralizes the acid in the water as it makes its way through a concrete channel and into Hewett Fork. 
+Today, the water from AS-14 instead flows into a tall green structure — known as the Carbondale doser — and turns a wheel, releasing pinches of powdery calcium oxide from the cylindrical tower above. The calcium oxide neutralizes the acid in the water as it makes its way through a concrete channel and into Hewett Fork.
+
+{.story_photo_grid}
+top_left: ./assets/images/100DAYS-history-of-contamination/100Days_Water_27.jpg
+top_right: ./assets/images/100DAYS-history-of-contamination/100Days_Water_32.jpg
+big_bottom: ./assets/images/100DAYS-history-of-contamination/100Days_Water_16.jpg
+caption: A creek contaminated with acid mine drainage twists through the hills of the Appalachian Mountains in Eastern Ohio. (Photos by Curren Sheldon/100 Days in Appalachia)
+{}
 
 The upshot of the doser is a rehabilitated waterway. Hewett Fork no longer causes fish kills, and 90 miles of Raccoon Creek, which flows through southeastern Ohio, are now safe for recreation.
 
@@ -116,6 +130,10 @@ However, the funding for all of these projects could be in jeopardy.
 
 Since 1977, the federal Abandoned Mine Land Reclamation Program has doled out money to states in order to soothe the scars of coal mining. But the money for that program is collected from a fee on coal companies that is set to expire in 2021. 
 
+{.single-photo-hero}
+photo: ./assets/images/100DAYS-history-of-contamination/100Days_Water_68.jpg
+caption: Jen Bowman, the director of environmental programs for Ohio University’s Voinovich School of Leadership and Public Affairs, has been working on acid mine drainage abatement since her days as a graduate student. (Photos by Curren Sheldon/100 Days in Appalachia)
+{}
 This is the great irony of coal: the restoration of abandoned mines hinges on the perpetuation of coal mining.
 
 With the abandoned mine land fund and its resulting projects in peril, university research institutes like Bowman’s have been joining environmental nonprofits in entrepreneurial efforts to ensure that remediation continues. 
@@ -135,6 +153,10 @@ This year, it didn’t happen. Days before the race was to commence, ORSANCO rec
 It was the second bloom in the month of September. The first erupted near Huntington, West Virginia, and grew 50 miles long before dissipating, according to Youngstrom.  
 The blooms are a result of rains that wash fertilizer off farmland and into nearby creeks. Those nutrients eventually make their way to the Ohio River, where algae feed on them. That, by itself, wouldn’t be such a problem. But long periods without rain cause river flow to slow, allowing sediment to drop out of the water and sunlight to come in, creating the perfect conditions for rapid algae growth.
 “Prior to 2015, everyone thought algae blooms were a lake problem,” said Greg Youngstrom, an environmental scientist and harmful algae bloom expert at ORSANCO. 
+{.single-photo-hero}
+photo: ./assets/images/100DAYS-history-of-contamination/Algae4.jpg
+caption: Algae on the Ohio River near California, Kentucky, on Oct. 7. It was later identified as Microcystis, the genus of cyanobacteria that causes harmful algal blooms. (Photo by Christopher N. Lorentz)
+{}
 That summer, more than 700 square miles of toxic algae grew on the Ohio River in West Virginia and Ohio. River recreation ceased and, as blooms made their way into drinking water intakes, several companies had to switch to alternate water sources. 
 According to Youngstrom, the increasing frequency of algae blooms is related to the extreme weather conditions brought about by climate change. More intense rainfall followed by long, drought-like stretches are just what algae need to thrive. 
 There are simple ways to help curb the problem. In Ohio, Bowman is on a mission to create a 50-foot buffer at the edge of area waterways — basically a barrier of untamed grasses, shrubs and trees that would prevent erosion and provide shade from sunlight. 
@@ -154,6 +176,6 @@ It’s a lesson he tries to impress upon fellow researchers and scientists becau
 
 *April Johnston, a freelance writer for 100 Days in Appalachia, authored this story. She can be reached at aljohnston14@gmail.com.*
 
-*Good River: Stories of the Ohio is a series about the environment, economy, and culture of the Ohio River watershed, produced by seven nonprofit newsrooms. To see more, please visit ohiowatershed.org.*
+*Good River: Stories of the Ohio is a series about the environment, economy, and culture of the Ohio River watershed, produced by seven nonprofit newsrooms. To see more, please visit [ohiowatershed.org](https://www.ohiowatershed.org/).*
 
 []

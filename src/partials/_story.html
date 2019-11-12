@@ -25,7 +25,7 @@
 <div class="container share-icons-container">
   <div class="row">
     <div class="six columns offset-by-three">
-      <a href="<%= story.twitterlink.src %>"><i class="fab fa-twitter share-icons"></i></a><a href="<%= story.facebooklink.src %>"><i class="fab fa-facebook-f fa-lg share-icons"></i></a>
+      <a target="_blank" href="<%= story.twitterlink.src %>"><i class="fab fa-twitter share-icons"></i></a><a target="_blank" href="<%= story.facebooklink.src %>"><i class="fab fa-facebook-f fa-lg share-icons"></i></a>
     </div>
   </div>
 </div>
@@ -55,7 +55,7 @@
               <div id="caption"><%= section.value.caption %></div>
 
             <% }else if(section.type == "groundsource"){ %>
-              <img class="top-padding" alt="<%= section.value.alt %>" src="<%= section.value.img %>" />
+              <img alt="<%= section.value.alt %>" src="<%= section.value.img %>" />
 
             <% }else if(section.type == "story_photo_grid"){ %>
               </div> <!-- close story-page-body-->
