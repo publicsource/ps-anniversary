@@ -97,7 +97,7 @@ For example, his client [Joseph Robertson](https://mtstandard.com/natural-resour
 
 In April, the Trump Administration issued an executive order directing the EPA to update its [regulations on the Water Quality Certification](https://www.regulations.gov/docketBrowser?rpp=25&so=DESC&sb=commentDueDate&po=0&D=EPA-HQ-OW-2019-0405) process under the CWA as well. The proposed changes would, among other things, waive the required permit to dump regulated pollutants into large bodies of water if a state or tribe didn’t issue one in the legally required period. It would also limit environmental aquatic impact statements — for example, by not noting air quality or transportation effects.
 
-more_stories: 100 
+more_stories: 101
 
 The [public comment period](https://www.regulations.gov/comment?D=EPA-HQ-OW-2019-0405-0025) on the measure lasted from Aug. 22 to Oct. 21, with nearly 4,000 comments registered. A new regulation is expected later in the winter. 
 
