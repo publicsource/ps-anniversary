@@ -25,7 +25,7 @@
 <div class="container share-icons-container">
   <div class="row">
     <div class="six columns offset-by-three">
-      <a href="<%= story.twitterlink.src %>"><i class="fab fa-twitter share-icons"></i></a><a href="<%= story.facebooklink.src %>"><i class="fab fa-facebook-f fa-lg share-icons"></i></a>
+      <a target="_blank" href="<%= story.twitterlink.src %>"><i class="fab fa-twitter share-icons"></i></a><a target="_blank" href="<%= story.facebooklink.src %>"><i class="fab fa-facebook-f fa-lg share-icons"></i></a>
     </div>
   </div>
 </div>
@@ -43,16 +43,19 @@
               <div class="wave-divider-inline"></div>
 
             <% }else if(section.type == "pullquote"){ %>
-              <h3><%= section.value %></h3>
+              <h3><%= section.value.text %></h3>
               <div class="wave-divider-pullquote">
                 <span></span>
-                <a href="#"><i class="fab fa-twitter fa-lg"></i></a>
-                <a href="#"><i class="fab fa-facebook-f fa-lg"></i></a>
+                <a style="background: none;" target="_blank" href="<%= section.value.twitter %>"><i class="fab fa-twitter fa-lg"></i></a>
+                <a style="background: none;" target="_blank" href="<%= section.value.facebook %>"><i class="fab fa-facebook-f fa-lg"></i></a>
               </div>
 
             <% }else if(section.type == "inline-img"){ %>
               <img class="top-padding" alt="<%= section.value.alt %>" src="<%= section.value.img %>" />
               <div id="caption"><%= section.value.caption %></div>
+
+            <% }else if(section.type == "groundsource"){ %>
+              <img alt="<%= section.value.alt %>" src="<%= section.value.img %>" />
 
             <% }else if(section.type == "story_photo_grid"){ %>
               </div> <!-- close story-page-body-->
@@ -177,7 +180,7 @@
                         </div> <!-- close container-->
 
                         <div id="photo-container-flip">
-                          <img alt="#" src="<%= section.value.photo %>" />
+                          <img alt="<%= section.value.alt %>" src="<%= section.value.photo %>" />
                         </div>
 
                         <div class="container">
