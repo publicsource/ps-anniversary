@@ -1,4 +1,4 @@
-headline: Paddling 300 miles to protect the waters of Ohiyo', the 'good river'
+headline: Paddling 300 miles to protect the waters of Ohi:yo', the 'good river'
 
 author: Ryan Loew
 organization: PublicSource
