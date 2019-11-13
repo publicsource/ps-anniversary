@@ -53,7 +53,7 @@ function init() {
 	// 3. bind scrollama event handlers (this can be chained like below)
 	scroller.setup({
 		step: '#scrolly article .step',
-		offset: 0.6,
+		offset: 0.65,
 		debug: false,
 	})
 		.onStepEnter(handleStepEnter)
