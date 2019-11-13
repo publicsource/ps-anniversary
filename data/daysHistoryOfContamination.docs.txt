@@ -30,13 +30,13 @@ By the time Schulte began monitoring fish species in the 1990s, thanks to enviro
 
 Functioning doesn’t mean perfect, however. As recently as 2015, the U.S. Environmental Protection Agency named the Ohio River one of the country’s most polluted. Industrial contaminants, including the “forever chemical” perfluorooctanoic acid (PFOA), have been detected on long stretches of the river and toxic algal blooms erupt when conditions are just right. Still, most of the time, the majority of the river’s 981 miles are ripe for recreation and fit for drinking after proper treatment. 
 
+The same can’t always be said for the greater Ohio River watershed.
+
 {.pullquote}
 text: “That’s vinegar. It was so polluted, you could see it, smell it and taste it.”
 twitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fthe-ohio-rivers-history-of-contamination-and-progress-made.html&amp;text=%E2%80%9CThat%E2%80%99s%20vinegar.%20It%20was%20so%20polluted%2C%20you%20could%20see%20it%2C%20smell%20it%20and%20taste%20it.%E2%80%9D%20%23ohioriverstories
 facebook: https://www.facebook.com/sharer.php?s=100&p[url]=https%3A%2F%2Fwww.ohiowatershed.org%2F%2Fthe-ohio-rivers-history-of-contamination-and-progress-made.html
 {}
-
-The same can’t always be said for the greater Ohio River watershed.
 
 The Ohio River drainage basin is an interconnected web of small rivers and creeks covering 205,000 square miles of largely rural, Applachian landscape and is home to 25 million people, many of whom are among the country’s poorest.
 
@@ -113,7 +113,7 @@ Today, the water from AS-14 instead flows into a tall green structure — known 
 top_left: ./assets/story-images/100DAYS-history-of-contamination/100Days_Water_26.jpg
 top_right: ./assets/story-images/100DAYS-history-of-contamination/100Days_Water_32.jpg
 big_bottom: ./assets/story-images/100DAYS-history-of-contamination/100Days_Water_16.jpg
-caption: A creek contaminated with acid mine drainage twists through the hills of the Appalachian Mountains in Eastern Ohio. (Photos by Curren Sheldon/100 Days in Appalachia)
+caption: The Carbondale doser (top left) works to neutralize acid in the water caused by mine drainage in nearby creeks twisting through the hills of the Appalachian Mountains in Eastern Ohio. (Photos by Curren Sheldon/100 Days in Appalachia)
 {}
 
 The upshot of the doser is a rehabilitated waterway. Hewett Fork no longer causes fish kills, and 90 miles of Raccoon Creek, which flows through southeastern Ohio, are now safe for recreation.
