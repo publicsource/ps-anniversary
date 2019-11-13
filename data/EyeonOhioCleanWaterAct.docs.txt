@@ -45,7 +45,6 @@ img: ./assets/story-images/EYEONOHIO-clean-water-act/epa-graphic.png
 alt: (Source: U.S. Environmental Protection Agency)
 caption: (Source: U.S. Environmental Protection Agency)
 {}
-
 h2: Recent rollbacks
 
 [The Clean Water Act](https://www3.epa.gov/npdes/pubs/cwatxt.txt) says it is a comprehensive program “for preventing, reducing, or eliminating the pollution of the navigable waters and ground waters and improving the sanitary condition of surface and underground waters.”
@@ -57,8 +56,8 @@ This question went all the way to the U.S. Supreme Court [in 2006, in Rapanos v.
 The court noted that the CWA made it illegal to dump without a permit into “navigable waters,” and the statute defines “navigable waters” as “the waters of the United States, including the territorial seas.” 
 
 {.single-photo-small}
-photo: ./assets/story-images/EYEONOHIO-clean-water-act/IMG_7020.JPG
-caption: A barge ships coal up the Ohio River near Cincinnati. (Photo by Lucia Walinchus/Eye on Ohio, the Ohio Center for Investigative Journalism) 
+photo: ./assets/story-images/EYEONOHIO-clean-water-act/boat_5396.jpg
+caption: A tugboat moving barges navigates the Ohio River near Monaca, Pa. (Photo by Ryan Loew/PublicSource)
 {}
 Four justices decided that “waters of the United States” could only include continuously flowing bodies of water. Another four justices disagreed, noting that the Supreme Court had [previously ruled](https://supreme.justia.com/cases/federal/us/313/508/) that the entire watershed is key to each navigable water. Justice Anthony Kennedy wrote a concurring opinion, saying a wetland must possess a significant nexus to a navigable water. 
 
