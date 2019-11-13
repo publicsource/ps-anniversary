@@ -4,7 +4,7 @@
   <%= t.include("partials/_head.html", grunt.data.json) %>
   <link rel="stylesheet" type="text/css" href="style.css">
 </head>
-<body>
+<body id="homepage">
   <div class="section">
     <%= t.include("partials/_main_nav.html") %>
   </div>
@@ -31,7 +31,7 @@
     integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
     crossorigin="anonymous">
   </script>
-
+  
   <%= t.include("partials/_analytics.html") %>
 </body>
 </html>
