@@ -21,7 +21,7 @@ function handleResize() {
 	var stepH = Math.floor(window.innerHeight * 0.75);
 	step.style('height', stepH + 'px');
 	var figureHeight = window.innerHeight / 2
-	var figureMarginTop = (window.innerHeight - figureHeight) / 2  
+	var figureMarginTop = (window.innerHeight - figureHeight) / 2
 	figure
 		.style('height', figureHeight + 'px')
 		.style('top', figureMarginTop + 'px');
@@ -53,7 +53,7 @@ function init() {
 	// 3. bind scrollama event handlers (this can be chained like below)
 	scroller.setup({
 		step: '#scrolly article .step',
-		offset: 0.5,
+		offset: 0.6,
 		debug: false,
 	})
 		.onStepEnter(handleStepEnter)
