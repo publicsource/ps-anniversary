@@ -5,8 +5,8 @@
       "path": ""
     },
     "live": {
-      "bucket": "apps.npr.org",
-      "path": "watershed-microsite"
+      "bucket": "ohio-watershed",
+      "path": ""
     }
   },
   "styles": {
