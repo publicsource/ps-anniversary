@@ -297,13 +297,13 @@
                     <% if(slide.story_id != section.value){ %>
                       <% if(storyList.length == 4){ %>
                         <div class="more-stories-story three-story">
-                          <img src="assets/story-images/<%= slide.img_filename %>" alt="<%= slide.headline %>" />
-                          <h3><%= slide.headlines %></h3>
+                          <a href="<%= slide.link %>"><img src="assets/story-images/<%= slide.img_filename %>" alt="<%= slide.headline %>" /></a>
+                          <h3><a href="<%= slide.link %>"><%= slide.headlines %></a></h3>
                         </div>
                       <% }else{ %>
                         <div class="more-stories-story">
-                          <img src="assets/story-images/<%= slide.img_filename %>" alt="<%= slide.headline %>" />
-                          <h3><%= slide.headlines %></h3>
+                          <a href="<%= slide.link %>"><img src="assets/story-images/<%= slide.img_filename %>" alt="<%= slide.headline %>" /></a>
+                          <h3><a href="<%= slide.link %>"><%= slide.headlines %></a></h3>
                         </div>
                       <% } %>
                     <% }%>
