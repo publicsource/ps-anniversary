@@ -169,12 +169,26 @@
   margin-right: 30px;
 }
 
+///////// MORE STORIES ///////////
+
 .more-stories h2 {
   font-family: "PeaceSans";
+  margin-bottom: 0;
 }
 
 .more-stories-container{
   overflow-x: hidden;
+}
+
+.more-stories.shortie .story-btns{
+  display:none;
+  @media @mobile {
+    display:block;
+  }
+}
+
+.more-stories.shortie h2{
+  margin-bottom:1em;
 }
 
 .more-stories-row{
@@ -186,11 +200,24 @@
   scroll-behavior: smooth;
 }
 
+.more-stories-story.three-story {
+  flex: 0 0 auto;
+  width:31%;
+  margin-left:2%;
+  scroll-snap-align: start;
+  @media @mobile {
+    width:100%;
+  }
+}
+
 .more-stories-story {
   flex: 0 0 auto;
-  width:25%;
-  margin-left:15px;
+  width:23%;
+  margin-left:2%;
   scroll-snap-align: start;
+  @media @mobile {
+    width:100%;
+  }
 }
 
 .more-stories-story:first-child {
@@ -202,26 +229,28 @@
 }
 
 .slider-btn{
-  position: absolute;
-  top: 100px;
-  bottom:0;
-  padding:17px 7px 0px 15px;
-  width: 50px;
-  height:50px;
-  border-radius:50px;
-  background-color: rgba(255,255,255,0.3);
-  //background-color: rgba(0,0,0,.3);
+  font-size: 1.5em;
+  background-color: rgba(255,255,255,0.7);
 }
 
 #slider-prev{
-  left:10px;
-  z-index: 1;
+  padding:17px 0px;
+  float:left;
 }
 
 #slider-next{
-  right:10px;
-  z-index: 1;
+  padding:17px 15px;
+  float:right;
+  @media @mobile {
+    padding:17px 0px;
+  }
 }
+
+#sliderContainer{
+  margin-bottom:2em;
+}
+
+///////// EMBEDS ///////////
 
 .embed-container {
    position: relative;

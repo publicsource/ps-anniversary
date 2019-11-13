@@ -277,24 +277,36 @@
               </div> <!-- close eight columns-->
               </div> <!-- close row-->
               </div> <!-- close container-->
-
-              <div class="container more-stories">
-                <h2>MORE STORIES</h2>
-                <div class="story-btns">
-                  <a class="slider-btn" id="slider-prev" href="#"><i class="fas fa-angle-double-left fa-lg"></i></a>
-                  <a class="slider-btn" id="slider-next" href="#"><i class="fas fa-angle-double-right fa-lg"></i></a>
+              
+              <% if(storyList.length < 6){ %>
+                <div class="container more-stories shortie">
+              <% }else{ %>
+                <div class="container more-stories">
+              <% } %>
+                  <h2>MORE STORIES</h2>
+                  <div class="story-btns">
+                    <a class="slider-btn" id="slider-prev" href="#"><i class="fas fa-angle-double-left fa-lg"></i></a>
+                    <a class="slider-btn" id="slider-next" href="#"><i class="fas fa-angle-double-right fa-lg"></i></a>
+                  </div>
                 </div>
-              </div>
-
+              
               <div class="container more-stories-container" id="sliderContainer">
                 <div class="more-stories-row" id="slider">
                   <% storyList.forEach(function(slide, i) { %>
+                  
                     <% if(slide.story_id != section.value){ %>
-                      <div class="more-stories-story">
-                        <img src="assets/story-images/<%= slide.img_filename %>" alt="<%= slide.headline %>" />
-                        <h3><%= slide.headlines %></h3>
-                      </div>
-                    <% } %>
+                      <% if(storyList.length == 4){ %>
+                        <div class="more-stories-story three-story">
+                          <img src="assets/story-images/<%= slide.img_filename %>" alt="<%= slide.headline %>" />
+                          <h3><%= slide.headlines %></h3>
+                        </div>
+                      <% }else{ %>
+                        <div class="more-stories-story">
+                          <img src="assets/story-images/<%= slide.img_filename %>" alt="<%= slide.headline %>" />
+                          <h3><%= slide.headlines %></h3>
+                        </div>
+                      <% } %>
+                    <% }%>
                   <% }); %>
                 </div>
               </div>
@@ -314,35 +326,43 @@
 </div>
 
 <script>
-  document.addEventListener('DOMContentLoaded', function(event) {
-    var sliderContainer = document.getElementById('sliderContainer');
-    var slider = document.getElementById('slider');
-    var sliderWidth = sliderContainer.scrollWidth - 800;
+  var sliderContainer,slider,sliderWidth,sliderNext,sliderPrev,translate;
+  
+  function getSliderSizes(){
+    sliderContainer = document.getElementById('sliderContainer');
+    slider = document.getElementById('slider');
+    imgWidth = sliderContainer.clientWidth;
+    sliderWidth = sliderContainer.scrollWidth - imgWidth;
 
-    var sliderNext = document.getElementById('slider-next');
-    var sliderPrev = document.getElementById('slider-prev');
+    sliderNext = document.getElementById('slider-next');
+    sliderPrev = document.getElementById('slider-prev');
 
-    var translate = 0;
-
+    translate = 0;
+  }
+  
+  document.addEventListener('DOMContentLoaded', function(e){
+    getSliderSizes();
+    
     sliderNext.addEventListener('click', function(e){
       e.preventDefault();
       console.log('sliderWidth: ', sliderWidth);
       console.log('translate: ', translate);
       if(Math.abs(translate) < sliderWidth){
-        translate -= 200;
+        translate -= imgWidth;
         slider.style.transform = "translateX(" + translate + "px" + ")";
       }
     });
-
+  
     sliderPrev.addEventListener('click', function(e){
       e.preventDefault();
       console.log('sliderWidth: ', sliderWidth);
       console.log('translate: ', translate);
       if(translate < 0){
-        translate += 200;
+        translate += imgWidth;
         slider.style.transform = "translateX(" + translate + "px" + ")";
       }
     });
-
   });
+  
+  window.addEventListener('resize', getSliderSizes);
 </script>
