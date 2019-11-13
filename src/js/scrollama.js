@@ -6,6 +6,7 @@ const d3 = require('d3');
 var main = d3.select('main')
 var scrolly = main.select('#scrolly');
 var figure = scrolly.select('figure');
+var currImg = figure.select('#img1');
 var article = scrolly.select('article');
 var step = article.selectAll('.step');
 // initialize the scrollama
@@ -30,14 +31,17 @@ function handleResize() {
 }
 // scrollama event handlers
 function handleStepEnter(response) {
-	console.log(response)
+	//console.log(response)
 	// response = { element, direction, index }
 	// add color to current step only
 	step.classed('is-active', function (d, i) {
 		return i === response.index;
 	})
 	// update graphic based on step
-	figure.select('img').attr('src','./assets/scrollama-map/' + images[response.index]);
+	var increment = response.index + 1;
+	currImg.classed('is-visible', false);
+	currImg = figure.select('#img' + increment);
+	currImg.classed('is-visible', true);
 }
 function setupStickyfill() {
 	d3.selectAll('.sticky').each(function () {
