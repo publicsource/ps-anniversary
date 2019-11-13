@@ -113,7 +113,7 @@ Today, the water from AS-14 instead flows into a tall green structure — known 
 top_left: ./assets/story-images/100DAYS-history-of-contamination/100Days_Water_26.jpg
 top_right: ./assets/story-images/100DAYS-history-of-contamination/100Days_Water_32.jpg
 big_bottom: ./assets/story-images/100DAYS-history-of-contamination/100Days_Water_16.jpg
-caption: A creek contaminated with acid mine drainage twists through the hills of the Appalachian Mountains in Eastern Ohio. (Photos by Curren Sheldon/100 Days in Appalachia)
+caption: The Carbondale doser (top left) works to neutralize acid in the water caused by mine drainage in nearby creeks twisting through the hills of the Appalachian Mountains in Eastern Ohio. (Photos by Curren Sheldon/100 Days in Appalachia)
 {}
 
 The upshot of the doser is a rehabilitated waterway. Hewett Fork no longer causes fish kills, and 90 miles of Raccoon Creek, which flows through southeastern Ohio, are now safe for recreation.
