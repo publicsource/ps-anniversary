@@ -1,10 +1,10 @@
-headline: 'That's vinegar:' The Ohio River's history of contamination and progress made
+headline: 'That's vinegar': The Ohio River's history of contamination and progress made
 author: April Johnston
 organization: 100 Days in Appalachia
 pub: Nov. 14, 2019
 feature_img.src: ./assets/story-images/100DAYS-history-of-contamination/100Days_Water_52.jpg
 feature_img.caption:  Guy Riefler, chair of Ohio University’s Russ College of Civil Engineering, shows how the water coming from a creek has a high level of acidity. (Photo by Curren Sheldon/100 Days in Appalachia)
-twitterlink.src: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fthe-ohio-rivers-history-of-contamination-and-progress-made.html&amp;text='That's%20vinegar%3A'%20The%20Ohio%20River's%20history%20of%20contamination%20and%20progress%20made%20%23ohioriverstories
+twitterlink.src: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fthe-ohio-rivers-history-of-contamination-and-progress-made.html&amp;text=Good%20River%3A%20'That's%20vinegar'%3A%20The%20Ohio%20River's%20history%20of%20contamination%20and%20progress%20made%20%23ohioriverstories
 facebooklink.src: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fthe-ohio-rivers-history-of-contamination-and-progress-made.html
 [+sections]
 In 1958, researchers from the University of Louisville and the Ohio River Valley Water Sanitation Commission gathered at a lock on the Monongahela River for routine collecting, counting and comparing of fish species. 
