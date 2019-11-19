@@ -2,6 +2,8 @@
 
 require("./scrollama");
 
+var L = require("plyr");
+
 // not using jquery
 window.onload = function(){
   var story = document.getElementById('story-page-body');
@@ -16,3 +18,4 @@ window.onload = function(){
   }
 }
 
+const player = new Plyr('audio', {});

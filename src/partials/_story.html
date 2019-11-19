@@ -59,7 +59,7 @@
 
               <% }else if(section.type == "audio"){ %>
                 <p style="margin-top: .5em;"><b>Listen to this story</b></p>
-                <audio controls>
+                <audio id="player" controls>
                   <source src="<%= section.value.link %>" type="audio/mpeg">
                 Your browser does not support the audio element.
                 </audio>
