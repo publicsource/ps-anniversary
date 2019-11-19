@@ -1,8 +1,9 @@
 // require("./lib/pym");
 
 require("./scrollama");
+const Plyr = require('plyr');
+const player = new Plyr('#player');
 
-var L = require("plyr");
 
 // not using jquery
 window.onload = function(){
@@ -17,5 +18,3 @@ window.onload = function(){
     }
   }
 }
-
-const player = new Plyr('audio', {});
