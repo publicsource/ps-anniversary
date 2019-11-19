@@ -57,6 +57,13 @@
             <% }else if(section.type == "groundsource"){ %>
               <img alt="<%= section.value.alt %>" src="<%= section.value.img %>" />
 
+              <% }else if(section.type == "audio"){ %>
+                <p style="margin-top: .5em;"><b>Listen to this story</b></p>
+                <audio controls>
+                  <source src="<%= section.value.link %>" type="audio/mpeg">
+                Your browser does not support the audio element.
+                </audio>
+
             <% }else if(section.type == "story_photo_grid"){ %>
               </div> <!-- close story-page-body-->
               </div> <!-- close eight columns-->
