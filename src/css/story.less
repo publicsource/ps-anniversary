@@ -296,10 +296,18 @@
    height: 100%;
   }
 
-audio {
-  margin: -.5em 0 -.5em 0;
-  filter: sepia(20%) saturate(70%) grayscale(1) contrast(99%) invert(12%);
-  width: 100%;
-  outline: 0;
-   -webkit-border-radius: 0px;
+.plyr--audio .plyr__controls {
+  margin-bottom: -1.5em;
+}
+
+.plyr--full-ui input[type=range] {
+  color: @goodriver-bright !important;
+}
+
+.plyr--audio .plyr__controls {
+  color: @goodriver-teal !important;
+}
+
+.plyr--audio .plyr__controls:hover {
+  color: @goodriver-teal !important;
 }
