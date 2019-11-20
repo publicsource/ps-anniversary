@@ -3,9 +3,9 @@ headline: One Ohio River town that’s using outdoor recreation to boost its eco
 author: Julie Grant
 organization: The Allegheny Front
 pub: Nov. 21, 2019
-feature_img.src: ./assets/story-images/ALLEGHENYFRONT-marietta/CarrieAnkrom.jpg
+feature_img.src: ./assets/story-images/ALLEGHENYFRONT-marietta/BargeAnnoucements.jpg
 feature_img.caption: Carrie Ankrom, president of the Marietta Chamber of Commerce, says attracting tourists to events like the Sternwheel Festival is helping to revitalize the city’s downtown. (Photo by Julie Grant/The Allegheny Front)
-twitterlink.src: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fone-ohio-river-town-thats-using-outdoor-recreation-to-boost-its-economy.html&amp;text=Good%20River%20-%20One%20Ohio%20River%20town%20that%E2%80%99s%20using%20outdoor%20recreation%20to%20boost%20its%20economy%23ohioriverstories
+twitterlink.src: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fone-ohio-river-town-thats-using-outdoor-recreation-to-boost-its-economy.html&amp;text=Good%20River%20-%20One%20Ohio%20River%20town%20that%E2%80%99s%20using%20outdoor%20recreation%20to%20boost%20its%20economy%20%23ohioriverstories
 facebooklink.src: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fone-ohio-river-town-thats-using-outdoor-recreation-to-boost-its-economy.html
 [+sections]
 {.audio}
@@ -19,9 +19,10 @@ More than 100 people sat along the riverbank on lawn chairs and blankets in the 
 
 “We’re going to have great weather this whole weekend, and we’re so excited,” said Cindy Hall, who volunteered to lead the event. 
 
-{.groundsource}
-img: ./assets/story-images/groundsource/groundsource.png
-alt: Groundsource image
+{.inline-img}
+img:  ./assets/story-images/ALLEGHENYFRONT-marietta/map.jpg
+alt: Map showing Marietta, Ohio and the Ohio River.
+caption: (Map by Blue Raster)
 {}
 
 Standing at the riverfront plaza, Hall talked with Carrie Ankrom, president of the [Marietta Chamber of Commerce](https://www.mariettachamber.com/) about how the festival benefits local businesses.
@@ -30,31 +31,36 @@ Standing at the riverfront plaza, Hall talked with Carrie Ankrom, president of t
 
 This is more than a fun celebration. It’s part of the city’s economic development strategy. While many nearby communities are banking their futures on manufacturing, power generation and the coming plastics production, Marietta is also focused on river tourism and outdoor recreation.
 
+{.groundsource}
+img: ./assets/story-images/groundsource/groundsource.png
+alt: Groundsource image
+{}
+
 Ankrom said besides the Sternwheel Festival, [Marietta attracts tourists](https://drive.google.com/file/d/0BwGsbdSC4rRvZE5tbWk0Mk5ZeWgxZU1qb2x4TlZvZURhVU5J/view) to the river for events focused on [speed boats](https://www.mariettariverfrontroar.net/?fbclid=IwAR17VBb76J6-PBWcORE5XRZc-Zdc1QU1vcbIq6zHV__ZJA6jFf1zzrtQ6ic) and kayaks, which has helped this city of nearly [14,000 residents](https://www.census.gov/quickfacts/mariettacityohio) with its downtown renewal. 
 
 “Well if you take a walk down Front Street, a couple of years ago we had a lot of empty buildings,” Ankrom said. 
+More recently, though, the downtown has been gaining some steam. Historic brick buildings have been renovated for offices and for stores that sell women’s clothing, chocolate and local wines. The restaurant of a century-old hotel looks out over the Ohio River. All of this has contributed to Marietta’s [designation](https://www.travelchannel.com/destinations/us/photos/50-of-the-most-charming-small-towns-in-the-us) by the Travel Channel as one of the country’s 50 most charming small towns.
+
+Marietta has gotten more national attention as the focus of the best-selling book “The Pioneers,” by famed historian David McCullough, as the first settlement of the Northwest Territory at the confluence of the Ohio and Muskingum rivers.
 
 {.single-photo-small}
 photo: ./assets/story-images/ALLEGHENYFRONT-marietta/Marietta_SternwheelerFestivalBarge.jpg
 caption: People line the banks of the Ohio River, waiting for the official announcements from the Sternwheel Festival barge. (Photo by Julie Grant/The Allegheny Front)
-{}
-More recently, though, the downtown has been gaining some steam. Historic brick buildings have been renovated for offices and for stores that sell women’s clothing, chocolate and local wines. The restaurant of a century-old hotel looks out over the Ohio River. All of this has contributed to Marietta’s [designation](https://www.travelchannel.com/destinations/us/photos/50-of-the-most-charming-small-towns-in-the-us) by the Travel Channel as one of the country’s 50 most charming small towns.
-
-Marietta has gotten more national attention as the focus of the best-selling book, “The Pioneers,” by famed historian, David McCullough, as the first settlement of the Northwest Territory at the confluence of the Ohio and Muskingum rivers.  
+{}  
 
 Those rivers still define the city.
 
-“From our perspective, having the rivers here is really vital to our local economy,” said Cristie Thomas, of the nonprofit [Main Street Marietta](https://www.mariettamainstreet.org). “It’s beautiful to look at, and folks adore it.”
+“From our perspective, having the rivers here is really vital to our local economy,” said Cristie Thomas of the nonprofit [Marietta Main Street](https://www.mariettamainstreet.org). “It’s beautiful to look at, and folks adore it.”
 
 But Thomas noted there’s also a downside to living on the confluence of two rivers: “...That’s flooding obviously.”
+
+Nearby cities, like Parkersburg, West Virginia, have floodwalls, to help prevent the Ohio River from overflowing into its downtown. But Ankrom, of the Chamber of Commerce, said Marietta has resisted that.
 
 {.pullquote}
 text: “From our perspective, having the rivers here is really vital to our local economy. It’s beautiful to look at, and folks adore it.”
 twitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fone-ohio-river-town-thats-using-outdoor-recreation-to-boost-its-economy.html&amp;text=%E2%80%9CFrom%20our%20perspective%2C%20having%20the%20rivers%20here%20is%20really%20vital%20to%20our%20local%20economy.%20It%E2%80%99s%20beautiful%20to%20look%20at%2C%20and%20folks%20adore%20it.%E2%80%9D%20%23ohioriverstories
 facebook: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fone-ohio-river-town-thats-using-outdoor-recreation-to-boost-its-economy.html
-{} 
-
-Nearby cities, like Parkersburg, West Virginia, have floodwalls, to help prevent the Ohio River from overflowing into its downtown. But Ankrom, of the Chamber of Commerce, said Marietta has resisted that. 
+{}  
 
 “I think if towns are not using the river to help their economic state, they’re not thinking outside of the box,” she said.
 

@@ -24,7 +24,7 @@ facebook: https://www.publicsource.org/
 {}
 The Ohio River drainage basin is an interconnected web of small rivers and creeks covering 205,000 square miles of largely rural, Applachian landscape and is home to 25 million people, many of whom are among the country’s poorest.
 {.inline-img}
-img: https://ps-apps-assets.s3.amazonaws.com/watershed/water-equalizer/100Days_Water_9.png
+img: https://ps-apps-assets.s3.amazonaws.com/watershed/water-equalizer/
 alt: blah blah
 caption: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation. (Photo by So and So/PublicSource)
 {}

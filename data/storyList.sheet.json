@@ -14,17 +14,8 @@
     "publish_date": "November 21, 2019",
     "authors": "Julie Grant",
     "org": "The Allegheny Front",
-    "img_filename": "ALLEGHENYFRONT-marietta/CarrieAnkrom.jpg",
+    "img_filename": "ALLEGHENYFRONT-marietta/BargeAnnoucements.jpg",
     "link": "one-ohio-river-town-thats-using-outdoor-recreation-to-boost-its-economy.html"
-  },
-  {
-    "story_id": 998,
-    "headlines": "Highlights of the Ohio: Explore our interactive map",
-    "publish_date": "November 14, 2019",
-    "authors": "Good River News Partners",
-    "org": "",
-    "img_filename": "map-image.png",
-    "link": "map.html"
   },
   {
     "story_id": 104,
@@ -34,6 +25,15 @@
     "org": "100 Days in Appalachia",
     "img_filename": "100DAYS-cheat-river/lead.jpg",
     "link": "360-degrees-of-the-cheat-river-a-journey-to-revitalization-on-an-ohio-river-tributary.html"
+  },
+  {
+    "story_id": 998,
+    "headlines": "Highlights of the Ohio: Explore our interactive map",
+    "publish_date": "November 14, 2019",
+    "authors": "Good River News Partners",
+    "org": "",
+    "img_filename": "map-image.png",
+    "link": "map.html"
   },
   {
     "story_id": 100,
