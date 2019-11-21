@@ -4,7 +4,7 @@ author: Julie Grant
 organization: The Allegheny Front
 pub: Nov. 21, 2019
 feature_img.src: ./assets/story-images/ALLEGHENYFRONT-marietta/BargeAnnoucements.jpg
-feature_img.caption: Carrie Ankrom, president of the Marietta Chamber of Commerce, says attracting tourists to events like the Sternwheel Festival is helping to revitalize the city’s downtown. (Photo by Julie Grant/The Allegheny Front)
+feature_img.caption: Carrie Ankrom of the Marietta Chamber of Commerce and other officials kick off the Sternwheel Festival. (Photo by Julie Grant/The Allegheny Front)
 twitterlink.src: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fone-ohio-river-town-thats-using-outdoor-recreation-to-boost-its-economy.html&amp;text=Good%20River%20-%20One%20Ohio%20River%20town%20that%E2%80%99s%20using%20outdoor%20recreation%20to%20boost%20its%20economy%20%23ohioriverstories
 facebooklink.src: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fone-ohio-river-town-thats-using-outdoor-recreation-to-boost-its-economy.html
 [+sections]
@@ -24,7 +24,6 @@ img:  ./assets/story-images/ALLEGHENYFRONT-marietta/map.jpg
 alt: Map showing Marietta, Ohio and the Ohio River.
 caption: (Map by Blue Raster)
 {}
-
 Standing at the riverfront plaza, Hall talked with Carrie Ankrom, president of the [Marietta Chamber of Commerce](https://www.mariettachamber.com/) about how the festival benefits local businesses.
 
 “It sells out the hotel rooms, the campsites,” Ankrom said. “I mean, Marietta is full this weekend.” 

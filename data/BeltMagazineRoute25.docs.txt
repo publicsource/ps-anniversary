@@ -105,19 +105,19 @@ caption: The present-day view of Elizabeth “Betty” Asche Douglas’ childhoo
 {}
 “The river was very important to Black boys especially because there were no swimming pools in Beaver Valley that would allow Black boys to swim in them. So every year there would be a Black kid that drowned in the river because they went down to the river to swim. I don’t think the people thought about pollution in those days. And I don’t know how garbage or waste or sewage was treated. When you’re a kid, you don’t think about that. The only thing you knew is you flushed the toilet and it goes away. Where it goes, you don’t think about.”
 
-h2: Tyrone Ziegler – Beaver Falls, Pa.
+h2: Tyrone Zeigler – Beaver Falls, Pa.
 
 {.single-photo-small}
 photo: ./assets/story-images/BELT-route65/Njie_RiverRoad-13.jpg
-alt: The grounds of the shuttered elementary school in Tyrone Ziegler’s childhood home of Koppel, Pa. The basketball court and playground that were once on the property no longer exist.
-caption: The grounds of the shuttered elementary school in Tyrone Ziegler’s childhood home of Koppel, Pa. The basketball court and playground that were once on the property no longer exist.
+alt: The grounds of the shuttered elementary school in Tyrone Zeigler’s childhood home of Koppel, Pa. The basketball court and playground that were once on the property no longer exist.
+caption: The grounds of the shuttered elementary school in Tyrone Zeigler’s childhood home of Koppel, Pa. The basketball court and playground that were once on the property no longer exist.
 {}
 “[I’m] originally from New York, but I grew up about a mile down the road from the pool, a place called Koppel. Small town. [Growing up in] Koppel, Beaver Falls, New Brighton — there was always something to do. You could always find a pickup game when it came to basketball or baseball, Wiffle ball … I used to pass here all the time, drive past, ride my back past, because I used to ride my bike all the way from Koppel to New Brighton, just to go play basketball. So I used to ride by and see tons of people outside. The city had owned the property. Trying to maintain the city and the property became too much for them, so they turned the pool over to the YMCA. That just became too much, so they just decided to shut it down.
 
 {.single-photo-small}
 photo: ./assets/story-images/BELT-route65/Njie_RiverRoad-12.jpg
-alt: Tyrone Ziegler outside of the Beaver Falls wave pool. Ziegler is project manager of the Tigerland Wave Pool initiative, through the Beaver County Community Development Corporation. Ziegler is spearheading fundraising efforts to repair and re-open the pool.
-caption: Tyrone Ziegler outside of the Beaver Falls wave pool. Ziegler is project manager of the Tigerland Wave Pool initiative, through the Beaver County Community Development Corporation. Ziegler is spearheading fundraising efforts to repair and re-open the pool.
+alt: Tyrone Zeigler outside of the Beaver Falls wave pool. Zeigler is project manager of the Tigerland Wave Pool initiative, through the Beaver County Community Development Corporation. Zeigler is spearheading fundraising efforts to repair and re-open the pool.
+caption: Tyrone Zeigler outside of the Beaver Falls wave pool. Zeigler is project manager of the Tigerland Wave Pool initiative, through the Beaver County Community Development Corporation. Zeigler is spearheading fundraising efforts to repair and re-open the pool.
 {}
 “I just turned my life around six years ago. So before all that it’s been my dream to re-open all of this, but I didn’t know how — and I knew people wasn’t gonna take a drug dealer serious. As I kept growing and maturing, I saw that people started respecting me a lot more. I seen that I was getting my reputation back. So I was riding by one day and … I just took a glance at it and a light bulb went off, and I said, ‘I believe that I can pull this off.’ And three years later, [we’re] super close.
 
@@ -175,6 +175,7 @@ photo: ./assets/story-images/BELT-route65/Njie_RiverRoad-18.jpg
 alt: West State Street as it becomes West Falls Street on the West Side of New Castle. The Shenango River (unpictured) flows through this section of the community, where many were displaced as a result of city redevelopment plans. 
 caption: West State Street as it becomes West Falls Street on the West Side of New Castle. The Shenango River (unpictured) flows through this section of the community, where many were displaced as a result of city redevelopment plans. 
 {}
+*Correction (11/21/2019): A previous version of this story spelled Tyrone Zeigler's last name incorrectly.*
 *Njaimeh Njie, the author and photographer, is a multimedia producer and founder of the nonfiction storytelling company Eleven Stanley Productions. Njie was named the 2018 Emerging Artist of the Year by the Pittsburgh Center for the Arts, and her work has been featured in outlets including CityLab, HuffPost Black Voices, and the Carnegie Museum of Art Storyboard blog. More information can be found at njaimehnjie.com.*
 
 *Good River: Stories of the Ohio is a series about the environment, economy and culture of the Ohio River watershed, produced by seven nonprofit newsrooms. To see more, please visit [ohiowatershed.org](https://www.ohiowatershed.org/).*
