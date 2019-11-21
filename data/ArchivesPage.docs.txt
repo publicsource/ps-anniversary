@@ -1,0 +1,49 @@
+headline: Archives
+[+sections]
+h3: 100 Days in Appalachia
+{.inline-img}
+img: ./assets/story-images/ARCHIVES/100days.jpg
+{}
+[While Washington Debates, Appalachians Wait for Investments in Clean Water](https://www.100daysinappalachia.com/2019/10/31/while-washington-debates-appalachians-wait-for-investments-in-clean-water/)
+[This Ohio Paint Production Experiment Creates Art — and Potentially Jobs — From Polluted Mine Sites](https://www.100daysinappalachia.com/2018/11/19/this-ohio-paint-production-experiment-creates-art-and-potentially-jobs-from-polluted-mine-sites/)
+[Water In Appalachia Needs a Trillion Dollar Solution](https://www.100daysinappalachia.com/2018/07/09/appalachia-water-quality-problems-part-one/)
+h3: The Allegheny Front
+{.video}
+videolink: https://player.vimeo.com/video/194570975
+caption: Caption here.
+{}
+[Towboat Deckhands, the Ohio River’s Unsung Heroes](https://www.alleghenyfront.org/video-towboat-deckhands-the-ohio-rivers-unsung-heroes/)
+[Why Big Industry is Paying Small Farmers to Cut Pollution in the Ohio River - The Allegheny Front](https://www.alleghenyfront.org/why-big-industry-is-paying-small-farmers-to-cut-pollution-in-the-ohio-river/)
+[The Ohio River Crosses State Lines. Does It Need a Regional Agreement that Does Too?](https://www.alleghenyfront.org/the-ohio-river-crosses-state-lines-does-it-need-a-regional-agreement-that-does-too/)
+h3: Belt Magazine
+{.inline-img}
+img: ./assets/story-images/ARCHIVES/belt.jpg
+{}
+[Mike’s Big Ditch](https://beltmag.com/kirwan-canal-lake-erie-ohio-river/)
+[Still Life, Ohio Valley](https://beltmag.com/still-life-ohio-valley-poem/)
+h3: Environmental Health News
+{.inline-img}
+img: ./assets/story-images/ARCHIVES/ehn.jpg
+{}
+[There are concerning carcinogens in Western Pennsylvania water](https://www.ehn.org/there-are-concerning-carcinogens-in-western-pennsylvania-water-2641070249.html)
+[Competing visions for a famed river in a Midwest hotspot—Part 1](https://www.ehn.org/grand-river-michigan-restoration-2639885407.html)
+[Freshwater is getting neglected when it comes to plastic pollution research](https://www.ehn.org/freshwater-is-getting-neglected-when-it-comes-to-plastic-pollution-research-2639610931.html)
+[“Forever chemical” replacements on the rise in the Great Lakes](https://www.ehn.org/forever-chemical-replacements-on-the-rise-in-the-great-lakes-2639219145.html)
+[The planet is losing free-flowing rivers. This is a problem.](https://www.ehn.org/benefits-of-free-flowing-rivers-2636604106.html)
+[More than 80 percent of waste from Pennsylvania’s oil and gas drilling stays in the state: Report](https://www.ehn.org/more-than-80-percent-of-waste-from-pennsylvanias-oil-and-gas-drilling-stays-in-the-state-report-2635283061.html)
+h3: Eye on Ohio,  the Ohio Center for Investigative Journalism
+{.inline-img}
+img: ./assets/story-images/ARCHIVES/eye.jpg
+{}
+[Q & A: Why is Lake Erie’s algae bloom growing again?](https://eyeonohio.com/q-a-why-is-lake-eries-algae-bloom-growing-again/)
+[Fewer Invasive Species Reach the Great Lakes, but Those Here Continue to Spread](https://eyeonohio.com/fewer-invasive-species-reach-the-great-lakes-but-those-here-continue-to-spread/)
+h3: Louisville Public Media
+h3: PublicSource
+{.inline-img}
+img: ./assets/story-images/ARCHIVES/ps.jpg
+{}
+[As Pittsburgh region increases plastics production, a leading scientist asks: How much of it will get in our water sources?](https://www.publicsource.org/as-pittsburgh-region-increases-plastics-production-a-leading-scientist-asks-how-much-of-it-will-get-in-our-water-sources/)
+[Raw sewage flows into Pittsburgh’s rivers. Is there an environmentally friendly fix that won’t break the bank?](https://www.publicsource.org/will-green-or-gray-infrastructure-solve-the-problem-of-raw-sewage-running-into-the-pittsburgh-regions-rivers/)
+[Can Southwestern Pennsylvania’s dams and reservoirs withstand the effects of climate change?](https://www.publicsource.org/can-southwestern-pennsylvanias-dams-and-reservoirs-withstand-the-effects-of-climate-change/)
+[PFAS threat in Southwestern Pennsylvania](https://www.publicsource.org/neville-island-residents-could-have-been-drinking-pfas-contaminated-water-for-a-month-township-officials-say/) — Ongoing coverage by PublicSource and Environmental Health News
+[]
