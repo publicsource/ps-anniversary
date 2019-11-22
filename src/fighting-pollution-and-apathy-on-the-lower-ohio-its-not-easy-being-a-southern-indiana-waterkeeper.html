@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+
+    <title>Good River - Fighting pollution and apathy on the Lower Ohio, it’s not easy being a Southern Indiana Waterkeeper</title>
+
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/logo-white-150x.png" />
+    <link rel="icon" sizes="96x96" href="/assets/logo-white-150x.png" />
+    <link rel="icon" sizes="32x32" href="/assets/logo-white-150x.png" />
+    <link rel="icon" sizes="19x19" href="/assets/logo-white-150x.png" />
+
+    <!-- Safari, you're the worst -->
+    <meta name='format-detection' content='telephone=no'>
+
+    <!-- Font Awesome -->
+    <script src="https://kit.fontawesome.com/ddd1535883.js" crossorigin="anonymous"></script>
+
+    <!-- BEGIN TWITTER SUMMARY CARD -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Good River - Fighting pollution and apathy on the Lower Ohio, it’s not easy being a Southern Indiana Waterkeeper">
+    <meta name="twitter:url" content="https://www.ohiowatershed.org/fighting-pollution-and-apathy-on-the-lower-ohio-its-not-easy-being-a-southern-indiana-waterkeeper.html">
+    <meta name="twitter:image" content="https://www.ohiowatershed.org/assets/story-images/EHN-flickner/Jason-Falls-Ohio.jpg">
+    <meta name="twitter:description" content="Good River is a series about the environment, economy and culture of the Ohio River watershed, produced by seven nonprofit newsrooms spanning five of the 15 watershed states.">
+
+    <!-- Social sharing meta -->
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Good River - Fighting pollution and apathy on the Lower Ohio, it’s not easy being a Southern Indiana Waterkeeper">
+    <meta property="og:site_name" content="Good River: Stories of the Ohio">
+    <meta property="og:url" content="https://www.ohiowatershed.org/fighting-pollution-and-apathy-on-the-lower-ohio-its-not-easy-being-a-southern-indiana-waterkeeper.html">
+    <meta property="og:image" content="https://www.ohiowatershed.org/assets/story-images/EHN-flickner/Jason-Falls-Ohio.jpg">
+    <meta property="og:description" content="Good River is a series about the environment, economy and culture of the Ohio River watershed, produced by seven nonprofit newsrooms spanning five of the 15 watershed states.">
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+<body>
+
+  <%= t.include("partials/_main_nav.html") %>
+
+  <%= t.include("partials/_story.html", {'story': archieml.EhnFlickern, 'storyList': json.storyList}) %>
+
+  <%= t.include("partials/_story-footer.html") %>
+
+  <script src="app.js" async></script>
+  <%= t.include("partials/_analytics.html") %>
+
+</body>
+</html>
