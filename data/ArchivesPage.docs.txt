@@ -38,6 +38,19 @@ img: ./assets/story-images/ARCHIVES/eye.jpg
 [Q & A: Why is Lake Erie’s algae bloom growing again?](https://eyeonohio.com/q-a-why-is-lake-eries-algae-bloom-growing-again/)
 [Fewer Invasive Species Reach the Great Lakes, but Those Here Continue to Spread](https://eyeonohio.com/fewer-invasive-species-reach-the-great-lakes-but-those-here-continue-to-spread/)
 h3: Louisville Public Media
+{.inline-img}
+img: ./assets/story-images/ARCHIVES/lpm.jpg
+{}
+h4: Ohio Valley ReSource
+[Toxic Legacy: “Teflon” Chemical Sticks Around In Water Supplies](https://ohiovalleyresource.org/2016/10/21/toxic-legacy-teflon-chemical-sticks-around-water-supplies)
+[Coal Ash Uncovered: New Data Reveal Widespread Contamination At Ohio Valley Sites](https://ohiovalleyresource.org/2018/06/18/coal-ash-uncovered-new-data-reveal-widespread-contamination-ohio-valley-sites)
+[After Nearly Three Decades And $3 Billion, Olmsted Locks And Dam Open On Ohio](https://ohiovalleyresource.org/2018/08/30/after-nearly-three-decades-and-3-billion-olmsted-locks-and-dam-open-on-ohio)
+h4: WFPL
+[Forever Chemicals Found In Drinking Water Across Kentucky](https://wfpl.org/forever-chemicals-found-in-drinking-water-across-kentucky)
+[Ohio River Regulators Adopt Voluntary Pollution Control Standards](https://wfpl.org/ohio-river-regulators-adopt-voluntary-pollution-control-standards)
+[Louisville Hazardous Waste Site Still Leaking Pollution Into Ohio River](https://wfpl.org/louisville-hazardous-waste-site-still-leaking-pollution-into-ohio-river)
+h4: KyCIR
+[At Dangerous Kentucky Dams, Locals Aren’t Prepared For Disaster](https://kycir.org/2019/08/06/at-kentuckys-most-dangerous-dams-locals-arent-prepared-for-disaster)
 h3: PublicSource
 {.inline-img}
 img: ./assets/story-images/ARCHIVES/ps.jpg

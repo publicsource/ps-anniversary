@@ -9,16 +9,20 @@
   </div>
 </div>
 
-<div class="container">
+<div id="archive" class="container">
     <div class="row">
       <div class="six columns offset-by-three">
         <div id="story-page-body">
           <% archives.sections.forEach(function(section, i) { %>
 
             <% if(section.type == "text"){ %>
-              <p> <%= t.renderMarkdown(archives.sections[i].value) %> </p>
+              <%= t.renderMarkdown(archives.sections[i].value) %>
+              
             <% }else if(section.type == "h3"){ %>
               <h3><%= section.value %></h3>
+              
+            <% }else if(section.type == "h4"){ %>
+              <h4><%= section.value %></h4>
 
             <% }else if(section.type == "inline-img"){ %>
               <img alt="<%= section.value.alt %>" src="<%= section.value.img %>" />
@@ -26,14 +30,13 @@
             <% }else if(section.type == "groundsource"){ %>
               <img alt="<%= section.value.alt %>" src="<%= section.value.img %>" />
 
-              <% }else if(section.type == "video"){ %>
-                <div class='embed-container'>
-                  <iframe src='<%= section.value.videolink %>' frameborder='0' allowfullscreen></iframe>
-                </div>
+            <% }else if(section.type == "video"){ %>
+              <div class='embed-container'>
+                <iframe src='<%= section.value.videolink %>' frameborder='0' allowfullscreen></iframe>
+              </div>
+            <% } %>
 
-        <% } %>
-
-        <% }); %>
+          <% }); %>
 
       </div>
     </div>
