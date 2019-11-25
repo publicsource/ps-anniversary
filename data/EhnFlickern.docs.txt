@@ -5,8 +5,8 @@ organization: Environmental Health News
 pub: Dec. 4, 2019
 feature_img.src: ./assets/story-images/EHN-flickner/Jason-Falls-Ohio.jpg
 feature_img.caption: Jason Flickner walks on the exposed fossil beds at the Falls of the Ohio State Park. (Photo by Jeff Brooks-Gillies/Environmental Health News)
-twitterlink.src: 
-facebooklink.src: 
+twitterlink.src: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Ffighting-pollution-and-apathy-on-the-lower-ohio-its-not-easy-being-a-southern-indiana-waterkeeper.html&amp;text=Good%20River%20-%20Fighting%20pollution%20and%20apathy%20on%20the%20Lower%20Ohio%2C%20it%E2%80%99s%20not%20easy%20being%20a%20Southern%20Indiana%20Waterkeeper%20%23ohioriverstories
+facebooklink.src: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Ffighting-pollution-and-apathy-on-the-lower-ohio-its-not-easy-being-a-southern-indiana-waterkeeper.html
 [+sections]
 NEW ALBANY, Ind. — When Jason Flickner was a kid, he built a dam on the creek behind his grandparents’ house that flooded a neighbor’s basement.
 
@@ -55,8 +55,8 @@ Flickner absorbed his grandfather’s outdoor ethos, preferring time in nature a
 {.pullquote}
 text: “I know him as a conservation warrior. If you start talking about conservation around here, his name’s gonna come up.”
 
-twitter: #
-facebook: #
+twitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Ffighting-pollution-and-apathy-on-the-lower-ohio-its-not-easy-being-a-southern-indiana-waterkeeper.html&amp;text=%E2%80%9CI%20know%20him%20as%20a%20conservation%20warrior.%20If%20you%20start%20talking%20about%20conservation%20around%20here%2C%20his%20name%E2%80%99s%20gonna%20come%20up.%E2%80%9D%20%23ohioriverstories
+facebook: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Ffighting-pollution-and-apathy-on-the-lower-ohio-its-not-easy-being-a-southern-indiana-waterkeeper.html
 {} 
 
 His first advocacy job was canvassing, where he learned to talk quickly and connect with people. 
