@@ -17,21 +17,21 @@
 
             <% if(section.type == "text"){ %>
               <%= t.renderMarkdown(archives.sections[i].value) %>
-              
+
             <% }else if(section.type == "h3"){ %>
               <h3><%= section.value %></h3>
-              
+
             <% }else if(section.type == "h4"){ %>
               <h4><%= section.value %></h4>
 
             <% }else if(section.type == "inline-img"){ %>
-              <img alt="<%= section.value.alt %>" src="<%= section.value.img %>" />
+              <img style="margin-bottom: 1em;" alt="<%= section.value.alt %>" src="<%= section.value.img %>" />
 
             <% }else if(section.type == "groundsource"){ %>
               <img alt="<%= section.value.alt %>" src="<%= section.value.img %>" />
 
             <% }else if(section.type == "video"){ %>
-              <div class='embed-container'>
+              <div style="margin-bottom: 1em;" class='embed-container'>
                 <iframe src='<%= section.value.videolink %>' frameborder='0' allowfullscreen></iframe>
               </div>
             <% } %>
