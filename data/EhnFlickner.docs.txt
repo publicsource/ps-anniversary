@@ -20,7 +20,6 @@ Flickner is the executive director of the [Lower Ohio River Waterkeeper](https:/
 img: ./assets/story-images/groundsource/groundsource.png
 alt: Groundsource image
 {}
-
 He’s starting to think it’s time to walk away, but he feels bound to New Albany. Both his grandparents have died; the future of the estate is uncertain, and Flickner doesn’t want to let it go. 
 
 “I feel like not only am I walking away from the family homestead, I’m walking away from the fight that I’ve been putting up for 20 years,” Flickner said from his sitting room, lit through large windows covered in nose prints from his dogs, Willow and Murphy. 
@@ -41,6 +40,10 @@ But he’s broke.
 He started that day with an overdraft notice on his personal checking account. The organization hasn’t raised enough to pay him a salary. He’s paying bills through side work and an inheritance. He said the organization had around $1,000 in mid-September, which had dwindled to $50 by late October. The way he sees it, he may need to head to the coast where environmental work is more plentiful unless his board agrees to help make a $100,000 fundraising push over the next year.
 
 “We’re to that ‘do or die’ moment,” he said.
+
+{.video}
+videolink: https://www.youtube.com/embed/I-7PhB1taTs
+{}
 
 He’s not alone. Other red state Waterkeeper leaders — whose groups are all members of the national Waterkeeper Alliance — say they’re also struggling to grow. Progressive grassroots organizing isn’t impossible, but getting local buy-in can be tough. Waterkeeper’s mission of “holding polluters accountable” can mean suing companies in a state where “Indiana is open for business” is a catchphrase for elected officials. And in Flickner’s case, the Ohio River is so big and has been so polluted for so long, even like-minded people aren’t convinced they can make a difference, he said.
 
