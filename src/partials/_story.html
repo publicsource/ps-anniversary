@@ -42,6 +42,9 @@
               <h2><%= section.value %></h2>
               <div class="wave-divider-inline"></div>
 
+            <% }else if(section.type == "divider"){ %>
+              <div class="wave-divider-middle"></div>
+
             <% }else if(section.type == "pullquote"){ %>
               <h3><%= section.value.text %></h3>
               <div class="wave-divider-pullquote">
