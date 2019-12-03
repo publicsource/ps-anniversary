@@ -1,5 +1,23 @@
 [
   {
+    "story_id": 106,
+    "headlines": "Fighting pollution and apathy on the Lower Ohio, it’s not easy being a Southern Indiana Waterkeeper",
+    "publish_date": "December 4, 2019",
+    "authors": "Jeff Brooks-Gillies",
+    "org": "Environmental Health News",
+    "img_filename": "EHN-flickner/lead.jpg",
+    "link": "fighting-pollution-and-apathy-on-the-lower-ohio-its-not-easy-being-a-southern-indiana-waterkeeper.html"
+  },
+  {
+    "story_id": 107,
+    "headlines": "What the petrochemical buildout along the Ohio River means for regional communities and beyond",
+    "publish_date": "December 4, 2019",
+    "authors": "Sharon Kelly",
+    "org": "Belt Magazine",
+    "img_filename": "BELT-petrochemical/lead.jpg",
+    "link": "petrochemical-buildout-along-the-ohio-river-means-for-regional-communities.html"
+  },
+  {
     "story_id": 103,
     "headlines": "Tracing water, memory and change: Black experiences along and near Route 65",
     "publish_date": "November 21, 2019",
