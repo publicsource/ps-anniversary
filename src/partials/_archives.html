@@ -17,10 +17,10 @@
 
             <% if(section.type == "text"){ %>
               <%= t.renderMarkdown(archives.sections[i].value) %>
-              
+
             <% }else if(section.type == "h3"){ %>
-              <h3><%= section.value %></h3>
-              
+              <h3 style="text-align: center !important;"><%= section.value %></h3>
+
             <% }else if(section.type == "h4"){ %>
               <h4><%= section.value %></h4>
 
