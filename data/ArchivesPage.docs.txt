@@ -1,4 +1,4 @@
-headline: Archives
+headline: Archives page
 [+sections]
 h3: 100 Days in Appalachia
 {.inline-img}
@@ -28,9 +28,6 @@ img: ./assets/story-images/ARCHIVES/ehn.jpg
 [There are concerning carcinogens in Western Pennsylvania water](https://www.ehn.org/there-are-concerning-carcinogens-in-western-pennsylvania-water-2641070249.html)
 [Competing visions for a famed river in a Midwest hotspot—Part 1](https://www.ehn.org/grand-river-michigan-restoration-2639885407.html)
 [Freshwater is getting neglected when it comes to plastic pollution research](https://www.ehn.org/freshwater-is-getting-neglected-when-it-comes-to-plastic-pollution-research-2639610931.html)
-[“Forever chemical” replacements on the rise in the Great Lakes](https://www.ehn.org/forever-chemical-replacements-on-the-rise-in-the-great-lakes-2639219145.html)
-[The planet is losing free-flowing rivers. This is a problem.](https://www.ehn.org/benefits-of-free-flowing-rivers-2636604106.html)
-[More than 80 percent of waste from Pennsylvania’s oil and gas drilling stays in the state: Report](https://www.ehn.org/more-than-80-percent-of-waste-from-pennsylvanias-oil-and-gas-drilling-stays-in-the-state-report-2635283061.html)
 h3: Eye on Ohio,  the Ohio Center for Investigative Journalism
 {.inline-img}
 img: ./assets/story-images/ARCHIVES/eye.jpg
@@ -55,7 +52,6 @@ h3: PublicSource
 {.inline-img}
 img: ./assets/story-images/ARCHIVES/ps.jpg
 {}
-[As Pittsburgh region increases plastics production, a leading scientist asks: How much of it will get in our water sources?](https://www.publicsource.org/as-pittsburgh-region-increases-plastics-production-a-leading-scientist-asks-how-much-of-it-will-get-in-our-water-sources/)
 [Raw sewage flows into Pittsburgh’s rivers. Is there an environmentally friendly fix that won’t break the bank?](https://www.publicsource.org/will-green-or-gray-infrastructure-solve-the-problem-of-raw-sewage-running-into-the-pittsburgh-regions-rivers/)
 [Can Southwestern Pennsylvania’s dams and reservoirs withstand the effects of climate change?](https://www.publicsource.org/can-southwestern-pennsylvanias-dams-and-reservoirs-withstand-the-effects-of-climate-change/)
 [PFAS threat in Southwestern Pennsylvania](https://www.publicsource.org/neville-island-residents-could-have-been-drinking-pfas-contaminated-water-for-a-month-township-officials-say/) — Ongoing coverage by PublicSource and Environmental Health News
