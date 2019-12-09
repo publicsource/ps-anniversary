@@ -5,8 +5,8 @@ organization: The Allegheny Front
 pub: Dec. 12, 2019
 feature_img.src: ./assets/story-images/ALLEGHENYFRONT-nurdle/ChristinaMarconi.jpg
 feature_img.caption: (Nurdle Patrol participant Christina Marconi holds a nurdle the size of a small pea. (Photo courtesy of Jace Tunnell))
-twitterlink.src: 
-facebooklink.src: 
+twitterlink.src: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fnurdle-new-form-pollution-coming-to-ohio-river.html&amp;text=Ever%20hear%20of%20a%20nurdle%3F%20This%20new%20form%20of%20pollution%20could%20be%20coming%20to%20the%20Ohio%20River%3A%20The%20Shell%20Chemical%20Appalachia%20petrochemical%20plant%20under%20construction%20in%20Beaver%20County%2C%20PA%20will%20bring%20hundreds%20of%20jobs%20as%20well%20as%20spinoff%20industries.%20But%20it%20could%20also%20bring%20a%20new%20type%20of%20pollution%20to%20the%20Ohio%20River%20Valley%20%E2%80%94%20nurdles.
+facebooklink.src: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fnurdle-new-form-pollution-coming-to-ohio-river.html
 [+sections]
 {.audio}
 link: ./assets/audio/nurdles.mp3
