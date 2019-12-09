@@ -1,0 +1,89 @@
+headline: Ever hear of a nurdle? This new form of pollution could be coming to the Ohio River
+author: Julie Grant
+organization: The Allegheny Front
+
+pub: Dec. 12, 2019
+feature_img.src: ./assets/story-images/ALLEGHENYFRONT-nurdle/ChristinaMarconi.jpg
+feature_img.caption: (Nurdle Patrol participant Christina Marconi holds a nurdle the size of a small pea. (Photo courtesy of Jace Tunnell))
+twitterlink.src: 
+facebooklink.src: 
+[+sections]
+{.audio}
+link: ./assets/audio/nurdles.mp3
+{}
+When the petrochemical plant being built by Shell Chemical Appalachia in Beaver County is complete, it’s anticipated to bring 600 jobs as well as spinoff industries. But some researchers and activists warn that it could also bring a new type of pollution to the Ohio River Valley — nurdles. 
+h2: First sightings of nurdles
+Nurdles are tiny plastic pellets similar in size to a lentil and produced at petrochemical plants. They’re the raw material of the plastics industry, the building blocks of everything from car parts to keyboards to grocery store bags. Jace Tunnell is the reserve director at the [Marine Science Institute](https://utmsi.utexas.edu/component/cobalt/item/9-marine-science/2603-tunnell-jace?Itemid=550) at the University of Texas at Austin. Before last year, he had only heard of nurdles. 
+But walking along the beach at Corpus Christi, Texas, in 2018, he saw nurdles littering the high tide line.
+“And at first, I wasn't sure, you know, are they fish eggs?” Tunnell said. “...When I picked one up and squeezed it, it was really hard. I knew exactly what that was. It was a nurdle.”
+Tunnell described it as unbelievable how many opaque pellets he saw on the beach. There were thousands, likely more. “I was kind of in shock,” he said.
+h2: Creating nurdle patrol
+Tunnell sought to better understand nurdle pollution: How many of these were really washing up on the Texas Gulf Coast? So, he started surveying the beaches. He also created [Nurdle Patrol](https://nurdlepatrol.org/Forms/Home/), a citizen science project that teaches people how to find nurdles and document their presence.
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/uk3fM92W5SA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+The protocol: If a nurdle is found, start the clock and search for 10 minutes. Then input the total number collected into Nurdle Patrol’s [database](https://nurdlepatrol.org/Forms/Map/). Boy Scout troops, families and others have done surveys along the Gulf Coast. One thing Tunnell has learned from this: “Almost every single beach that you go to has pellets on it,” he said. 
+“These pellets don't break down over time,” he said, adding that it can take hundreds of years for nurdles to break into smaller pieces. 
+When [birds](https://www.fauna-flora.org/news/scottish-puffins-found-with-plastic-pellets-in-their-stomachs), fish and other species eat bits of plastic, it can make them think they’re full and die of malnutrition. Microplastics, including nurdles, are also [known to attract toxins](https://www.sciencedirect.com/science/article/pii/S0025326X18300523#bb0200) that [can accumulate in wildlife](https://www.epa.gov/sites/production/files/2016-12/documents/plastics-aquatic-life-report.pdf). 
+One study [found some fish](https://www.nature.com/articles/srep14340) sold for human consumption in the United States contained plastic debris. The [World Health Organization](https://www.who.int/news-room/detail/22-08-2019-who-calls-for-more-research-into-microplastics-and-a-crackdown-on-plastic-pollution) says more research is needed on the health impacts to humans. 
+h2: More plastics on the way
+Plastic production is ramping up nationally. Fueled by the boom of shale gas production, [334 projects](https://www.americanchemistry.com/Policy/Energy/Shale-Gas/Fact-Sheet-US-Chemical-Investment-Linked-to-Shale-Gas.pdf) related to plastics have been announced since 2010, according to the American Chemistry Council [ACC], a trade group that includes the plastics industry.
+One of those projects is the ethane cracker Shell is building along the Ohio River in Beaver County, north of Pittsburgh. It will take ethane from the region’s natural gas to [produce nearly 1.6 million metric tons of plastic pellets a year.](https://www.shell.com/about-us/major-projects/pennsylvania-petrochemicals-complex.html) That equals an estimated trillions of nurdles annually. 
+{.single-photo-hero}
+photo: ./assets/story-images/ALLEGHENYFRONT-nurdle/CrackerConstruction.jpg
+caption: Construction of Shell’s $6 billion ethane cracker along the Ohio River in Beaver County, Pennsylvania, in June 2019. (Photo by Reid Frazier/The Allegheny Front)
+{}
+In an email, Shell says it has pledged to prevent accidental loss of plastic pellets from its manufacturing facility into the environment, using industry safety and production measures. 
+The ACC along with the Plastics Industry Association run a program called [Operation Clean Sweep](https://www.opcleansweep.org), developed by the plastics industry. Shell is a member of Operation Clean Sweep.
+“Our goal is to move towards zero pellet loss to the environment,” said Keith Christman, the ACC’s managing director of plastics markets.  
+But environmental groups have doubts.
+“I think that once this facility is up and running, people will start to see tiny little bits of plastic, these nurdles that are lining the waterways where the stormwater drains into,” said Emily Jeffers, attorney with the Center for Biological Diversity. “Once you see them, you're going to see millions of them.”
+It’s easy for these tiny, lightweight pellets to escape into the environment. When millions of pellets are being loaded into trucks, train cars or ships for transport, they easily spill. When it rains, these spilled pellets can wash into waterways.
+{.single-photo-hero}
+photo: ./assets/story-images/ALLEGHENYFRONT-nurdle/ParkerTunnell.jpg
+caption: Nurdle Patrol participant Parker Tunnell holds a nurdle she found in Texas. The Ohio Valley will be home to Shell’s ethane cracker, which will produce trillions of pellets annually. (Photo courtesy of Jace Tunnell)
+{}
+The Center for Biological Diversity submitted a [legal petition](https://www.biologicaldiversity.org/campaigns/ocean_plastics/pdfs/CWA-Petro-Plastics-Petition-to-EPA-6-23-19.pdf) supported by 280 environmental, public health, Indigenous and community groups around the country to the U.S. Environmental Protection Agency [EPA] in July. Among other things, Jeffers said they want regulations revised to specifically prohibit discharge of nurdles into waterways.
+“And so we've petitioned the EPA to upgrade the standards, which are 40 years old,” Jeffers said, “...because this industry has been ignored for decades. And the standards in place now don't protect humans or the environment.” 
+To bolster her point, Jeffers pointed to Lavaca Bay, Texas, a couple hours drive north of Corpus Christi, where Tunnell first found nurdles on the beach. 
+{.pullquote}
+text: “Once you see them, you’re going to see millions of them.”
+twitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fnurdle-new-form-pollution-coming-to-ohio-river.html&amp;text=Ever%20hear%20of%20a%20nurdle%3F%20This%20new%20form%20of%20pollution%20could%20be%20coming%20to%20the%20Ohio%20River%3A%20%E2%80%9COnce%20you%20see%20them%2C%20you%E2%80%99re%20going%20to%20see%20millions%20of%20them.%E2%80%9D
+facebook: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fnurdle-new-form-pollution-coming-to-ohio-river.html
+{} 
+In October, Formosa Plastics settled a lawsuit with Lavaca Bay residents and environmental activists for [$50 million](https://www.texastribune.org/2019/10/15/formosa-plastics-pay-50-million-texas-clean-water-act-lawsuit/) after a judge ruled the company illegally discharged billions of plastic pellets. Residents there had urged state and federal regulators to hold Formosa accountable for a decade. 
+“Yes, there are standards right now,” Jeffers said. “They're just woefully out of date.”
+According to an EPA spokesperson, the agency is considering the petition. 
+h2: A ‘valuable’ product
+Manufacturers don’t want their product to escape, Christman said. 
+“Let's remember that this material is very valuable. It's something that our members want to keep control over,” he said.
+Operation Clean Sweep has developed best practices for plastic makers, like how to design a facility and train employees to avoid pellet spills and how to clean up if spills do happen.  
+Christman said there’s no need for the EPA to create new rules prohibiting nurdle loss.
+“It is already regulated through the [Clean Water Act](https://www.ohiowatershed.org/a-look-back-at-the-clean-water-act-movement-after-50-years.html) and stormwater permits, so this material and loss of it at a facility is regulated already,” he said.
+In Texas, Tunnell wants water permits for plastic manufacturers to be clear that the goal is no pellet loss. Despite the efforts of Operation Clean Sweep, nurdles continue to accumulate in waterways in Europe, Australia and the United States.
+“That tells me that the voluntary program is not working,” he said. “And so what happens when education doesn't work anymore and voluntary programs don't work any more? Then you need to go to stricter regulations.” 
+{.story_photo_grid}
+top_left:  ./assets/story-images/ALLEGHENYFRONT-nurdle/JaceTunnel_SamSugarek-crop.jpg
+top_right: ./assets/story-images/ALLEGHENYFRONT-nurdle/SamSugarek-crop.jpg
+big_bottom: ./assets/story-images/ALLEGHENYFRONT-nurdle/Nurdles_in_Hand.jpg
+caption: Jace Tunnell and Sam Sugarek scour a beach in Texas in search of nurdles. The Nurdle Patrol protocol calls for documenting the number of nurdles found in 10 minutes of searching. (Photo courtesy of Jace Tunnell)
+{}
+Tunnell said the voluntary best management practices laid out by Operation Clean Sweep should be enforced as regulations. California is the only state to specifically regulate nurdles. 
+h2: Is the Ohio Valley protected from nurdle pollution?
+As the plastics industry gears up in the Ohio Valley, regulators say water permits for the crackers in Beaver County and Belmont County, Ohio, already address nurdle pollution.
+Elizabeth Rementer, press secretary for the Pennsylvania Department of Environmental Protection [DEP], wrote in an email that the state is not considering adding a zero pellet requirement to permits. She pointed to the state’s regulations that limit floating material, like nurdles, from entering waterways in amounts that could be harmful to humans or wildlife.
+“If nurdles were being discharged in an industrial effluent to surface water, the Department would restrict or eliminate the discharge,” according to Rementer’s email. The agency did not respond to a request for an interview. 
+DEP’s water [discharge permit](http://files.dep.state.pa.us/RegionalResources/SWRO/SWROPortalFiles/Shell/06.23.17/FINAL%20-%20NPDES%20Permit%20PA0002208%20A-1.pdf) for the Shell cracker outlines best management practices for stormwater, but does not list nurdles or plastic pellets specifically. 
+{.single-photo-hero}
+photo: ./assets/story-images/ALLEGHENYFRONT-nurdle/Pellettanks_close.jpg
+caption: Nurdles break down into smaller particles of plastic and can be harmful to wildlife that mistake them for food. (Photo courtesy of Jace Tunnell)
+{}
+“The facility’s plans include a stormwater collection system that would capture any spilled plastics prior to their entry into their stormwater system,” according to Rementer’s email. “In addition, stormwater flowing from potentially contaminated areas on the site are treated prior to their discharge under Shell’s NPDES permit, further minimizing the risk of nurdle discharges.”
+In Ohio, the state EPA last year approved water permits for another ethane cracker in Belmont County, southeast of Pittsburgh, near Wheeling, West Virginia. In an email, the Ohio EPA said the plant will include secondary containment and catch basins with screens to prevent nurdles from being discharged into the Ohio River.  
+Christman with Operation Clean Sweep said it is rolling out a new program next year to its members, including Shell, to better track pellet loss. “Members … will submit data [to] state regulatory agencies on the amount of pellets lost to the environment due to an accidental release and the amount of material recovered within a facility handling resin pellets that's recycled.” 
+more_stories: 109
+More than 15 organizations in the Ohio River watershed have signed the Center for Biological Diversity’s petition demanding more regulation of nurdles from petrochemical plants.
+“I am extremely concerned about plastics and especially microplastics and nurdles,” said Randi Pokladnik, a representative of the Ohio Valley Environmental Council, one of the groups that signed the petition. “We do need to get some baseline data on the Ohio.”
+Tunnell recommended that people in Pennsylvania and Ohio use his Nurdle Patrol protocol to gather data before petrochemical plants start operating. Showing that there are no nurdles on the banks of the Ohio River now can be a powerful tool to hold industry accountable later, he said.
+“Even zeros are data.”
+*Julie Grant, managing editor for The Allegheny Front, authored this story. She can be reached at julie@alleghenyfront.org.*
+*Good River: Stories of the Ohio is a series about the environment, economy and culture of the Ohio River watershed, produced by seven nonprofit newsrooms. To see more, please visit [ohiowatershed.org](https://www.ohiowatershed.org/).*
+[]
