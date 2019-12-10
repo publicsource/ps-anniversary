@@ -4,7 +4,7 @@ organization: The Allegheny Front
 
 pub: Dec. 12, 2019
 feature_img.src: ./assets/story-images/ALLEGHENYFRONT-nurdle/ChristinaMarconi.jpg
-feature_img.caption: (Nurdle Patrol participant Christina Marconi holds a nurdle the size of a small pea. (Photo courtesy of Jace Tunnell))
+feature_img.caption: Nurdle Patrol participant Christina Marconi holds a nurdle the size of a small pea. (Photo courtesy of Jace Tunnell)
 twitterlink.src: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fnurdle-new-form-pollution-coming-to-ohio-river.html&amp;text=Ever%20hear%20of%20a%20nurdle%3F%20This%20new%20form%20of%20pollution%20could%20be%20coming%20to%20the%20Ohio%20River%3A%20The%20Shell%20Chemical%20Appalachia%20petrochemical%20plant%20under%20construction%20in%20Beaver%20County%2C%20PA%20will%20bring%20hundreds%20of%20jobs%20as%20well%20as%20spinoff%20industries.%20But%20it%20could%20also%20bring%20a%20new%20type%20of%20pollution%20to%20the%20Ohio%20River%20Valley%20%E2%80%94%20nurdles.
 facebooklink.src: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fnurdle-new-form-pollution-coming-to-ohio-river.html
 [+sections]
@@ -64,7 +64,7 @@ In Texas, Tunnell wants water permits for plastic manufacturers to be clear that
 top_left:  ./assets/story-images/ALLEGHENYFRONT-nurdle/JaceTunnel_SamSugarek-crop.jpg
 top_right: ./assets/story-images/ALLEGHENYFRONT-nurdle/SamSugarek-crop.jpg
 big_bottom: ./assets/story-images/ALLEGHENYFRONT-nurdle/Nurdles_in_Hand.jpg
-caption: Jace Tunnell and Sam Sugarek scour a beach in Texas in search of nurdles. The Nurdle Patrol protocol calls for documenting the number of nurdles found in 10 minutes of searching. (Photo courtesy of Jace Tunnell)
+caption: Jace Tunnell, left, and Sam Sugarek scour a beach in Texas in search of nurdles. The Nurdle Patrol protocol calls for documenting the number of nurdles found in 10 minutes of searching. (Photo courtesy of Jace Tunnell)
 {}
 Tunnell said the voluntary best management practices laid out by Operation Clean Sweep should be enforced as regulations. California is the only state to specifically regulate nurdles. 
 h2: Is the Ohio Valley protected from nurdle pollution?
@@ -74,7 +74,7 @@ Elizabeth Rementer, press secretary for the Pennsylvania Department of Environme
 DEP’s water [discharge permit](http://files.dep.state.pa.us/RegionalResources/SWRO/SWROPortalFiles/Shell/06.23.17/FINAL%20-%20NPDES%20Permit%20PA0002208%20A-1.pdf) for the Shell cracker outlines best management practices for stormwater, but does not list nurdles or plastic pellets specifically. 
 {.single-photo-hero}
 photo: ./assets/story-images/ALLEGHENYFRONT-nurdle/Pellettanks_close.jpg
-caption: Nurdles break down into smaller particles of plastic and can be harmful to wildlife that mistake them for food. (Photo courtesy of Jace Tunnell)
+caption: These tanks, shown here in June 2019, will hold the plastic pellets produced by Shell’s ethane cracker. According to Shell, 1.6 million metric tons of plastic will be produced there annually. (Photo by Reid Frazier/The Allegheny Front)
 {}
 “The facility’s plans include a stormwater collection system that would capture any spilled plastics prior to their entry into their stormwater system,” according to Rementer’s email. “In addition, stormwater flowing from potentially contaminated areas on the site are treated prior to their discharge under Shell’s NPDES permit, further minimizing the risk of nurdle discharges.”
 In Ohio, the state EPA last year approved water permits for another ethane cracker in Belmont County, southeast of Pittsburgh, near Wheeling, West Virginia. In an email, the Ohio EPA said the plant will include secondary containment and catch basins with screens to prevent nurdles from being discharged into the Ohio River.  
