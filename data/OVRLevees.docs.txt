@@ -1,10 +1,10 @@
 headline: Rising waters: Aging levees, climate change and the challenge to hold back the Ohio River
 
-author: Liam Niemeyer, 
+author: Liam Niemeyer 
 organization: Ohio Valley ReSource
 pub: Dec. 19, 2019
 feature_img.src: ./assets/story-images/OVR-levees/levees-huntington-5.jpg
-feature_img.caption: Jim Casto stands up against the tiled river height gauge along the entrance of the floodwall in Huntington, West Virginia. (Liam Niemeyer, Ohio Valley ReSource)
+feature_img.caption: Local newsman Jim Casto stands up against the tiled river height gauge along the entrance of the floodwall in Huntington, West Virginia. (Liam Niemeyer, Ohio Valley ReSource)
 twitterlink.src: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Frising-waters-aging-levees-climate-change-challenge-ohio-river.html&amp;text=Rising%20waters%3A%20Aging%20levees%2C%20climate%20change%20and%20the%20challenge%20to%20hold%20back%20the%20Ohio%20River%3A%20A%20dozen%20levee%20systems%20in%20the%20Ohio%20River%20basin%20are%20classified%20as%20%22high%20risk%22%20due%20to%20aging%20infrastructure%20and%20the%20people%20and%20property%20that%20would%20be%20harmed%20if%20the%20system%20were%20to%20fail.%20The%20challenge%20is%20made%20greater%20by%20the%20growing%20menace%20of%20climate%20change.
 facebooklink.src: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Frising-waters-aging-levees-climate-change-challenge-ohio-river.html
 [+sections]
