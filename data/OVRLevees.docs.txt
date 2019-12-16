@@ -72,6 +72,12 @@ Ironton’s flood defense system of pump stations, levees and floodwalls were al
 
 “We don't know the condition of the inside of that pipe. We don’t know if that gate could have a stress crack in it,” Pemberton said. “That's some of the things I kind of worry about.”
 
+{.pullquote}
+text: “To nobody’s knowledge was there anywhere, any kind of money available to go after that would meet the kind of needs, and there was an immediate need. It had gone on too long and couldn’t be ignored.”
+twitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Frising-waters-aging-levees-climate-change-challenge-ohio-river.html&amp;text=%E2%80%9CTo%20nobody%E2%80%99s%20knowledge%20was%20there%20anywhere%2C%20any%20kind%20of%20money%20available%20to%20go%20after%20that%20would%20meet%20the%20kind%20of%20needs%2C%20and%20there%20was%20an%20immediate%20need.%20It%20had%20gone%20on%20too%20long%20and%20couldn%E2%80%99t%20be%20ignored.%E2%80%9D%20%23ohioriverstories
+facebook: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Frising-waters-aging-levees-climate-change-challenge-ohio-river.html
+{} 
+
 Pemberton’s maintenance worries extend far beyond to nine other archaic pump stations, almost 4 miles of earthen levee and over another mile of floodwall. He said a local tax levy that generates about $260,000 a year for his department mostly funds salaries for three employees and daily maintenance on the flood protection system. That includes tasks such as mowing the grass on top of levees and greasing pump motors. 
 
 Ironton voted in 2014 to [double the tax levy](https://www.wsaz.com/home/headlines/Flood-Wall-Levy-on-the-Ballot-in-Ironton-279381382.html). Pemberton campaigned for the measure by hanging signs marking the 1937 flood level throughout the city’s historic downtown, reaching the second floor of many buildings. 
@@ -101,6 +107,12 @@ The flood defense employees she manages often have to hunt across the country fo
 
 Wilkins said grant funding is tight because of competition with dozens of other municipalities in need. And in older cities, other aging infrastructure issues may be a higher priority when it comes to applying for grants.
 
+{.pullquote}
+text: “It's not just Huntington, it's every single floodwall that was built in the 1930s, 1940s. It is not a luxury. It is a necessity. It's a problem nationwide.”
+twitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Frising-waters-aging-levees-climate-change-challenge-ohio-river.html&amp;text=%E2%80%9CIt's%20not%20just%20Huntington%2C%20it's%20every%20single%20floodwall%20that%20was%20built%20in%20the%201930s%2C%201940s.%20It%20is%20not%20a%20luxury.%20It%20is%20a%20necessity.%20It's%20a%20problem%20nationwide.%E2%80%9D%20%23ohioriverstories
+facebook: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Frising-waters-aging-levees-climate-change-challenge-ohio-river.html
+{} 
+
 If there were a flood that damaged Huntington’s downtown floodwall, the Corps of Engineers would not help the city pay for repairs. 
 
 The federal government fully funds repairs to a system after a disaster through the [Rehabilitation and Inspection Program](https://www.mvp.usace.army.mil/Missions/Emergency-Management/Rehabilitation-Inspection/), but only if the system meets basic inspection requirements. The Corps of Engineers inspects flood defense systems annually on physical flaws and administrative practices, such as whether cities practice routine floodwall gate closures. 
@@ -119,12 +131,13 @@ Huntington as warm as Los Angeles. Cincinnati as hot as Atlanta: Those are just 
 
 Jim Noel is a service coordination hydrologist with the National Weather Service [Ohio River Forecast Center](https://www.weather.gov/ohrfc/) and one of the authors of the study. He said the higher temperatures predicted in the study tend to increase the amount of water evaporation, which not only could mean more rainfall but also increase the frequency and severity of floods and droughts throughout the basin.
 
-{.single-photo-small}
-photo: ./assets/story-images/OVR-levees/levees-risk-by-state-v4.png
+{.float-img}
+img:  ./assets/story-images/OVR-levees/levees-risk-by-state-v4.png
+alt: What the Ohio Basin levees protect chart
 caption: 
-float: left
+perc_width: 80
+float: right
 {}
-
 Already, several cities in the region saw record rainfall in 2018. Cincinnati saw its third wettest year, and Charleston, Pittsburgh, Columbus and Louisville all saw their wettest year ever.
 
 Some levee systems in parts of the Ohio River basin — including Huntington and Ironton —  could see an average annual river streamflow increase of 25% to 35% by 2099. That increases the chance of another flood on the scale of the historic one in 1937.
@@ -170,4 +183,4 @@ And when Pemberton hears about climate change from local meteorologists, the nag
 
 *Liam Niemeyer, a reporter for Ohio Valley ReSource, authored this story. He can be reached at lniemeyer1@murraystate.edu.*
 
-*Good River: Stories of the Ohio is a series about the environment, economy and culture of the Ohio River watershed, produced by seven nonprofit newsrooms. To see more, please visit ohiowatershed.org.*
+*Good River: Stories of the Ohio is a series about the environment, economy and culture of the Ohio River watershed, produced by seven nonprofit newsrooms. To see more, please visit [ohiowatershed.org](https://www.ohiowatershed.org/).*
