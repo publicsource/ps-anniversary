@@ -103,6 +103,11 @@ Wilkins said Huntington encounters a lot of the type of problems with an aging s
 
 The flood defense employees she manages often have to hunt across the country for pump station replacement parts, like leather straps or metal brackets, or pay extra to get custom parts made, simply because the parts for the World War II-era equipment aren’t manufactured anymore.
 
+{.single-photo-small}
+photo: ./assets/story-images/OVR-levees/levees-huntington-2.jpg
+caption: Stan Wonnell (left), floodwall coordinator for the Huntington Stormwater Utility, and Sherry Wilkins, director of the utility. (Liam Niemeyer, Ohio Valley ReSource)
+{}
+
 “Our floodwall has a 50-year design life,” Wilkins said, meaning that obscure replacement parts must be custom-made and can cost thousands of dollars. “The average person wouldn't think of that, ‘Wow, does it really cost $20,000 to repair a pump?’ So, currently we don't have the money to do those kinds of things continually.”
 
 Wilkins said grant funding is tight because of competition with dozens of other municipalities in need. And in older cities, other aging infrastructure issues may be a higher priority when it comes to applying for grants.
@@ -131,13 +136,17 @@ Huntington as warm as Los Angeles. Cincinnati as hot as Atlanta: Those are just 
 
 Jim Noel is a service coordination hydrologist with the National Weather Service [Ohio River Forecast Center](https://www.weather.gov/ohrfc/) and one of the authors of the study. He said the higher temperatures predicted in the study tend to increase the amount of water evaporation, which not only could mean more rainfall but also increase the frequency and severity of floods and droughts throughout the basin.
 
-{.float-img}
+{.divider}
+{}
+
+{.inline-img}
 img:  ./assets/story-images/OVR-levees/levees-risk-by-state-v4.png
 alt: What the Ohio Basin levees protect chart
 caption: 
-perc_width: 80
-float: right
 {}
+{.divider}
+{}
+
 Already, several cities in the region saw record rainfall in 2018. Cincinnati saw its third wettest year, and Charleston, Pittsburgh, Columbus and Louisville all saw their wettest year ever.
 
 Some levee systems in parts of the Ohio River basin — including Huntington and Ironton —  could see an average annual river streamflow increase of 25% to 35% by 2099. That increases the chance of another flood on the scale of the historic one in 1937.
