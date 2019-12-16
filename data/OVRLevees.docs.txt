@@ -15,11 +15,6 @@ When 78-year-old Jim Casto looks at the towering floodwalls that line downtown H
 
 The longtime journalist and local historian is short in stature, yet tall in neighborhood tales. On Casto’s hand shines a solid gold ring, signifying his more than 40 years of reporting at the local paper. “It was a lot cheaper to give me a ring than to give me a pay raise,” he said with a chuckle. 
 
-{.single-photo-small}
-photo: ./assets/story-images/OVR-levees/levees-huntington-map-v4.jpg
-caption: 
-{}
-
 He walks up to the entrance of Harris Riverfront Park, one of 21 gate openings in the more than 3.5 miles of floodwalls covered in decades of charcoal-colored grime and dirt.
 
 The river has shaped the city, providing the transportation for coal, steel and chemical products. But Casto also knows the river has the power to destroy, as it did before the omnipresent walls were there. 
@@ -45,6 +40,11 @@ Ohio River communities from Pittsburgh to Cairo, Illinois, were inundated. About
 
 In the wake of the disaster, the U.S. Army Corps of Engineers took on a mammoth effort to construct hundreds of miles of levees, floodwalls and numerous pump stations to keep back rising water. Those defenses are now, on average, nearly 60 years old. Huntington’s system was built in 1943, one of the oldest in the basin. 
 
+{.single-photo-small}
+photo: ./assets/story-images/OVR-levees/levee-by-risk-v4.png
+caption: To see specifics about a levee system near you, explore the [U.S. Army Corps of Engineers’ interactive Levee Database](https://levees.sec.usace.army.mil/#/).
+{}
+
 That advanced age worries local officials from several Ohio Valley towns who look after these defenses, plagued by rust, antiquated designs, archaic pump engines and, in some places, sinkholes. They say funding is scarce to upgrade World War II-era safeguards that protect $120.7 billion in property and about 720,000 people throughout the Ohio River basin. 
 
 Huntington is one of a dozen levee systems in the basin that the Corps of Engineers classifies as a “high risk” due to the combination of aging infrastructure and the people and property that would be harmed if the system were to fail. The American Society of Civil Engineers [estimates](https://www.infrastructurereportcard.org/levees/funding-investment/) aging levee systems like these across the country will need $80 billion in upgrades within the next decade.
@@ -57,7 +57,7 @@ h2: Aging protection
 top_left: ./assets/story-images/OVR-levees/levees-ironton-1.jpg
 top_right: ./assets/story-images/OVR-levees/levees-ironton-2.jpg
 big_bottom: ./assets/story-images/OVR-levees/levees-ironton-4.jpg
-caption: (left) Mike Pemberton shows a dated sensor that uses mercury in Pump Station Number Six in Ironton, Ohio. (right) Large, dated electrical switchgear boxes sit inside Pump Station Number Six in Ironton, Ohio. (Liam Niemeyer, Ohio Valley ReSource)
+caption: Mike Pemberton (left, bottom) shows a dated sensor that uses mercury in Pump Station Number Six in Ironton, Ohio. (Right) Large, dated electrical switchgear boxes inside Ironton’s Pump Station Number Six. (Liam Niemeyer, Ohio Valley ReSource)
 {}
 
 With the twist of a cold handle, a heavy, metal door creaks open, the sound echoing throughout the cavernous Pump Station Number Six on the west side of Ironton, Ohio, along the Ohio River.
@@ -73,8 +73,8 @@ Ironton’s flood defense system of pump stations, levees and floodwalls were al
 “We don't know the condition of the inside of that pipe. We don’t know if that gate could have a stress crack in it,” Pemberton said. “That's some of the things I kind of worry about.”
 
 {.pullquote}
-text: “To nobody’s knowledge was there anywhere, any kind of money available to go after that would meet the kind of needs, and there was an immediate need. It had gone on too long and couldn’t be ignored.”
-twitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Frising-waters-aging-levees-climate-change-challenge-ohio-river.html&amp;text=%E2%80%9CTo%20nobody%E2%80%99s%20knowledge%20was%20there%20anywhere%2C%20any%20kind%20of%20money%20available%20to%20go%20after%20that%20would%20meet%20the%20kind%20of%20needs%2C%20and%20there%20was%20an%20immediate%20need.%20It%20had%20gone%20on%20too%20long%20and%20couldn%E2%80%99t%20be%20ignored.%E2%80%9D%20%23ohioriverstories
+text: “It had gone on too long and couldn’t be ignored.”
+twitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Frising-waters-aging-levees-climate-change-challenge-ohio-river.html&amp;text=Rising%20waters%3A%20Aging%20levees%2C%20climate%20change%20and%20the%20challenge%20to%20hold%20back%20the%20Ohio%20River%3A%20%E2%80%9CIt%20had%20gone%20on%20too%20long%20and%20couldn%E2%80%99t%20be%20ignored.%E2%80%9D
 facebook: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Frising-waters-aging-levees-climate-change-challenge-ohio-river.html
 {} 
 
@@ -103,11 +103,11 @@ Wilkins said Huntington encounters a lot of the type of problems with an aging s
 
 The flood defense employees she manages often have to hunt across the country for pump station replacement parts, like leather straps or metal brackets, or pay extra to get custom parts made, simply because the parts for the World War II-era equipment aren’t manufactured anymore.
 
-{.single-photo-small}
-photo: ./assets/story-images/OVR-levees/levees-huntington-2.jpg
+{.side-by-side-photo}
+left: ./assets/story-images/OVR-levees/levees-huntington-2.jpg
+right: ./assets/story-images/OVR-levees/levees-huntington-map-v4.jpg
 caption: Stan Wonnell (left), floodwall coordinator for the Huntington Stormwater Utility, and Sherry Wilkins, director of the utility. (Liam Niemeyer, Ohio Valley ReSource)
 {}
-
 “Our floodwall has a 50-year design life,” Wilkins said, meaning that obscure replacement parts must be custom-made and can cost thousands of dollars. “The average person wouldn't think of that, ‘Wow, does it really cost $20,000 to repair a pump?’ So, currently we don't have the money to do those kinds of things continually.”
 
 Wilkins said grant funding is tight because of competition with dozens of other municipalities in need. And in older cities, other aging infrastructure issues may be a higher priority when it comes to applying for grants.
@@ -153,14 +153,14 @@ Some levee systems in parts of the Ohio River basin — including Huntington and
 
 Noel said the Ohio River basin today has several extra protections beyond the floodwalls and levees, such as [dams](https://nid.sec.usace.army.mil/ords/f?p=105:1::::::) and reservoirs along tributary rivers, that help control water levels before they reach levee systems.
 
-{.single-photo-small}
-photo: ./assets/story-images/OVR-levees/levees-louisville-bourke-white.jpg
-caption: Margaret Bourke-White photographed flood victims in Louisville, Kentucky, awaiting relief supplies, an iconic image of the 1937 Ohio River flood. (Estate of Margaret Bourke-White/Wikimedia Commons)
-{}
 “The 1937 flood happened before most of the flood control projects in the Ohio basin,” Noel said. “Therefore, for example, like if you look at Cincinnati, Ohio, or Louisville, Kentucky, those kind of cities, if 1937 were to exactly repeat itself, the crest on the Ohio River would be some 8 to 10 feet lower in many locations because of the great ability of the Army Corps of Engineers to regulate that flow in that water through their flood control projects.”
 
 And the height of some older floodwalls and levees could already be capable of handling higher waters, according to Kate White who led the 2017 Corps study. 
 
+{.single-photo-small}
+photo: ./assets/story-images/OVR-levees/levees-louisville-bourke-white.jpg
+caption: Margaret Bourke-White photographed flood victims in Louisville, Kentucky, awaiting relief supplies — an iconic image of the 1937 Ohio River flood. (Estate of Margaret Bourke-White/Wikimedia Commons)
+{}
 White said levee projects created in the 1940s often estimated how high to build their levees using what’s called the [freeboard](https://www.fema.gov/freeboard) method. Past engineers would calculate how high potential floods could be from historical records and then add a few feet on top of that height as a buffer. While newer levees have a more modern analysis for calculating the right flood protection height, she said the old method still offers relatively robust protection.
 
 “I just think there are older things that are still perfectly fine if they've been maintained and looked after,” White said.
@@ -171,12 +171,9 @@ Army Corps Huntington District Levee Safety Program Manager John Ferguson said h
 
 “Maybe the general consensus on most of these projects is a 50-year design life, but again, that’s not a hard or fast rule that really means anything,” Ferguson said. “And yes, that just proves that it’s aging infrastructure like everything else in the country. We just got to take care of it and make sure we maintain it.”
 
-Army Corps officials like Ferguson are relying on a system called [Levee Safety Action Classification](https://www.mvn.usace.army.mil/LSAC/) to help prioritize which aging levee systems carry more risk. A levee gets a risk classification based on its condition and the people and property it protects. 
+more_stories: 110
 
-{.single-photo-small}
-photo: ./assets/story-images/OVR-levees/levee-by-risk-v4.png
-caption: To see specifics about a levee system near you, explore the [U.S. Army Corps of Engineers’ interactive Levee Database](https://levees.sec.usace.army.mil/#/).
-{}
+Army Corps officials like Ferguson are relying on a system called [Levee Safety Action Classification](https://www.mvn.usace.army.mil/LSAC/) to help prioritize which aging levee systems carry more risk. A levee gets a risk classification based on its condition and the people and property it protects.
 
 Twelve levee systems in the Ohio River basin have a [“high” risk](https://www.mvn.usace.army.mil/Portals/56/docs/PAO/LSACs/LSAC%20Table.pdf) classification, including in Huntington, Louisville and systems protecting cities as small as Brookport, Illinois. This classification calls on officials to increase the “frequency of levee monitoring” and ensure the “community is aware of flood warning and evacuation procedures.” 
 
