@@ -1,4 +1,14 @@
-Fighting for the Ohio River watershed’s mussels: Experts are working to get to the bottom of their mysterious disappearances
+headline: Fighting for the Ohio River watershed’s mussels: Experts are working to get to the bottom of their mysterious disappearances
+author: Bonnie Jean Feldkamp
+
+organization: Eye on Ohio, the Ohio Center for Investigative Journalism
+pub: Dec. 19, 2019
+
+feature_img.src: ./assets/story-images/EYEONOHIO-solutions/StormwaterOverflow-32.jpg
+feature_img.caption: A man walks along a grassy berm near the Ohio River across from Cincinnati, Ohio. (Photo by Leigh Taylor/Eye on Ohio)
+twitterlink.src: https://twitter.com/intent/tweet?url=http%3A%2F%2Fohiowatershed.org%2Fohio-river-community-newport-bands-together-to-slow-runoff.html&amp;text=The%20Ohio%20River%20community%20of%20Newport%20bands%20together%20to%20slow%20runoff%20and%20add%20greenspace%20%23ohioriverstories
+facebooklink.src: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fohiowatershed.org%2Fohio-river-community-newport-bands-together-to-slow-runoff.html
+[+sections]
 
 By Carrie Blackmore Smith
 
@@ -117,3 +127,5 @@ Carrie Blackmore Smith, a freelance journalist based in Cincinnati, Ohio, author
 This story was fact-checked by Sierra Smith.
 
 Good River: Stories of the Ohio is a series about the environment, economy and culture of the Ohio River watershed, produced by seven nonprofit newsrooms. To see more, please visit ohiowatershed.org.
+
+[]
