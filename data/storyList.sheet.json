@@ -1,7 +1,28 @@
 [
   {
+    "story_id": 111,
+    "headlines": "The Ohio River community of Newport bands together to slow runoff and add greenspace",
+    "slug": "EyeonOhioSolutions",
+    "publish_date": "December 19, 2019",
+    "authors": "Bonnie Jean Feldkamp",
+    "org": "Eye on Ohio, the Ohio Center for Investigative Journalism",
+    "img_filename": "EYEONOHIO-solutions/lead.jpg",
+    "link": "ohio-river-community-newport-bands-together-to-slow-runoff.html"
+  },
+  {
+    "story_id": 110,
+    "headlines": "Rising waters: Aging levees, climate change and the challenge to hold back the Ohio River",
+    "slug": "OVRLevees",
+    "publish_date": "December 19, 2019",
+    "authors": "Liam Niemeyer",
+    "org": "Ohio Valley ReSource",
+    "img_filename": "OVR-levees/levees-lead.jpg",
+    "link": "rising-waters-aging-levees-climate-change-challenge-ohio-river.html"
+  },
+  {
     "story_id": 109,
     "headlines": "Ever hear of a nurdle? This new form of pollution could be coming to the Ohio River",
+    "slug": "AlleghenyFrontNurdle",
     "publish_date": "December 12, 2019",
     "authors": "Julie Grant",
     "org": "The Allegheny Front",
@@ -11,6 +32,7 @@
   {
     "story_id": 108,
     "headlines": "Video: On the most populated Ohio River island, this beekeeper found a way to better himself and his community",
+    "slug": "",
     "publish_date": "December 12, 2019",
     "authors": "Rebecca Kiger",
     "org": "100 Days in Appalachia",
@@ -20,6 +42,7 @@
   {
     "story_id": 106,
     "headlines": "Fighting pollution and apathy on the Lower Ohio, it’s not easy being a Southern Indiana Waterkeeper",
+    "slug": "EhnFlickner",
     "publish_date": "December 4, 2019",
     "authors": "Jeff Brooks-Gillies",
     "org": "Environmental Health News",
@@ -29,6 +52,7 @@
   {
     "story_id": 107,
     "headlines": "What the petrochemical buildout along the Ohio River means for regional communities and beyond",
+    "slug": "BeltPetrochemical",
     "publish_date": "December 4, 2019",
     "authors": "Sharon Kelly",
     "org": "Belt Magazine",
@@ -38,6 +62,7 @@
   {
     "story_id": 103,
     "headlines": "Tracing water, memory and change: Black experiences along and near Route 65",
+    "slug": "BeltMagazineRoute25",
     "publish_date": "November 21, 2019",
     "authors": "Photo essay by Njaimeh Njie",
     "org": "Belt Magazine",
@@ -47,6 +72,7 @@
   {
     "story_id": 105,
     "headlines": "One Ohio River town that’s using outdoor recreation to boost its economy",
+    "slug": "AlleghenyFrontMarietta",
     "publish_date": "November 21, 2019",
     "authors": "Julie Grant",
     "org": "The Allegheny Front",
@@ -56,6 +82,7 @@
   {
     "story_id": 104,
     "headlines": "360 degrees of the Cheat River: A journey to revitalization on an Ohio River tributary",
+    "slug": "",
     "publish_date": "November 21, 2019",
     "authors": "",
     "org": "100 Days in Appalachia",
@@ -65,6 +92,7 @@
   {
     "story_id": 998,
     "headlines": "Highlights of the Ohio: Explore our interactive map",
+    "slug": "",
     "publish_date": "November 14, 2019",
     "authors": "Good River News Partners",
     "org": "",
@@ -74,6 +102,7 @@
   {
     "story_id": 100,
     "headlines": "That's vinegar: The Ohio River's history of contamination and progress made",
+    "slug": "daysHistoryOfContamination",
     "publish_date": "November 14, 2019",
     "authors": "April Johnston",
     "org": "100 Days in Appalachia",
@@ -83,6 +112,7 @@
   {
     "story_id": 101,
     "headlines": "The water is cleaner but the politics are messier: A look back at the Clean Water Act movement after 50 years",
+    "slug": "EyeonOhioCleanWaterAct",
     "publish_date": "November 14, 2019",
     "authors": "Lucia Walinchus",
     "org": "Eye on Ohio, the Ohio Center for Investigative Journalism",
@@ -92,6 +122,7 @@
   {
     "story_id": 102,
     "headlines": "Video: Paddling 300 miles to protect the waters of Ohi:yo', the 'good river'",
+    "slug": "",
     "publish_date": "November 14, 2019",
     "authors": "Ryan Loew",
     "org": "PublicSource",

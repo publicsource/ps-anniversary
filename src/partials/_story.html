@@ -17,7 +17,7 @@
 <div class="container">
   <div class="row">
     <div class="six columns offset-by-three">
-      <div id="caption"><%= story.feature_img.caption %></div>
+      <div class="caption"><%= story.feature_img.caption %></div>
     </div>
   </div>
 </div>
@@ -33,7 +33,7 @@
 <div class="container">
     <div class="row">
       <div class="six columns offset-by-three">
-        <div id="story-page-body">
+        <div class="story-page-body">
           <% story.sections.forEach(function(section, i) { %>
 
             <% if(section.type == "text"){ %>
@@ -54,8 +54,8 @@
               </div>
 
             <% }else if(section.type == "inline-img"){ %>
-              <img class="top-padding" alt="<%= section.value.alt %>" src="<%= section.value.img %>" />
-              <div id="caption"><%= section.value.caption %></div>
+              <img class="inline-img top-padding <%= section.value.float %>" alt="<%= section.value.alt %>" src="<%= section.value.img %>" />
+              <div class="caption"><%= section.value.caption %></div>
 
             <% }else if(section.type == "groundsource"){ %>
               <img alt="<%= section.value.alt %>" src="<%= section.value.img %>" />
@@ -73,7 +73,7 @@
               </div> <!-- close row-->
               </div> <!-- close container-->
 
-              <div id="story-photo-grid">
+              <div class="story-photo-grid">
                 <div>
                   <img alt="#" src="<%= section.value.top_left %>" />
                 </div>
@@ -81,20 +81,20 @@
                   <img alt="#" src="<%= section.value.top_right %>" />
                 </div>
               </div>
-              <div id="photo-container">
+              <div class="photo-container">
                 <img alt="#" src="<%= section.value.big_bottom %>" />
               </div>
               <div class="container">
                 <div class="row">
                   <div class="six columns offset-by-three">
-                    <div id="caption"><%= section.value.caption %></div>
+                    <div class="caption"><%= section.value.caption %></div>
                   </div>
                 </div>
               </div>
               <div class="container">
                 <div class="row">
                   <div class="six columns offset-by-three">
-                    <div id="story-page-body">
+                    <div class="story-page-body">
 
             <% }else if(section.type == "story_photo_grid_flip"){ %>
               </div> <!-- close story-page-body-->
@@ -102,10 +102,10 @@
               </div> <!-- close row-->
               </div> <!-- close container-->
 
-              <div id="photo-container-flip">
+              <div class="photo-container-flip">
                 <img alt="#" src="<%= section.value.big_top %>" />
               </div>
-              <div id="story-photo-grid-flip">
+              <div class="story-photo-grid-flip">
                 <div>
                   <img alt="#" src="<%= section.value.top_left %>" />
                 </div>
@@ -116,14 +116,14 @@
               <div class="container">
                 <div class="row">
                   <div class="six columns offset-by-three">
-                    <div id="caption"><%= section.value.caption %></div>
+                    <div class="caption"><%= section.value.caption %></div>
                   </div>
                 </div>
               </div>
               <div class="container">
                 <div class="row">
                   <div class="six columns offset-by-three">
-                    <div id="story-page-body">
+                    <div class="story-page-body">
 
             <% }else if(section.type == "story_photo_grid"){ %>
               </div> <!-- close story-page-body-->
@@ -131,7 +131,7 @@
               </div> <!-- close row-->
               </div> <!-- close container-->
 
-              <div id="story-photo-grid">
+              <div class="story-photo-grid">
                 <div>
                   <img alt="#" src="<%= section.value.top_left %>" />
                 </div>
@@ -139,13 +139,13 @@
                   <img alt="#" src="<%= section.value.top_right %>" />
                 </div>
               </div>
-              <div id="photo-container">
+              <div class="photo-container">
                 <img alt="#" src="<%= section.value.big_bottom %>" />
               </div>
               <div class="container">
                 <div class="row">
                   <div class="six columns offset-by-three">
-                    <div id="caption"><%= section.value.caption %></div>
+                    <div class="caption"><%= section.value.caption %></div>
                   </div>
                 </div>
               </div>
@@ -153,7 +153,7 @@
               <div class="container">
                 <div class="row">
                   <div class="six columns offset-by-three">
-                    <div id="story-page-body">
+                    <div class="story-page-body">
 
             <% }else if(section.type == "side-by-side-photo"){ %>
               </div> <!-- close story-page-body-->
@@ -161,7 +161,7 @@
               </div> <!-- close row-->
               </div> <!-- close container-->
 
-              <div id="story-photo-grid">
+              <div class="story-photo-grid">
                 <div>
                   <img alt="#" src="<%= section.value.left %>" />
                 </div>
@@ -173,7 +173,7 @@
               <div class="container">
                 <div class="row">
                   <div class="six columns offset-by-three">
-                    <div id="caption"><%= section.value.caption %></div>
+                    <div class="caption"><%= section.value.caption %></div>
                   </div>
                 </div>
               </div>
@@ -181,7 +181,7 @@
               <div class="container">
                 <div class="row">
                   <div class="six columns offset-by-three">
-                    <div id="story-page-body">
+                    <div class="story-page-body">
 
             <% }else if(section.type == "single-photo-hero"){ %>
               </div> <!-- close story-page-body-->
@@ -189,14 +189,14 @@
               </div> <!-- close row-->
               </div> <!-- close container-->
 
-              <div id="photo-container-flip">
+              <div class="photo-container-flip">
                 <img alt="<%= section.value.alt %>" src="<%= section.value.photo %>" />
               </div>
 
               <div class="container">
                 <div class="row">
                   <div class="six columns offset-by-three">
-                    <div id="caption"><%= section.value.caption %></div>
+                    <div class="caption"><%= section.value.caption %></div>
                   </div>
                 </div>
               </div>
@@ -204,7 +204,7 @@
               <div class="container">
                 <div class="row">
                   <div class="six columns offset-by-three">
-                    <div id="story-page-body">
+                    <div class="story-page-body">
 
                       <% }else if(section.type == "single-photo-hero-no-top-padding"){ %>
                         </div> <!-- close story-page-body-->
@@ -212,14 +212,14 @@
                         </div> <!-- close row-->
                         </div> <!-- close container-->
 
-                        <div id="photo-container-flip-no-top-padding">
+                        <div class="photo-container-flip-no-top-padding">
                           <img alt="<%= section.value.alt %>" src="<%= section.value.photo %>" />
                         </div>
 
                         <div class="container">
                           <div class="row">
                             <div class="six columns offset-by-three">
-                              <div id="caption"><%= section.value.caption %></div>
+                              <div class="caption"><%= section.value.caption %></div>
                             </div>
                           </div>
                         </div>
@@ -227,7 +227,7 @@
                         <div class="container">
                           <div class="row">
                             <div class="six columns offset-by-three">
-                              <div id="story-page-body">
+                              <div class="story-page-body">
 
             <% }else if(section.type == "single-photo-small"){ %>
               </div> <!-- close story-page-body-->
@@ -238,7 +238,7 @@
               <div class="container">
                 <div class="row">
                   <div class="ten columns offset-by-one">
-                      <div id="story-single-photo">
+                      <div class="story-single-photo">
                         <img alt="#" src="<%= section.value.photo %>" />
                       </div>
                     </div>
@@ -248,7 +248,7 @@
                 <div class="container">
                   <div class="row">
                     <div class="six columns offset-by-three">
-                      <div id="caption"><%= section.value.caption %></div>
+                      <div class="caption"><%= t.renderMarkdown(story.sections[i].value.caption) %></div>
                     </div>
                   </div>
                 </div>
@@ -256,7 +256,7 @@
               <div class="container">
                 <div class="row">
                   <div class="six columns offset-by-three">
-                    <div id="story-page-body">
+                    <div class="story-page-body">
 
                       <% }else if(section.type == "video"){ %>
                         </div> <!-- close story-page-body-->
@@ -277,7 +277,7 @@
                           <div class="container">
                             <div class="row">
                               <div class="six columns offset-by-three">
-                                <div id="caption"><%= section.value.caption %></div>
+                                <div class="caption"><%= section.value.caption %></div>
                               </div>
                             </div>
                           </div>
@@ -285,7 +285,7 @@
                         <div class="container">
                           <div class="row">
                             <div class="six columns offset-by-three">
-                              <div id="story-page-body">
+                              <div class="story-page-body">
 
             <% }else if(section.type == "parallax_img"){ %>
               </div> <!-- close story-page-body-->
@@ -303,7 +303,7 @@
               <div class="container">
                 <div class="row">
                   <div class="six columns offset-by-three">
-                    <div id="story-page-body">
+                    <div class="story-page-body">
 
             <% }else if(section.type == "more_stories"){ %>
               </div> <!-- close story-page-body-->
@@ -347,7 +347,7 @@
               <div class="container">
                 <div class="row">
                   <div class="six columns offset-by-three" style="margin-top: -1.5em !important;">
-                    <div id="story-page-body">
+                    <div class="story-page-body">
 
 
             <% } %>
