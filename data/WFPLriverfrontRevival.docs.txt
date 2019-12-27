@@ -11,6 +11,9 @@ feature_img.caption: Waterfront Park in Louisville, Kentucky, during the July Fo
 twitterlink.src: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fthe-ohio-rivers-history-of-contamination-and-progress-made.html&amp;text=Good%20River%3A%20'That's%20vinegar'%3A%20The%20Ohio%20River's%20history%20of%20contamination%20and%20progress%20made%20%23ohioriverstories
 facebooklink.src: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fthe-ohio-rivers-history-of-contamination-and-progress-made.html
 [+sections]
+{.audio}
+link: ./assets/audio/riverfront-revival.mp3
+{}
 In Louisville, Kentucky, the Ohio River has something of an image problem.
 It seems like everything imaginable has ended up in the river at one time or another. There are the usual suspects like plastic bottles, Styrofoam coolers and tires. There are the byproducts of cities and industries: sewage, landfill juice and industrial waste. And then there are the things that seem almost uniquely Kentucky like coal ash and bourbon.
 The Ohio River has been called “the most polluted river in America,” but that’s an incomplete portrait of a nearly thousand-mile-long river teeming with biodiversity, history and culture. 
