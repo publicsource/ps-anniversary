@@ -1,0 +1,95 @@
+nOTE: This story is available for use on 12/30/2019 at 6:30 a.m. If you have any questions, please contact Halle Stockton at halle@publicsource.org.
+
+________________
+
+headline: The minds behind Louisville’s riverfront revival 
+author: Ryan Van Velzer
+organization: WFPL
+pub: Dec. 30, 2019
+feature_img.src: ./assets/story-images/WFPL-riverfront-revival/riverfront-revival-forecastle2019.jpg
+feature_img.caption: Waterfront Park in Louisville, Kentucky, during the July Forecastle Music Festival. (Photo by Ryan Van Velzer/WFPL)
+twitterlink.src: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fthe-ohio-rivers-history-of-contamination-and-progress-made.html&amp;text=Good%20River%3A%20'That's%20vinegar'%3A%20The%20Ohio%20River's%20history%20of%20contamination%20and%20progress%20made%20%23ohioriverstories
+facebooklink.src: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fthe-ohio-rivers-history-of-contamination-and-progress-made.html
+[+sections]
+{.audio}
+link: ./assets/audio/riverfront-revival.mp3
+{}
+In Louisville, Kentucky, the Ohio River has something of an image problem.
+It seems like everything imaginable has ended up in the river at one time or another. There are the usual suspects like plastic bottles, Styrofoam coolers and tires. There are the byproducts of cities and industries: sewage, landfill juice and industrial waste. And then there are the things that seem almost uniquely Kentucky like coal ash and bourbon.
+The Ohio River has been called “the most polluted river in America,” but that’s an incomplete portrait of a nearly thousand-mile-long river teeming with biodiversity, history and culture. 
+At times, the industrial impacts have overshadowed the natural splendor that draws some to the river. But a few enthusiasts have taken it upon themselves to rehab the Ohio’s image, from industrial dumping ground and coal barge causeway, to natural resource and recreation trail.
+Along Louisville’s Waterfront Park, David Karem sees the river as the lifeblood of the community. On the river itself, David Wicks kayaks through an ecological corridor, devising a recreation trail where others see barge commerce. And standing beside a road crumbling into the Ohio’s muddy riverbanks, Scott Martin envisions a park that inspires people with the power of the river. 
+“We tend to take the Ohio for granted. It is one of the globe’s most significant and largest rivers,” Martin said. “It’s in the category of the Rhine, the Rhone, the Danube, the Zambezi. This is a massive, massive river system.”
+{.groundsource}
+img: ./assets/story-images/groundsource/groundsource.png
+alt: Groundsource image
+{}
+Through their projects, they hope to attract others to the river’s edge and, in doing so, motivate them to envision a better future for the Ohio River.
+h2: Louisville’s front lawn
+More than 25 million people live in the Ohio River Basin and some five million of those get their drinking water from the river. But if you wanted to see the river for yourself in downtown Louisville in 1985, you’d likely have to commit some light trespassing.
+David Karem is a self-proclaimed river rat. He’s also a former state senator and the first president of the Waterfront Development Corporation. When development began on Louisville’s downtown waterfront in 1986, Karem described it as a tangle of chain-link fences, junk yards, abandoned warehouses and asphalt terminals.
+“Really an impenetrable wasteland as far as getting people back to the river as amenity,” Karem said.
+Riding a wave of riverfront revitalization occurring across the country, the Waterfront Development Corporation transformed 86 acres into a riverfront park that now boasts 2.2 million visitors annually. Waterfront Park features a walking bridge, paths, grassy fields, playgrounds and a wharf. The venue is used to throw 150 annual events including music festivals, air shows and riverboat races.
+{.pullquote}
+text: “In our lifespan, the Ohio is transitioning. What was previously seen as almost entirely industrial-commercial river is a river that people see for recreational and conservation values.”
+twitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fbehind-louisville-riverfront-revival.html&amp;text=Good%20River%20-%20The%20minds%20behind%20Louisville%E2%80%99s%20riverfront%20revival%3A%20%E2%80%9CIn%20our%20lifespan%2C%20the%20Ohio%20is%20transitioning.%20What%20was%20previously%20seen%20as%20almost%20entirely%20industrial-commercial%20river%20is%20a%20river%20that%20people%20see%20for%20recreational%20and%20conservation%20values.%E2%80%9D
+facebook: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fbehind-louisville-riverfront-revival.html
+{}
+
+The park and its lawns serve dual roles. When the river is low, the park hosts more than 150 events a year. When it’s high, the grassy lawns serve as floodplain, absorbing water and dissipating the river’s energy. In that way, Waterfront Park was ahead of its time as cities reconsider the ecological and economic impacts of developing riverfronts prone to flooding. 
+“The flood issues are enormous and so you have to build the park to deal with that,” Karem said. “The park was designed extremely carefully to deal with the flooding issues.”
+{.parallax_img}
+src: ./assets/story-images/WFPL-riverfront-revival/riverfront-revival-sunset.jpg
+{}
+But maintenance on the park isn’t cheap, and the park has lost a sizeable chunk of its funding over the last five years. Waterfront Development Corporation formed as a partnership, but the state eliminated its funding for the park in 2014, cutting the budget by about $420,000. Earlier this year, the city reduced its funding by 30%, cutting another $300,000 from the $2.4 million operating budget.
+“We have to react very quickly to replace those funds that we’ve lost and that’s a significant amount of funding,” said Deborah Bilitski, current president of the Waterfront Development Corporation.
+Still, Waterfront is working on a 22-acre expansion of the park between 10th and 15th streets along the river. Karem said he believes when people see the river, it deepens their appreciation for the resource. 
+“The natural mental occurrence is we’ve got to protect it, we’ve got to love it, we have to keep it clean, we have to embrace it,” he said. 
+h2: River Heritage Conservancy
+If Waterfront Park is Louisville’s front yard, then the nonprofit River Heritage Conservancy wants to be the forest just over its back fence. Right now, it’s 600 acres of shoreline, scrap yards, landfills, fill pits, quarries and river camps sitting idly across the river from Louisville in Indiana.
+{.side-by-side-photo}
+left: ./assets/story-images/WFPL-riverfront-revival/riverfront-revival-martin.jpg
+right: ./assets/story-images/WFPL-riverfront-revival/riverfront-revival-indiana-road.jpg
+caption: (left) River Heritage Conservancy Executive Director Scott Martin looks upon the Falls of The Ohio on the Ohio River. (left) A river road in Indiana sloughing into the Ohio River. (Photo by Ryan Van Velzer/WFPL)
+{}
+“So even within these junk yards we have over 150 different species of birds that will move through here over the years,” said Scott Martin, the conservancy executive director. “We have otter. We have mink. We have flying squirrels.”
+On a jagged river road near the Falls of the Ohio, Martin describes his vision for the wildest section of land in Kentuckiana’s urban core. He envisions a landscape park complete with lawns, hiking trails, forests, wetlands and elevated pathways designed to experience river flooding from a safe distance.
+“So we want to be the park where people come experience the power of nature and really feel a little bit of awe and feel our smallness in the face of it,” Martin said.
+The conservancy has already purchased about half the land needed for the park. To date, funding support has come from the Paul Ogle Foundation, the Blue Sky Foundation, the Town of Clarksville and other local and national organizations. 
+Martin declined to comment on the amount of funding raised thus far, citing ongoing land acquisition deals. The conservancy is currently working on a master plan to present to the public in spring 2020, Martin said.
+h2: Floating on the Ohio River recreation trail
+{.single-photo-hero}
+photo: ./assets/story-images/WFPL-riverfront-revival/riverfront-revival-wicks.jpg
+alt: Educator and environmentalist David Wicks paddling on the Ohio River near Prospect, Kentucky. (Photo by Ryan Van Velzer/WFPL)
+caption: Educator and environmentalist David Wicks paddling on the Ohio River near Prospect, Kentucky. (Photo by Ryan Van Velzer/WFPL)
+{}
+David Wicks would like to see Ohio River recreation go a step beyond the water’s edge. To that end, he is working with the National Park Service on developing a 274-mile water trail along the river from Portsmouth, Ohio, to West Point, Kentucky.
+The Ohio River Recreational Trail would serve as a recreational route along the river with regular public access points for canoes, kayaks, sail and motorboats. 
+“And one of the bottom-line ideas is to connect Louisville with all the river towns up and down the river,” he said.
+On a recent kayak tour along a 14-mile stretch upriver from Louisville, Wicks paddled past forested hills, flocks of migrating birds, barges and small river towns. Halfway through the trip, he paused to walk through the abandoned Rose Island amusement park in Charlestown State Park.
+{.single-photo-small}
+photo: ./assets/story-images/WFPL-riverfront-revival/riverfront-revival-rose-island.jpg
+caption: Archways left over from the Rose Island amusement park in Charlestown State Park in Clark County, Indiana.(Photo by Ryan Van Velzer/WFPL)
+{}
+Strolling under a series of archways set in the middle of a forest, he stopped to brush aside the leaves and read something inscribed in the concrete: Walkway of Roses. 
+“This area we’re walking through right now used to be a city,” Wicks said. “Now it's a floodplain.”
+Wicks plans to develop resources in each of the 34 towns along the trail, including additional boat ramps and overnight camping sites every 20 miles or so.
+In November, the National Park Service selected the project to receive planning assistance that will include expert consultation and spur the development of hiking, biking and water trails along the river, though it won’t include any funding.
+h2: Revitalizing the riverfront
+{.single-photo-hero}
+photo: ./assets/story-images/WFPL-riverfront-revival/riverfront-revival-bridge.jpg
+alt: The East End Bridge in north Louisville during an Ohio River sunset. (Photo by Ryan Van Velzer/WFPL)
+caption: The East End Bridge in north Louisville during an Ohio River sunset. (Photo by Ryan Van Velzer/WFPL)
+{}
+Wicks has a dream that one day he might dip a teacup in the Ohio River and drink cool, clean freshwater while paddling downriver. “And so I think the recreational trail is one step toward that. It develops the advocacy group to help our local politicians do what’s right.”
+Further downriver in Louisville, Karem sits at a picnic bench outside Waterfront Development Corporation’s headquarters, which used to house a sand and gravel company. He agrees that providing access to the Ohio River is the most important factor in getting people invested in the resource.
+{.single-photo-small}
+photo: ./assets/story-images/WFPL-riverfront-revival/riverfront-revival-wdc.jpg
+caption: The Louisville headquarters of the Waterfront Development Corporation, once home to a sand and gravel company. (Photo by Ryan Van Velzer/WFPL)
+{}
+“People have an innate desire to get to the river’s edge. It is almost spiritual how much they want to be by it,” Karem said. 
+Standing at the Falls of the Ohio, Martin explained his role in the changing nature of the river.
+“In our lifespan, the Ohio is transitioning,” he said. “What was previously seen as almost entirely industrial-commercial river is a river that people see for recreational and conservation values.”
+*Ryan Van Velzer, environment reporter at WFPL News, authored this story. He can be reached at rvanvelzer@wfpl.org.*
+
+*Good River: Stories of the Ohio is a series about the environment, economy and culture of the Ohio River watershed, produced by seven nonprofit newsrooms. To see more, please visit ohiowatershed.org.*
