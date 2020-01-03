@@ -62,14 +62,14 @@ The slurry was an unprecedented disaster — 30 times larger than the Exxon Vald
 
 When water service resumed later that year, bills came stamped with a warning: If you have a severely compromised immune system, have an infant, are pregnant, or are elderly, you may be at increased risk and should seek advice from your health care providers about drinking this water.
 
-The first time Maynard received that warning, she was 24 years old and pregnant with her daughter. Nineteen years later, the water in Martin County still comes with warnings.
+The first time Maynard received that warning, she was 24 years old and pregnant with her daughter. [Nineteen years later, the water in Martin County still comes with warnings](https://ohiovalleyresource.org/2018/11/06/rates-increase-again-for-grim-and-desperate-martin-county-water-system/).
 
 {.parallax_img}
 src: ./assets/story-images/100DAYS-history-of-contamination/100Days_Water_79_cut.jpg
 {}
 But the roots of the county’s water issues and the fixes are complicated.
 
-The water issues start at the treatment plant, where water pulled from the Tug Fork River is disinfected. Multiple municipal tests over the years show water in Martin County exceeds the maximum contaminant level for trihalomethane and haloacetic acid, both byproducts of the water’s treatment and both carcinogenic. Maynard believes her late mother’s multiple bouts with cancer are a direct result. But without such treatment to the water, customers could be exposed to harmful bacteria and whatever residual effects of the coal slurry are still present in the waterway.  
+The water issues start at the treatment plant, where water pulled from the Tug Fork River is disinfected. [Multiple municipal tests over the years show water in Martin County](https://www.npr.org/2017/03/13/516874465/kentucky-community-hopes-trump-infrastructure-plan-will-fix-water-system) exceeds the maximum contaminant level for trihalomethane and haloacetic acid, both byproducts of the water’s treatment and both carcinogenic. Maynard believes her late mother’s multiple bouts with cancer are a direct result. But without such treatment to the water, customers could be exposed to harmful bacteria and whatever residual effects of the coal slurry are still present in the waterway.  
 
 It’s not a good choice, said Paul Ziemkiewicz, director of the West Virginia Water Research Institute at West Virginia University. Water authorities need to use limited amounts of chemicals to avoid bacteria-causing illness, but too much of those chemicals could put their residents at risk for cancer.
 
@@ -80,7 +80,7 @@ In Martin County, the problem is broken pipes. Experts estimate nearly 70% of dr
 Representatives from the Martin County Water District did not return a phone call seeking comment but have said in the past that they are changing the chlorination process to avoid contamination issues and are looking for funds to fix broken water lines.
 
 For residents in Martin County, turning on the tap is always a surprise. Some days, it’s cloudy and smells so strongly of chlorine that it burns the eyes. Other days, water is the color of weak tea and sediment settles in toilet bowls and shower drains.  
-The result, Maynard claims, is that no one in Martin County trusts or drinks the water. Maynard drives 45 minutes to a spring at the Mingo-Logan county line in West Virginia to fill containers with fresh water to drink. She uses antibacterial hand soap as body wash in the shower and cleans her hands with disinfectant wipes rather than running them under the tap.
+[The result, Maynard claims, is that no one in Martin County trusts or drinks the water](https://ohiovalleyresource.org/2017/01/27/troubled-waters-a-coalfield-county-loses-trust-in-water-and-government/). Maynard drives 45 minutes to a spring at the Mingo-Logan county line in West Virginia to fill containers with fresh water to drink. She uses antibacterial hand soap as body wash in the shower and cleans her hands with disinfectant wipes rather than running them under the tap.
 {.pullquote}
 text: “I figured I could lay down and die or I could fight. And I’m a fighter.”
 twitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fthe-ohio-rivers-history-of-contamination-and-progress-made.html&amp;text=%E2%80%9CI%20figured%20I%20could%20lay%20down%20and%20die%20or%20I%20could%20fight.%20%E2%80%9CAnd%20I%E2%80%99m%20a%20fighter.%E2%80%9D%20%23ohioriverstories

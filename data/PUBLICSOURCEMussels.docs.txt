@@ -5,7 +5,7 @@ organization: PublicSource
 pub: Jan. 7, 2019
 
 feature_img.src: ./assets/story-images/PUBLICSOURCE-mussels/IMG_5450.jpg
-feature_img.caption: U.S. Forest Service Fisheries Research Biologist Wendell R. Haag holds a pimpleback mussel and a purple wartyback mussel to show the differences in the species. (Photo by Carrie Blackmore Smith/PublicSource)
+feature_img.caption: U.S. Forest Service Fisheries Research Biologist Wendell R. Haag holds a purple wartyback mussel (top left) and a pimpleback mussel to show the differences in the species. (Photo by Carrie Blackmore Smith/PublicSource)
 twitterlink.src: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Ffighting-for-the-ohio-river-watersheds-mussels.html&amp;text=Fighting%20for%20the%20Ohio%20River%20watershed%E2%80%99s%20mussels%3A%20Experts%20are%20working%20to%20get%20to%20the%20bottom%20of%20their%20mysterious%20disappearances%20%23ohioriverstories
 facebooklink.src: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Ffighting-for-the-ohio-river-watersheds-mussels.html
 [+sections]
