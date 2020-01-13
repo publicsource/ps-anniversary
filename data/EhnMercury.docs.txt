@@ -1,0 +1,189 @@
+headline: Whose job is it to reduce toxic mercury in the Ohio River? 
+author: Jeff Brooks-Gillies
+
+organization: Environmental Health News
+pub: Jan. 15, 2019
+
+feature_img.src: ./assets/story-images/EHN-mercury/Anglers.jpg
+feature_img.caption: Anglers at the Falls of the Ohio State Park. (Courtesy of William Alden/flickr) 
+twitterlink.src: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fwhose-job-is-it-to-reduce-toxic-mercury-in-the-ohio-river.html&amp;text=Good%20River%20-%20Whose%20job%20is%20it%20to%20reduce%20toxic%20mercury%20in%20the%20Ohio%20River%3F%20%23ohioriverstories
+facebooklink.src: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fwhose-job-is-it-to-reduce-toxic-mercury-in-the-ohio-river.html
+[+sections]
+Mercury, which damages young brains, is flowing through industrial wastewater into the Ohio River. But the multi-state agency tasked with keeping the waterway clean hasn’t tightened controls on this pollution because it doesn’t have the authority to do so. 
+
+While coal-fired power plants, chemical manufacturers and other facilities along the Ohio River are piping mercury directly into the river and there’s a permitting process to regulate that, the more significant source appears to be mercury blown into the atmosphere from smokestacks — both locally and across the globe from mining, energy and other industries. The mercury eventually settles on land and flows into water.
+
+Figuring out how much of the toxic is coming from local industries or wind currents remains a challenge. The efforts so far to get a handle on it have spurred a patchwork of states to make rules that leave it up to consumers whether it’s worth the risk to eat their catch of the day. Fish are the most important source of exposure to humans. 
+
+There’s a legal pathway for further ratcheting down mercury releases directly to the river, but the regulated industries say they already meet strict permit requirements and that path has hit diminishing returns. The industries say the problem lies in regional and global air emissions, but the legal levers there aren’t as easy to pull.
+
+{.graphic}
+
+title: Ohio River fish found with high mercury levels 
+photo: ./assets/story-images/EHN-mercury/FINAL_map.jpg
+caption: This map shows the locations of 34 fish tissue samples collected from the Ohio River from 2010 to 2016 that met or exceeded 0.3 milligram methylmercury per kilogram fish tissue, the level deemed safe for human health by the U.S. Environmental Protection Agency. From the same data, 274 samples were below 0.3 mg/kg criteria. (Data Source: ORSANCO. Graphic by Remy Davison)
+{}
+The tension between blaming airborne or wastewater sources is one factor among many that have played into controversial decisions around mercury over the past decade at the Ohio River Valley Water Sanitation Commission [ORSANCO] —  an interstate water quality agency created in 1948 when the Ohio River was an open sewer for cities and factories and the [Clean Water Act](https://www.ohiowatershed.org/a-look-back-at-the-clean-water-act-movement-after-50-years.html) was still decades away. 
+
+Environmental groups have looked to ORSANCO to tighten mercury standards on wastewater discharges. Industries arguing against tighter water standards say that atmospheric sources are a bigger problem, and much of the mercury in their wastewater is in a chemical form unlikely to move through the food chain into fish. ORSANCO has moved away from regulation, a path the agency said reflects the reality that it doesn’t have the same authority as its member states’ environmental agencies or the U.S. Environmental Protection Agency [EPA].
+
+{.single-photo-small}
+photo: ./assets/story-images/EHN-mercury/Striped-bass.jpg
+caption: A hybrid striped bass from the Wabash River. A 2010 study found five of 12 hybrid striped bass samples from the Ohio River tested higher than the EPA mercury limit. (Courtesy of U.S. Fish and Wildlife Service - Midwest Region) 
+{}
+
+“ORSANCO doesn’t set rules for the states,” said Richard Harrison, the agency’s executive director. “The states set rules for the states. The states agree to work through ORSANCO as a collaborative body to work globally for the Ohio River basin.”
+
+ORSANCO’s strengths, Harrison said, are monitoring and research. In 2016, commission staff launched a broad accounting of atmospheric and wastewater mercury sources across the Ohio River watershed. The report isn’t yet published, but a presentation delivered to an ORSANCO committee meeting in October 2019 said 11% of the mercury in the Ohio River main stem comes from wastewater discharges throughout the watershed, including tributaries.
+
+An environmental scientist who has seen preliminary results said the study has flaws, though it’s not clear if those concerns will make it into the final version expected next month. 
+
+While ORSANCO and state authorities are bogged down in disagreements over the relative threat of atmospheric and wastewater sources and whether states should work through ORSANCO to tighten regulations across the watershed, environmental advocates say the public is worse off for having to sort through the mess.
+
+ {.single-photo-small}
+photo: ./assets/story-images/EHN-mercury/Myers-Lock-and-Dam.jpg
+caption: The John T. Myers Lock and Dam. ORSANCO lists seven species that shouldn’t be eaten more than once a month from the John T. Myers Locks and Dam in southern Indiana to where the river empties into the Mississippi River due to mercury concerns. (Courtesy of the Louisville District, U.S. Army Corps of Engineers) 
+{}
+The [ORSANCO fish advisory website](http://216.68.102.178/comm/fishconsumption/unit4.asp) lists seven species — sauger, black bass, freshwater drum, white bass, striped bass, hybrid striped bass and flathead catfish — that shouldn’t be eaten more than once a month from one 135-mile section of the Ohio River (from the John T. Myers Locks and Dam in southern Indiana to where the river empties into the Mississippi River) due to mercury concerns. Yet the agency’s most recent annual report says the “entire river is impaired for fish consumption due to dioxin and [PCBs](http://www.idph.state.il.us/envhealth/factsheets/polychlorinatedbiphenyls.htm), but fully supports fish consumption for mercury.”
+
+“What is that telling the public?” said Jason Flickner, director of the Indiana-based Lower Ohio River Waterkeeper. “Especially when it comes down to something as important as the ability to eat the fish and remain healthy.”
+
+h2: Dangerous for young brains 
+
+For all that’s complicated about regulating mercury, one thing is clear: It’s a potent neurotoxin that is particularly dangerous to children. Mercury persists in the environment in a few different chemical forms. One of the less common forms, methylmercury, is the most threatening to people. Industries emit some methylmercury directly; the rest is created from other forms of mercury that are digested by microbes or undergo chemical reactions in soils and sediments.
+
+“By now, about 12 different prospective studies have documented that children’s brain development is negatively affected by methylmercury,” said Phillippe Grandjean, an environmental health scientist and professor at Harvard's School of Public Health. “The more, the worse.”
+
+“The results also show that EPA’s current intake limit is too high to protect the brains of the next generation,” he said. The agency has announced plans to update its “reference dose.”
+
+Studies have also linked mercury exposure to heart disease in adults. Children exposed in the womb or through breast milk can suffer impairments to memory, language and other cognitive functions.
+
+{.graphic}
+title: Mercury's path to people
+photo: ./assets/story-images/EHN-mercury/FINAL_cycle.jpg
+caption: Mercury takes a complicated path from industrial and natural sources through water and air to humans. (Graphic by Remy Davison)
+{}
+People are mostly exposed to mercury through eating contaminated fish. It’s one of a group of pollutants that when consumed by animals can build up, or “bioaccumulate,” in their tissues.
+
+“The larger and higher up in the food chain the fish are, the more mercury,” Grandjean said. “That sounds like sports fish, right?”
+
+Mercury-contaminated fish are common in waterways across the country, and the Ohio River is no exception. Species including angler favorites like hybrid striped bass have been found in the Ohio River with mercury above the level considered safe by the EPA. A [2010 study](http://www.orsanco.org/wp-content/uploads/2017/11/Mercury-Concentrations-in-Water-and-Hybrid-Striped-Bass-Muscle-Tissue-Sampled-Collected-from-the-Ohio-River.pdf) found five of 12 hybrid striped bass samples tested higher than the EPA mercury limit. An ORSANCO fish contaminant database shows that 36 of the 307 samples collected since 2009 with a methylmercury record appear higher than the EPA limit. 
+
+h2: A ban that lost its teeth 
+
+Each state along the Ohio River issues fish consumption advisories that warn against eating too much fish from the river due to mercury and other chemicals. ORSANCO supports such work by collecting fish contamination data for member states and helping to keep the warnings consistent. 
+
+ORSANCO’s work on advisories is an example of the interstate collaboration the agency was designed to support when it was created. Its actions are guided by the votes of a board of 27 commissioners appointed by the eight member states and the federal government. 
+
+Tom FitzGerald, director of the Kentucky Resources Council, is one of the few ORSANCO commissioners from the nonprofit environmental advocacy world. He’s a federal commissioner appointed by the Obama administration in 2014. His term lasts until he resigns or is replaced, and he jokes that his days might be numbered under the anti-regulation Trump administration.
+
+“I kid everybody that I’m an endangered species because one of these days the administration is going to realize that I’m a holdover and they’re going to replace me,” FitzGerald said. 
+
+ {.single-photo-small}
+photo: ./assets/story-images/EHN-mercury/Catfishing-Ohio-River.jpg
+caption: A catfishing tournament on the Ohio River in 2017. People are mostly exposed to mercury through eating contaminated fish. (Courtesy of the Louisville District, U.S. Army Corps of Engineers)
+{}
+FitzGerald lobbied ORSANCO for stronger water quality protections long before he was a commissioner there, including a 2003 ban on “mixing zones” for facilities with mercury and other bioaccumulative chemicals in their wastewater. Some facilities on the Ohio River that couldn’t meet mercury standards at the end of their pipes were historically allowed to instead measure pollutants at the end of a downstream mixing zone that diluted their discharges. 
+
+“Relying on dilution ...  doesn’t seem to be an appropriate pollution control strategy,” FitzGerald said. 
+
+ORSANCO commissioners in 2003 agreed to ban any new mixing zones in the Ohio River for mercury and other toxics. Facilities already using mixing zones would have 10 years to find a way to meet standards without them. 
+
+But by 2010, it was clear some industries wouldn’t meet the deadline. ORSANCO, despite pleas from environmental groups and the public, exempted some polluters from the ban. In 2013, they delayed the deadline to 2015. In 2015, the commissioners dropped the deadline altogether and set a goal to eliminate mixing zones “as soon as is practicable,” which would be left up to the state agencies that issue pollution permits.
+
+{.pullquote}
+text: “Relying on dilution … doesn’t seem to be an appropriate pollution control strategy.”
+
+twitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fwhose-job-is-it-to-reduce-toxic-mercury-in-the-ohio-river.html&amp;text=%E2%80%9CRelying%20on%20dilution%20%E2%80%A6%20doesn%E2%80%99t%20seem%20to%20be%20an%20appropriate%20pollution%20control%20strategy.%E2%80%9D%20%23ohioriverstories
+facebook: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fwhose-job-is-it-to-reduce-toxic-mercury-in-the-ohio-river.html
+{} 
+
+“A recognition of the complexities of implementing a hard ban for existing permitted facilities really came to light,” said Harrison, ORSANCO’s executive director. “It was a recognition that the states were the best entity to work in that arena.”
+
+According to the most recent data available from EPA’s Toxic Release Inventory, Dynegy’s Zimmer Station coal plant in Moscow, Ohio, released 100 pounds of mercury compounds into the Ohio River in 2017, the largest discharge that year. The plant is in compliance with its wastewater permit from the Ohio EPA, said Meranda Cohn, director of media relations and corporate affairs with the plant’s parent company. 
+
+“This permit includes strict mercury discharge limits,” she said. 
+
+Lafarge’s Joppa cement plant in Grand Chain, Illinois, released 32 pounds the same year. Clifty Creek Station, a coal plant in Madison, Indiana, released 12 pounds. It’s not clear if any of these facilities were using mixing zones. The data are self-reported by industries.
+
+{.single-photo-small}
+photo: ./assets/story-images/EHN-mercury/Clifty-Creek.jpg
+caption: Clifty Creek Station, a coal plant in Madison, Indiana, released 12 pounds of mercury into the Ohio River in 2017. (Courtesy of Wikimedia Commons) 
+{}
+The ban on new mixing zones on the Ohio River stayed, but leaving the phase-out for existing ones up to the states has played out unevenly in these Ohio watershed states: 
+
+* A representative from the Ohio EPA said the state agency had phased out all mixing zones for mercury and other bioaccumulative chemicals by 2009. 
+* The Pennsylvania Department of Environmental Protection hasn’t removed mixing zones from any permits since the ORSANCO rule changed in 2015, but the state weighs renewal applications against ORSANCO and state water quality standards “and incorporate the more stringent limit if applicable,” said DEP press secretary Elizabeth Rementer. 
+* Indiana and Kentucky have similarly not yet phased out mixing zones completely. 
+* Illinois and West Virginia's permitting agencies did not respond to requests for comments. 
+
+h2: Comparing ‘apples and oranges’
+
+According to Rob Reash, environmental scientist and principal at his consultancy company Reash Environmental, a mixing zone ban on the Ohio River wouldn’t significantly affect fish mercury levels there anyway.
+
+Reash has studied mercury in water — particularly the Ohio River — for decades. He’s a member of the ORSANCO mercury committee. Reash retired last year as an environmental scientist at American Electric Power [AEP], a utility company that runs coal plants in several states along the Ohio River, and set up his own firm this year. As an AEP scientist, he published studies suggesting fish mercury levels [aren’t higher near coal plants](https://setac.onlinelibrary.wiley.com/doi/abs/10.1002/ieam.1618) and much of the mercury in their wastewater [is in chemical forms that don’t build up in animal tissues](https://setac.onlinelibrary.wiley.com/doi/full/10.1002/ieam.4089) like methylmercury.
+
+Despite consistently publishing results that argue against regulations for the industries that have funded his work, Reash said he hasn’t encountered skepticism of his work.
+
+“One of the primary reasons I’ve been doing this research for so long is it is a priority for me to have credibility with my peers,” Reash said.  “So when I say something, I can be trusted.”
+
+ {.inline-img}
+
+img: ./assets/story-images/EHN-mercury/Bimonthly-sampling.jpg
+caption: An ORSANCO environmental scientist collects an Ohio River water sample for the agency’s bimonthly monitoring program, one of the several projects tracking water quality in the river. (Courtesy of ORSANCO)
+{}
+FitzGerald, who also sits on the mercury committee and is familiar with Reash’s work, agrees. 
+
+“He knows his stuff,” he said. “He works for industry, but I think his work has been subject to some pretty significant scrutiny.”
+
+Reash is also familiar with the preliminary results of the ORSANCO study attempting to figure out how much of the mercury in the Ohio River comes from atmospheric sources and industrial wastewater (known as “point sources”).
+
+Referencing the October presentation that said all point sources in the basin — not just those along the main stem — account for about 11% of the instream mercury, Reash said, “That tells me that if you want to reduce mercury in water or in fish, you can’t cap up industrial discharges. It’s not going to work.”
+
+Others familiar with the draft report say it's a good start, but the final version will have to include important changes to accurately sort out sources of mercury.
+
+For example, the October presentation shows an estimate of how much mercury was deposited from the atmosphere on the land area of each of the Ohio’s tributary watersheds. Those numbers are compared against industrial discharges for the same portion of the river and estimated to be 20 to 50 times larger than the local point sources. 
+
+Joel Blum, professor of earth and environmental sciences at the University of Michigan, is familiar with a draft of the report and has seen the data presented in October. He said this comparison between atmospheric and point sources is “apples and oranges.”
+
+{.pullquote}
+text: “The big question once this thing gets finalized is what are ORSANCO and the states going to do with this. Is it going to modify policy whatsoever?”
+
+twitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fwhose-job-is-it-to-reduce-toxic-mercury-in-the-ohio-river.html&amp;text=%E2%80%9CThe%20big%20question%20once%20this%20thing%20gets%20finalized%20is%20what%20are%20ORSANCO%20and%20the%20states%20going%20to%20do%20with%20this.%20Is%20it%20going%20to%20modify%20policy%20whatsoever%3F%E2%80%9D%20%23ohioriverstories
+facebook: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fwhose-job-is-it-to-reduce-toxic-mercury-in-the-ohio-river.html
+{} 
+
+The study, he said, gives a good estimate of how much mercury is deposited on the land. But not all of that mercury flows into the Ohio River.
+
+“We know that a large amount of the mercury that is deposited to the land surface accumulates in organic rich soils and vegetation and in sediments throughout the system,” Blum said. 
+
+“What they need to do is figure out how much of that is actually making it to the river and how much is staying put on the land,” he said. “In all likelihood, it’s a very small percentage.”
+
+Reash agreed that some portion of the mercury is sequestered in the land and there is a level of uncertainty about the atmospheric results. But ORSANCO did the best study they could with the funding they had, he said.
+
+“The big question once this thing gets finalized is what are ORSANCO and the states going to do with this,” he said. “Is it going to modify policy whatsoever?”
+
+h2: State to state inconsistency 
+
+Even though the atmospheric sources are the more significant source of mercury to the Ohio River, FitzGerald said policies that address industrial sources are worth looking into. 
+
+“Do you ratchet down further those dischargers over which you do have regulatory responsibility and regulatory control? I think it’s a legitimate question and one to address to the individual states,” he said. 
+
+The question would be whether states should apply additional restrictions under authority granted to states through Clean Water Act policies. Under those programs, states monitor lakes and streams, and those that don’t meet certain criteria — chemical concentrations, for example — are added to a list of “impaired” waters. For the most impaired waters, states are required to develop a clean-up plan called a Total Maximum Daily Load, or TMDL. Those plans calculate the total amount of a particular pollutant that is allowed to enter a waterbody. States can then apply additional scrutiny to wastewater permits in an effort to get a lake or river under that amount. 
+
+But, it’s complicated.
+
+Indiana has included its section of the Ohio River on its list of “impaired” waters due to high mercury levels. But the state’s Department of Environmental Management is not developing a TMDL. 
+
+The Indiana Department of Environmental Management “has not found TMDLs to be a particularly useful tool since one of the main sources is air deposition from emissions far from Indiana,” said Barry Sneed, a department spokesman. 
+
+more_stories: 115
+
+The agency’s report on impaired waters also says that an Ohio River TMDL would require more than one state because it’s a boundary water between states. Across the river from Indiana, Kentucky’s state environmental agency also added its stretch of the Ohio River to its list of waters impaired from mercury. But it removed the river from that list when it said new testing methods showed that fish weren’t as contaminated with methylmercury as previously thought. 
+
+Flickner of the Lower Ohio River Waterkeeper said inconsistencies between states like this are exactly what ORSANCO was originally designed to mitigate.
+
+“They’re giving up the idea that they have any enforcement or can address the states on a regulatory basis at all,” Flickner said. “That’s the message that everybody is getting and there’s really nothing we can do to stop it.”
+*Jeff Brooks-Gillies, a freelance writer for Environmental Health News, authored this story. He can be reached at jeffgillies@gmail.com.*
+*Good River: Stories of the Ohio is a series about the environment, economy, and culture of the Ohio River watershed, produced by seven nonprofit newsrooms. To see more, please visit [ohiowatershed.org](https://www.ohiowatershed.org/).*
+[]

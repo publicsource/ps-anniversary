@@ -258,6 +258,36 @@
                   <div class="six columns offset-by-three">
                     <div class="story-page-body">
 
+              <% }else if(section.type == "graphic"){ %>
+                </div> <!-- close story-page-body-->
+                </div> <!-- close eight columns-->
+                </div> <!-- close row-->
+                </div> <!-- close container-->
+
+                <div class="container">
+                  <div class="row">
+                    <div class="ten columns offset-by-one">
+                        <h2 style="font-family: PeaceSans; font-size: 1.9em; color: black; text-align: center; line-height: 1.3; margin-top: .5em;"><%= section.value.title %></h2>
+                        <div class="story-single-photo">
+                          <img alt="#" src="<%= section.value.photo %>" />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="container">
+                    <div class="row">
+                      <div class="six columns offset-by-three">
+                        <div class="caption"><%= t.renderMarkdown(story.sections[i].value.caption) %></div>
+                      </div>
+                    </div>
+                  </div>
+
+                <div class="container">
+                  <div class="row">
+                    <div class="six columns offset-by-three">
+                      <div class="story-page-body">
+
                       <% }else if(section.type == "video"){ %>
                         </div> <!-- close story-page-body-->
                         </div> <!-- close eight columns-->
