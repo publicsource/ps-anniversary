@@ -16,8 +16,7 @@ Will he eat the fish he catches in the Ohio River?
 
 “Oh God, no!” he said.
 
-The Clean Water Act has regulated the levels of pollutants discharged into U.S. waterways since 1972, but sport anglers on the Ohio River still have to check the [Ohio River Fish Consumption Advisories](http://216.68.102.178/comm/fishconsumption/default.asp) to see if their catch is safe to eat. Having worked as deputy director for the Sierra Club “Protecting America’s Waters” Campaign and the Sierra Club Water
-Sentinels, Guilfoile knows the contamination risks of fishing on the Ohio. 
+The Clean Water Act has regulated the levels of pollutants discharged into U.S. waterways since 1972, but sport anglers on the Ohio River still have to check the [Ohio River Fish Consumption Advisories](http://216.68.102.178/comm/fishconsumption/default.asp) to see if their catch is safe to eat. Having worked as deputy director for the Sierra Club “Protecting America’s Waters” Campaign and the Sierra Club Water Sentinels, Guilfoile knows the contamination risks of fishing on the Ohio. 
 
 “But the scary part,” he said, “is that most people who fish are not aware of these advisories although there are notices with fish and wildlife agencies.”
 
@@ -44,7 +43,7 @@ The Environmental Protection Agency [EPA] works with authorized state regulatory
 {.side-by-side-photo}
 left: ./assets/story-images/EYEONOHIO-pollutionpoints/Industrial-Waste-7-crop.jpg
 right: ./assets/story-images/EYEONOHIO-pollutionpoints/Industrial-Waste-32-crop.jpg
-caption: (Left) In Wilder, Kentucky, IPSCO Tubulars operates along the Licking River, a tributary of the Ohio. The company manufactures tubes, pipes and other industrial products and discharges wastewater containing lead and manganese into the river. (Right) Chuck Keller and Debra Hausrath, both from Fort Thomas, Kentucky, walk along the Licking River Greenway and Trails in Covington, Kentucky, on Dec. 19, 2019. Nearby manufacturer IPSCO Tubulars discharges wastewater containing lead and manganese into the river.(Photo by Leigh Taylor/ Eye on Ohio)
+caption: (Left) In Wilder, Kentucky, IPSCO Tubulars operates along the Licking River, a tributary of the Ohio. The company manufactures tubes, pipes and other industrial products and discharges wastewater containing lead and manganese into the river. (Right) Chuck Keller and Debra Hausrath, both from Fort Thomas, Kentucky, walk nearby IPSCO along the Licking River Greenway and Trails in Covington, Kentucky, on Dec. 19, 2019. (Photo by Leigh Taylor/ Eye on Ohio)
 alt: IPSCO Tubulars
 {}
 
