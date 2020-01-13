@@ -114,6 +114,8 @@ Facilities with reported discharges greater than 500% of their permit limits als
 
 Eagle Natrium reported 56 exceedances from 2011 to 2017, according to the study. On 38 occasions, the company allegedly discharged more than 100% their permit limit. On 17 occasions, the discharge allegedly exceeded 500% percent of the limit. The discharged toxics included mercury, copper, chloroform, iron and chloride. 
 
+more_stories: 116
+
 Eagle Natrium’s predecessors, PPG Industries, also had issues with permit compliance and was under a consent order when the company changed ownership in 2014. Eagle Natrium is operating via a permit granted to PPG Industries. 
 
 The permit was extended because ORSANCO’s pollution control standards required facilities operating prior to 2003 and discharging bioaccumulative chemicals of concern [BCC] to eliminate their ["mixing zones"](http://www.orsanco.org/wp-content/uploads/2019/06/Final-Standards-Doc-2019-Revision.pdf) by 2015. Mixing zones are collection areas where facilities dilute their discharges to meet water quality standards before entering waterways.
@@ -137,7 +139,7 @@ The split of wins and losses when working to protect the environment weighs on h
 {.divider}
 {}
 
-note: Data from this story was derived from the EPA’s Enforcement and Compliance History Online [ECHO] [site](https://echo.epa.gov/). The National Library of Medicine’s [Toxmap application is no longer operating](https://undark.org/2019/12/16/toxmap-national-library-of-medicine-retired/?post-share-url+post-action=https%3A%2F%2Fundark.org%2F2019%2F12%2F16%2Ftoxmap-national-library-of-medicine-retired%2F) as of Dec. 16, 2019. When Eye on Ohio asked for an update, the National Library of Medicine [NLM] released the following statement: 
+Note - Data from this story was derived from the EPA’s Enforcement and Compliance History Online [ECHO] [site](https://echo.epa.gov/). The National Library of Medicine’s [Toxmap application is no longer operating](https://undark.org/2019/12/16/toxmap-national-library-of-medicine-retired/?post-share-url+post-action=https%3A%2F%2Fundark.org%2F2019%2F12%2F16%2Ftoxmap-national-library-of-medicine-retired%2F) as of Dec. 16, 2019. When Eye on Ohio asked for an update, the National Library of Medicine [NLM] released the following statement: 
 
 “The decision to retire the tool was made in 2019 as part of a broader NLM reorganization that integrated most of NLM’s toxicology information services into other NLM products and services. The sunset was announced in early summer 2019 to give users sufficient time to transition to other sources. NLM has taken great care to ensure that no data become unavailable as we reorganize our toxicology and other resources. Some data have been archived and made available via FTP. In the case of ToxMap, underlying data remains available through their original sources. The links to those sources are available on the ToxNet redirection site.”
 
