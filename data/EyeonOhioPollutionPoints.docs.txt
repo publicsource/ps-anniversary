@@ -6,8 +6,8 @@ pub: Jan. 15, 2019
 
 feature_img.src: ./assets/story-images/EYEONOHIO-pollutionpoints/Industrial-Waste-40.jpg
 feature_img.caption: Chuck Keller (left), from Fort Thomas Kentucky, and Jeremy Shannon, from Southgate, Kentucky, walk near the Licking River Greenway and Trails next to the Licking River in Covington, Kentucky. In addition to point pollution sources, non-point pollution like grass fertilizer runs off into the river as well. (Photo by Leigh Taylor/Eye on Ohio)
-twitterlink.src: 
-facebooklink.src: 
+twitterlink.src: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fmapping-toxic-wastewater-discharge-along-ohio-river.html&amp;text=We%20mapped%20out%20the%20toxic%20wastewater%20discharges%20along%20the%20Ohio%20River.%20Here%E2%80%99s%20what%20we%20learned.%3A%20Using%20public%20records%2C%20Eye%20on%20Ohio%20mapped%20out%20the%20roughly%206%2C900%20toxic-containing%20wastewater%20discharges%20along%20the%20Ohio%20River%2C%20including%20how%20much%20they%20spew%20annually.
+facebooklink.src: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fmapping-toxic-wastewater-discharge-along-ohio-river.html
 
 [+sections]
 All Tim Guilfoile wants to do is fish. Before his retirement, he had two careers: one in business and one in water quality activism. Now, he serves as the director of marketing and communications for Northern Kentucky Fly Fishers. “We fly fish for bass, blue gill, striped bass and others. Not just trout. I fish on the Ohio River.” 
@@ -89,6 +89,12 @@ The individual NPDES permit process requires a public notice along with the oppo
 Having a legal limit also doesn’t ensure that facilities follow those standards. 
 
 A study from [Frontier Group and Environment America Research and Policy Center](https://frontiergroup.org/reports/fg/troubled-waters) examined NPDES permit data from 2011 to 2017 and found that an average of 27,849 facilities were noncompliant each year across the United States. Of those noncompliant facilities, the study found only an average of 13,076 faced EPA or state enforcement action on an annual basis. 
+
+{.pullquote}
+text: “I don’t think we have a culture of corporate responsibility associated with public health, I just don’t, and it’s exhausting.”
+twitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fmapping-toxic-wastewater-discharge-along-ohio-river.html&amp;text=We%20mapped%20out%20the%20toxic%20wastewater%20discharges%20along%20the%20Ohio%20River.%20Here%E2%80%99s%20what%20we%20learned.%3A%20%E2%80%9CI%20don%E2%80%99t%20think%20we%20have%20a%20culture%20of%20corporate%20responsibility%20associated%20with%20public%20health%2C%20I%20just%20don%E2%80%99t%2C%20and%20it%E2%80%99s%20exhausting.%E2%80%9D
+facebook: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fmapping-toxic-wastewater-discharge-along-ohio-river.html
+{}
 
 What determines whether or not action is taken against a noncompliant facility? 
 
