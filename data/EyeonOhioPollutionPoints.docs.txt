@@ -1,0 +1,145 @@
+headline: We mapped out the toxic wastewater discharges along the Ohio River. Here’s what we learned. 
+
+author: Bonnie Jean Feldkamp
+organization: Eye on Ohio
+pub: Jan. 15, 2019
+
+feature_img.src: ./assets/story-images/EYEONOHIO-pollutionpoints/Industrial-Waste-40.jpg
+feature_img.caption: Chuck Keller (left), from Fort Thomas Kentucky, and Jeremy Shannon, from Southgate, Kentucky, walk near the Licking River Greenway and Trails next to the Licking River in Covington, Kentucky. In addition to point pollution sources, non-point pollution like grass fertilizer runs off into the river as well. (Photo by Leigh Taylor/Eye on Ohio)
+twitterlink.src: 
+facebooklink.src: 
+
+[+sections]
+All Tim Guilfoile wants to do is fish. Before his retirement, he had two careers: one in business and one in water quality activism. Now, he serves as the director of marketing and communications for Northern Kentucky Fly Fishers. “We fly fish for bass, blue gill, striped bass and others. Not just trout. I fish on the Ohio River.” 
+
+Will he eat the fish he catches in the Ohio River? 
+
+“Oh God, no!” he said.
+
+The Clean Water Act has regulated the levels of pollutants discharged into U.S. waterways since 1972, but sport anglers on the Ohio River still have to check the [Ohio River Fish Consumption Advisories](http://216.68.102.178/comm/fishconsumption/default.asp) to see if their catch is safe to eat. Having worked as deputy director for the Sierra Club “Protecting America’s Waters” Campaign and the Sierra Club Water
+Sentinels, Guilfoile knows the contamination risks of fishing on the Ohio. 
+
+“But the scary part,” he said, “is that most people who fish are not aware of these advisories although there are notices with fish and wildlife agencies.”
+
+The Clean Water Act’s original goal was to completely eliminate discharges into waterways [by 1985](https://www3.epa.gov/npdes/pubs/cwatxt.txt), requiring that anyone who intentionally discharged wastewater into a U.S. waterway obtain a National Pollutant Discharge Elimination System [NPDES] permit. Yet today, in the Ohio River watershed alone, there are still roughly 40,000 active NPDES permits.
+
+Using public records, Eye on Ohio mapped out the roughly 6,900 toxic-containing wastewater discharges along the Ohio River, including how much they spew annually. 
+
+{.embed}
+
+embedCode: <div class='tableauPlaceholder' id='viz1578452611132' style='position: relative; margin: 0 auto;'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Po&#47;PollutionPointsMap-OhioWatershed&#47;ToxicReleaseInventory2017&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PollutionPointsMap-OhioWatershed&#47;ToxicReleaseInventory2017' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Po&#47;PollutionPointsMap-OhioWatershed&#47;ToxicReleaseInventory2017&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                    <script type='text/javascript'>                        var divElement = document.getElementById('viz1578452611132');                        var vizElement = divElement.getElementsByTagName('object')[0];                        if ( divElement.offsetWidth > 800 ) { vizElement.style.width='650px';vizElement.style.height='887px';vizElement.style.margin='0 auto';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='650px';vizElement.style.height='887px';vizElement.style.margin='0 auto';} else { vizElement.style.width='100%';vizElement.style.height='727px';vizElement.style.margin='0 auto';}                         var scriptElement = document.createElement('script');                        scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                        vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
+
+source: The United States Environmental Protection Agency’s Enforcement and Compliance History online database, echo.epa.gov. 2017 figures above 0 shown. 
+
+{}
+
+But public records only tell part of the story. 
+
+h2: Permitting process 
+
+The Environmental Protection Agency [EPA] works with authorized state regulatory agencies to implement the NPDES permitting program. Though the Clean Water Act governs the process, each state’s approach can differ. The EPA sets minimum standards nationally but it is up to each state to establish and manage its own regulations. 
+
+[The Ohio River Valley Sanitation Commission [ORSANO]](http://www.orsanco.org/about-us/) is an interstate commission in the watershed that sets pollution control standards for states permitting industrial and municipal wastewater discharges into the Ohio River. 
+
+{.side-by-side-photo}
+left: ./assets/story-images/EYEONOHIO-pollutionpoints/Industrial-Waste-7-crop.jpg
+right: ./assets/story-images/EYEONOHIO-pollutionpoints/Industrial-Waste-32-crop.jpg
+caption: (Left) In Wilder, Kentucky, IPSCO Tubulars operates along the Licking River, a tributary of the Ohio. The company manufactures tubes, pipes and other industrial products and discharges wastewater containing lead and manganese into the river. (Right) Chuck Keller and Debra Hausrath, both from Fort Thomas, Kentucky, walk along the Licking River Greenway and Trails in Covington, Kentucky, on Dec. 19, 2019. Nearby manufacturer IPSCO Tubulars discharges wastewater containing lead and manganese into the river.(Photo by Leigh Taylor/ Eye on Ohio)
+alt: IPSCO Tubulars
+{}
+
+There are two types of permits: general and individual. 
+
+General permits are meant for discharges of wastewater that is considered to have minimal adverse effects on the environment. Individual permits, on the other hand, are for sites with more complex discharges that include toxics dangerous to the environment and humans. The permit process analyzes physical, biological and chemical data of the facility’s wastewater and determines what the receiving water can accommodate. 
+
+Permits assess direct dumping or point-source pollution. The permits do not take into account pollutants such as agricultural runoff, which contributes to nutrient overload, known as “nonpoint” pollution.
+
+Located in New Martinsville, West Virginia, Eagle Natrium, LLC is the second-highest point polluter in the Ohio River watershed. In 2017, it spewed 196,165 toxic-weighted pounds into the Ohio River.
+
+Mercury from the Eagle Natrium facility have made two species of local fish too poisonous to eat in significant quantities, according to the [Ohio River Fish Consumption Advisories](http://216.68.102.178/comm/fishconsumption/default.asp). 
+
+In August 2019, the Ohio Valley Environmental Coalition and the Sierra Club filed a [lawsuit against the company](https://eyeonohio.com/wp-content/uploads/2019/12/Sierra-Club-Lawsuit-complaintN.D.W.Va_._5_19-cv-00236-JPB_1_0.pdf). The complaint states that Eagle Natrium is the “only remaining chlor-alkali plant in the United States that uses mercury cells.” 
+
+“Mercury cells” refers to the process that uses liquid mercury to produce chlorine, sodium hydroxide and potassium hydroxide. This is an old technology that came into use in the late 1800s. Other chlor-alkali plants use “membrane cells” for this process, which has been available since the [1960s](http://www.essentialchemicalindustry.org/chemicals/chlorine.html).
+
+Mercury found in moist environments can transform into methylmercury that bioaccumulates in the food chain. According to West Virginia Department of Health and Human Resources, eating fish is the primary local exposure source for mercury.
+
+In a 2016 [Healthy Building Network newsletter](https://healthybuilding.net/blog/454-still-crazy-after-all-these-years-mercury-cells-in-the-heart-of-america), Eagle Natrium’s parent company at the time Axiall stated that it “has not announced any plans related to its mercury circuit processes” at the Natrium facility. WestLake Chemical acquired Axiall in 2016 and has not responded to several requests for comment. 
+
+The EPA’s response was the following: “The West Virginia Department of Environmental Protection [WVDEP] is the lead agency for overseeing NPDES permitting and enforcement programs in West Virginia, and is actively involved in addressing compliance issues at Eagle Natrium LLC.”
+
+On Oct. 15, 2019, just two months after the citizen’s suit was filed against Eagle Natrium, WVDEP amended their administrative order once again, giving Eagle Natrium until June 30, 2020, to comply.
+
+The EPA also provided this statement on the facility: “Eagle Natrium (NPDES Permit No. WV0004359) continues to work to achieve compliance pursuant to an existing state formal enforcement action. The facility has invested an excess of $1 million in studies and improvements and has paid more than $1 million in penalties for exceeding NPDES permit limits. Further, the facility was granted interim permit limits. The interim limits were not updated in the national database, therefore, the compliance summary is not accurate. EPA and WVDEP are working to resolve these data discrepancies.”
+
+h2: Out of compliance
+
+{.single-photo-hero}
+photo: ./assets/story-images/EYEONOHIO-pollutionpoints/Industrial-Waste-20.jpg
+caption: A drain pipe leaks along the Ohio River in Cincinnati, Ohio, near Smale Park. (Photo by Leigh Taylor/Eye on Ohio)
+alt: Drain pipe leaks along the Ohio River in Cincinnati, Ohio
+{}
+
+
+
+The individual NPDES permit process requires a public notice along with the opportunity for public comment prior to its approval. Permit notices are found on each state’s environmental protection department website. But a lengthy process doesn’t always ensure better review. 
+
+“There are very few members of the public that can monitor and comment on permits,” said Jim Hecker, environmental enforcement director for Public Justice, a national nonprofit legal advocacy organization. “You have to be pretty sophisticated to even know what to say in your permit comments. There’s probably a handful of people who are doing that in each state, with a few environmental groups.”
+
+Having a legal limit also doesn’t ensure that facilities follow those standards. 
+
+A study from [Frontier Group and Environment America Research and Policy Center](https://frontiergroup.org/reports/fg/troubled-waters) examined NPDES permit data from 2011 to 2017 and found that an average of 27,849 facilities were noncompliant each year across the United States. Of those noncompliant facilities, the study found only an average of 13,076 faced EPA or state enforcement action on an annual basis. 
+
+What determines whether or not action is taken against a noncompliant facility? 
+
+According to the EPA: “Enforcement actions are determined on a case-by-case basis. The EPA and its state partners work together to address NPDES permitting and compliance issues.”
+
+Guilfoile is skeptical. “I don’t think we have a culture of corporate responsibility associated with public health, I just don’t, and it’s exhausting,” he said.
+
+{.single-photo-small}
+photo: ./assets/story-images/EYEONOHIO-pollutionpoints/Industrial-Waste-36.jpg
+caption: Jeremy Shannon, from Southgate, Kentucky, walks near the Licking River Greenway and Trails next to the Licking River in Covington, Kentucky. The trail is across the river from IPSCO Tubulars in Wilder, Kentucky. According to public records, the facility had four Clean Water Act violations in the last six quarters. (Photo by Leigh Taylor/Eye on Ohio)
+alt: Licking River Greenway and Trails near IPSCO Tubulars in Wilder, Kentucky
+{}
+
+The same study examined data to determine how many facilities discharged more than their permit allowed between Jan. 1, 2016, and Sept. 30, 2017. West Virginia topped the list with 54% (26) of its facilities reporting exceedances greater than 100% of their permit limits at least once. Other states in the Ohio River watershed on the top-10 list of those with facilities that exceed their permit limits by greater than 100% at least once included Indiana at 32% (21 facilities), New York at 31% (37 facilities), and Illinois at 29% (19 facilities). 
+
+Facilities with reported discharges greater than 500% of their permit limits also showed West Virginia at the top of the list with 31%(15 facilities). 
+
+Eagle Natrium reported 56 exceedances from 2011 to 2017, according to the study. On 38 occasions, the company allegedly discharged more than 100% their permit limit. On 17 occasions, the discharge allegedly exceeded 500% percent of the limit. The discharged toxics included mercury, copper, chloroform, iron and chloride. 
+
+Eagle Natrium’s predecessors, PPG Industries, also had issues with permit compliance and was under a consent order when the company changed ownership in 2014. Eagle Natrium is operating via a permit granted to PPG Industries. 
+
+The permit was extended because ORSANCO’s pollution control standards required facilities operating prior to 2003 and discharging bioaccumulative chemicals of concern [BCC] to eliminate their ["mixing zones"](http://www.orsanco.org/wp-content/uploads/2019/06/Final-Standards-Doc-2019-Revision.pdf) by 2015. Mixing zones are collection areas where facilities dilute their discharges to meet water quality standards before entering waterways.
+
+Also in October 2015, ORSANCO updated its pollution control standards to remove the mixing zone deadline and replaced it to say “as soon as is practicable, as determined by the permitting authority.” Therefore, WVDEP extended the facility’s deadline while implementing interim discharge limits higher than the permit allows.
+
+{.single-photo-small}
+photo: ./assets/story-images/EYEONOHIO-pollutionpoints/Tim-Guilfoile-Fishing-the-Little-Miami.jpg
+caption: Former water conservationist Tim Guilfoile fishes in the Little Miami River. (Photo courtesy of Tim Guilfoile via Eye on Ohio)
+alt: Former water conservationist Tim Guilfoile fishes in the Little Miami River.
+{}
+
+“One of the reasons the Ohio is ranked the dirtiest is because these bioaccumulative chemicals of concern are in the sediment and you’ll never get rid of them unless you dredged the length Ohio River bottom,” Guilfoile said. “Even if we stopped dumping everything today, that’s not going to change the BCC contamination in the Ohio River. Continuing to dump will make it worse, but it’s already pitiful.”
+
+Prior to his work in water quality, Guilfoile was Cincinnati Children’s Hospital senior vice president of operations. In his time there, he loved the fact that he was able to impact the general well-being of children in many ways, but in other ways he knew he couldn’t.
+
+The split of wins and losses when working to protect the environment weighs on him.
+
+“I’m 70 years old now and I used to be a person with strong optimism and I’m not anymore. I’m just not. I’ve got a few years left to live and I’m going to fish as much as I possibly can and it’s too bad that this may very well be our last century on earth.”
+
+{.divider}
+{}
+
+note: Data from this story was derived from the EPA’s Enforcement and Compliance History Online [ECHO] [site](https://echo.epa.gov/). The National Library of Medicine’s [Toxmap application is no longer operating](https://undark.org/2019/12/16/toxmap-national-library-of-medicine-retired/?post-share-url+post-action=https%3A%2F%2Fundark.org%2F2019%2F12%2F16%2Ftoxmap-national-library-of-medicine-retired%2F) as of Dec. 16, 2019. When Eye on Ohio asked for an update, the National Library of Medicine [NLM] released the following statement: 
+
+“The decision to retire the tool was made in 2019 as part of a broader NLM reorganization that integrated most of NLM’s toxicology information services into other NLM products and services. The sunset was announced in early summer 2019 to give users sufficient time to transition to other sources. NLM has taken great care to ensure that no data become unavailable as we reorganize our toxicology and other resources. Some data have been archived and made available via FTP. In the case of ToxMap, underlying data remains available through their original sources. The links to those sources are available on the ToxNet redirection site.”
+
+For more information, see the [NIH announcement](https://www.nlm.nih.gov/pubs/techbull/so19/so19_toxnet_discontinued.html) or The [Resource Page](https://www.nlm.nih.gov/toxnet/index.html) in its place. 
+
+{.divider}
+{}
+
+*Bonnie Jean Feldkamp is a Cincinnati-based freelance writer. Find her on social media [@WriterBonnie](https://twitter.com/writerbonnie) or at [WriterBonnie.com](https://writerbonnie.com/).*
+
+*Good River: Stories of the Ohio is a series about the environment, economy, and culture of the Ohio River watershed, produced by seven nonprofit newsrooms. To see more, please visit [ohiowatershed.org](https://www.ohiowatershed.org/).*

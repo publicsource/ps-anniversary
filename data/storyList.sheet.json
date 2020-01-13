@@ -1,8 +1,18 @@
 [
   {
+    "story_id": 116,
+    "headlines": "We mapped out the toxic wastewater discharges along the Ohio River. Here’s what we learned.",
+    "slug": "EyeonOhioPollutionPoints",
+    "publish_date": "January 15, 2020",
+    "authors": "Bonnie Jean Feldkamp",
+    "org": "Eye on Ohio, the Ohio Center for Investigative Journalism",
+    "img_filename": "EYEONOHIO-pollutionpoints/Industrial-Waste-40.jpg",
+    "link": "mapping-toxic-wastewater-discharge-along-ohio-river.html"
+  },
+  {
     "story_id": 115,
     "headlines": "Whose job is it to reduce toxic mercury in the Ohio River? ",
-    "slug": "EhnMercurty",
+    "slug": "EhnMercury",
     "publish_date": "January 15, 2020",
     "authors": "Jeff Brooks-Gillies",
     "org": "Environmental Health News",
