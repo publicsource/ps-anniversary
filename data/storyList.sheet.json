@@ -1,8 +1,38 @@
 [
   {
+    "story_id": 118,
+    "headlines": "High waters, more hazardous cargo in the Ohio watershed complicate the job of keeping the waterways safe",
+    "slug": "KYCIRriversafety",
+    "publish_date": "January 23, 2020",
+    "authors": "Alexandra Kanik",
+    "org": "KyCIR",
+    "img_filename": "KYCIR-riversafety/river-safety-louisville-flood.jpg",
+    "link": "high-waters-hazardous-cargo-ohio-watershed-safety.html"
+  },
+  {
+    "story_id": 117,
+    "headlines": "A Pittsburgh-area test case in working across political boundaries to address flooding",
+    "slug": "PUBLICSOURCEflooding",
+    "publish_date": "January 23, 2020",
+    "authors": "Oliver Morrison",
+    "org": "PublicSource",
+    "img_filename": "PUBLICSOURCE-flooding/flooding-saw-mill-run-creek.jpg",
+    "link": "pittsburgh-working-across-political-boundaries-flooding.html"
+  },
+  {
+    "story_id": 116,
+    "headlines": "We mapped out the toxic wastewater discharges along the Ohio River. Here’s what we learned.",
+    "slug": "EyeonOhioPollutionPoints",
+    "publish_date": "January 15, 2020",
+    "authors": "Bonnie Jean Feldkamp",
+    "org": "Eye on Ohio, the Ohio Center for Investigative Journalism",
+    "img_filename": "EYEONOHIO-pollutionpoints/Industrial-Waste-40.jpg",
+    "link": "mapping-toxic-wastewater-discharge-along-ohio-river.html"
+  },
+  {
     "story_id": 115,
     "headlines": "Whose job is it to reduce toxic mercury in the Ohio River? ",
-    "slug": "EhnMercurty",
+    "slug": "EhnMercury",
     "publish_date": "January 15, 2020",
     "authors": "Jeff Brooks-Gillies",
     "org": "Environmental Health News",

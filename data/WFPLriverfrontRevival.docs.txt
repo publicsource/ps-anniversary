@@ -50,7 +50,7 @@ If Waterfront Park is Louisville’s front yard, then the nonprofit River Herita
 {.side-by-side-photo}
 left: ./assets/story-images/WFPL-riverfront-revival/riverfront-revival-martin.jpg
 right: ./assets/story-images/WFPL-riverfront-revival/riverfront-revival-indiana-road.jpg
-caption: (left) River Heritage Conservancy Executive Director Scott Martin looks upon the Falls of The Ohio on the Ohio River. (left) A river road in Indiana sloughing into the Ohio River. (Photo by Ryan Van Velzer/WFPL)
+caption: (left) River Heritage Conservancy Executive Director Scott Martin looks upon the Falls of The Ohio on the Ohio River. (right) A river road in Indiana sloughing into the Ohio River. (Photo by Ryan Van Velzer/WFPL)
 {}
 “So even within these junk yards we have over 150 different species of birds that will move through here over the years,” said Scott Martin, the conservancy executive director. “We have otter. We have mink. We have flying squirrels.”
 On a jagged river road near the Falls of the Ohio, Martin describes his vision for the wildest section of land in Kentuckiana’s urban core. He envisions a landscape park complete with lawns, hiking trails, forests, wetlands and elevated pathways designed to experience river flooding from a safe distance.
