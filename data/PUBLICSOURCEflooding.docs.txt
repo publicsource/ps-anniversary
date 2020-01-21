@@ -19,6 +19,11 @@ caption: Saw Mill Run resident Anthony Wolkiewicz holds a photo that was taken o
 “It crested over its banks, and I got 4 feet of water in my basement,” Wolkiewicz, 65, recalled.
 He watched as a television was carried along the stream behind his house. The street in front of his house flooded, too, so water was pouring in from both directions. 
 “It’s like if a dam was up the road and someone opened the floodgates. Up it came and over the bank, and done deal,” he said. Insurance money covered his major appliances but not many of his other smaller items, including his electronics, which filled a dumpster. He estimates he lost $20,000 worth of items. The flood water was mixed with sewage, so his five nephews helped to spray the entire basement down with bleach water. He was without air conditioning for two weeks, which exacerbated a breathing condition.
+{.pullquote}
+text: “It’s like if a dam was up the road and someone opened the floodgates.”
+twitter: 
+facebook: 
+{}
 Wolkiewicz bought his home along Provost Road in the Pittsburgh neighborhood of Overbrook in 2011 for about $34,000. He said his neighbors told him then that flooding wasn’t a big problem. But in June 2018, his house flooded again. 
 Now when it rains, he stays home to pile sand bags and make sure debris from the flooding in his basement doesn’t block up the sewage drain. 
 More rain has fallen in the Pittsburgh area over the last two years than at any other time in recorded history. Two of these storms have resulted in deaths in the past decade, as drivers were caught on roadways that flooded. 
@@ -116,6 +121,12 @@ Although these actions, on their own, may not lead to great change, a report rel
 
 "Within these local laboratories are the next generation of water leaders who, in the absence of political will among large institutions, must be nurtured and equipped to lead in 10, 20 or 30 years when generational changes are likely to change the political calculus,” the report said.
 
+{.pullquote}
+text: “We are never going to fix the flooding. [We need to] improve the response to it, and improve the health of the stream and the communities around it.”
+twitter: 
+facebook: 
+{}
+
 Some changes are being made regionally. In 2020, the Allegheny County Sanitary Authority [ALCOSAN] is taking over responsibility for the region’s largest sewage lines from local governments after years of recommendations and negotiations. It’s the beginning of a more centralized sewage system. Increasing pressure from government regulators to clean up polluted water is also spurring between $2 billion to $6 billion in investments over the next two decades by local municipalities and agencies like ALCOSAN and PWSA.
 
 Etna Borough Manager Mary Ellen Ramage said she believes local leaders will have to give up some control. Etna’s borough offices flooded up to its light switches in 2004. Since, Ramage has learned that stemming the flooding in Etna depends on fixes made by municipalities miles upstream. Etna is at the end of a sieve, she said: with less than 1% of the land in her watershed, most of the floodwater originates upstream.
@@ -148,8 +159,8 @@ Batroney said it’s time for the region to come together again before another t
 
 *The Heinz Endowments also provides funding to PublicSource.
 
-Oliver Morrison is PublicSource’s environment and health reporter. He can be reached at oliver@publicsource.org or on Twitter [@ORMorrison](https://twitter.com/ORMorrison).
+*Oliver Morrison is PublicSource’s environment and health reporter. He can be reached at oliver@publicsource.org or on Twitter [@ORMorrison](https://twitter.com/ORMorrison).*
 
-This story was fact-checked by Sierra Smith.
+*This story was fact-checked by Sierra Smith.*
 
-Good River: Stories of the Ohio is a series about the environment, economy and culture of the Ohio River watershed, produced by seven nonprofit newsrooms. To see more, please visit [ohiowatershed.org](https://www.ohiowatershed.org/).
+*Good River: Stories of the Ohio is a series about the environment, economy and culture of the Ohio River watershed, produced by seven nonprofit newsrooms. To see more, please visit [ohiowatershed.org](https://www.ohiowatershed.org/).*
