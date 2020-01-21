@@ -239,7 +239,7 @@
                 <div class="row">
                   <div class="ten columns offset-by-one">
                       <div class="story-single-photo">
-                        <img alt="#" src="<%= section.value.photo %>" />
+                        <img alt="<%= section.value.alt %>" src="<%= section.value.photo %>" />
                       </div>
                     </div>
                   </div>
@@ -308,6 +308,35 @@
                             <div class="row">
                               <div class="six columns offset-by-three">
                                 <div class="caption"><%= section.value.caption %></div>
+                              </div>
+                            </div>
+                          </div>
+
+                        <div class="container">
+                          <div class="row">
+                            <div class="six columns offset-by-three">
+                              <div class="story-page-body">
+                                
+                      <% }else if(section.type == "embed"){ %>
+                        </div> <!-- close story-page-body-->
+                        </div> <!-- close eight columns-->
+                        </div> <!-- close row-->
+                        </div> <!-- close container-->
+
+                        <div class="interactive" class="container" style="margin-top: 2em;">
+                          <div class="row">
+                              <div class="twelve columns">
+                                <div class='embed-container'>
+                                  <%= section.value.embedCode %>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+
+                          <div class="container">
+                            <div class="row">
+                              <div class="six columns offset-by-three">
+                                <div class="caption">Source: <%= section.value.source %></div>
                               </div>
                             </div>
                           </div>
