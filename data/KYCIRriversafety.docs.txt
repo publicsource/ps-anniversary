@@ -5,8 +5,8 @@ pub: Jan. 23, 2020
 
 feature_img.src: ./assets/story-images/KYCIR-riversafety/river-safety-louisville-flood.jpg
 feature_img.caption: The Saw Mill Run Creek has become a flood risk for the Overbrook neighborhood of Pittsburgh. (Photo by Ryan Loew/PublicSource)
-twitterlink.src: 
-facebooklink.src: 
+twitterlink.src: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fhigh-waters-hazardous-cargo-ohio-watershed-safety.html&amp;text=High%20waters%2C%20more%20hazardous%20cargo%20in%20the%20Ohio%20watershed%20complicate%20the%20job%20of%20keeping%20the%20waterways%20safe%20%23ohioriverstories
+facebooklink.src: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fhigh-waters-hazardous-cargo-ohio-watershed-safety.html
 [+sections]
 
 {.audio}
@@ -81,6 +81,11 @@ The Louisville water supply faced [a potential disaster](https://wfpl.org/ohio-r
 This particular spill wasn’t due to high water, but it illustrates the potential for danger. As thousands of gallons of urea ammonium nitrate drifted downriver toward Louisville, the city’s water authority took action. 
 “This spill was unique because it wasn’t like an oil spill where you could see it on the river,” Louisville Water Company spokeswoman Kelley Dearing Smith told WFPL in 2017. “The chemical was soluble, so our scientists really had to track the spill ... to understand how this plume was moving.”
 In this case, rain diluted the contamination, and helped it move swiftly through the city. But less than a month later, the rain would cause the barge breakaways near Pittsburgh and in West Virginia.
+{.single-photo-hero}
+photo: ./assets/story-images/KYCIR-riversafety/river-safety-louisville-barge.jpg
+alt: A towing vessel and barges moving through the area monitored by the Louisville Vessel Traffic Service on Dec. 22, 2017. 
+caption: A towing vessel and barges moving through the area monitored by the Louisville Vessel Traffic Service on Dec. 22, 2017. (Photo by Alexandra Kanik/KyCIR)
+{}
 These inland spills may seem less catastrophic than ocean spills, but they’re more likely to cause harm to the surrounding area, said Lt. Cmdr. Takila Powell, U.S. Coast Guard marine investigations supervisor for the district that includes most of the Ohio watershed. 
 When you have an oil spill on an inland river, Powell said, water is more shallow and the currents are different than on the ocean. It takes a lot less oil to pose a big threat.
 “And plus, there's a higher chance of impact to the shoreline because you're on a river and there's two banks on either side,” Powell said. “So at least one could potentially be impacted.”
@@ -88,20 +93,17 @@ h2: What’s being done
 Government agencies and regulatory bodies say they are working together to improve safety and mitigate harm after accidents occur. But change is slow to come.
 For example, Congress passed legislation in 2004 that established mandatory inspections for towing vessels. But [mandatory inspections didn’t actually begin](https://www.dco.uscg.mil/Our-Organization/Assistant-Commandant-for-Prevention-Policy-CG-5P/Traveling-Inspector-Staff-CG-5P-TI/Towing-Vessel-National-Center-of-Expertise/SubIRegulations-Copy/) until 2018, nearly 14 years later.
 But as each year brings more volatile weather than the year before, the agencies say they’re trying to be proactive, rather than reactive.
-{.single-photo-small}
-photo: ./assets/story-images/KYCIR-riversafety/river-safety-louisville-barge.jpg
-caption: A towing vessel and barges moving through the area monitored by the Louisville Vessel Traffic Service on Dec. 22, 2017. (Photo by Alexandra Kanik/KyCIR)
-{}
+more_stories: 118
 Only recently did the NTSB begin documenting its accident investigations with an internal database. LaRue said the effort will help provide a “better idea about trending and things like that, and hopefully spot safety issues.”
 Such a database, when implemented, could help NTSB create a recommendation report on how to avoid weather-related incidents in the future, but the NTSB still lacks enforcement power. Even if its investigators identify safety protocols that could help mariners deal with extreme weather, it would be up to the Coast Guard to implement them.
 Currently, the Coast Guard maintains and operates regional plans that help mariners respond to hazards such as high water or inclement weather on specific stretches of river.
 Powell said that during times of high water, the Coast Guard subsectors hold conference calls to discuss river levels, vessel restrictions and weather and river forecasts. 
-Those forecasts are available for mariners from the National Oceanic Atmospheric Association [NOAA], which uses various data points about rainfall and terrain to predict how waterways will react to extreme weather up to 10 days ahead of time. 
-“That gives them the opportunity to make decisions that are going to help them navigate the rivers safely if the water is coming up quickly,” said Trent Schade, hydrologist in charge of NOAA’s [Ohio River Forecast Center](https://www.weather.gov/ohrfc/). “They have an opportunity to move their boat into a safe harbor.”
-But these forecasts give only a short lead on the future of the river. Both the Coast Guard and NOAA say they aren’t focused right now on climate change’s long-term impacts on river safety. When it comes to next year or the next 10 years, the state of the water is much murkier.
 {.parallax_img}
 src: ./assets/story-images/KYCIR-riversafety/river-safety-louisville-ohio-river2.jpg
 {}
+Those forecasts are available for mariners from the National Oceanic Atmospheric Association [NOAA], which uses various data points about rainfall and terrain to predict how waterways will react to extreme weather up to 10 days ahead of time. 
+“That gives them the opportunity to make decisions that are going to help them navigate the rivers safely if the water is coming up quickly,” said Trent Schade, hydrologist in charge of NOAA’s [Ohio River Forecast Center](https://www.weather.gov/ohrfc/). “They have an opportunity to move their boat into a safe harbor.”
+But these forecasts give only a short lead on the future of the river. Both the Coast Guard and NOAA say they aren’t focused right now on climate change’s long-term impacts on river safety. When it comes to next year or the next 10 years, the state of the water is much murkier.
 *Alexandra Kanik is the data reporter for Kentucky Center for Investigative Reporting which is part of Louisville Public Media. She can be reached at akanik@louisvillepublicmedia.org or on Twitter [@act_rational](https://twitter.com/act_rational).*
 
 Caitlin McGlade also contributed to this story.

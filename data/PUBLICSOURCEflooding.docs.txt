@@ -5,8 +5,8 @@ pub: Jan. 23, 2020
 
 feature_img.src: ./assets/story-images/PUBLICSOURCE-flooding/flooding-saw-mill-run-creek.jpg
 feature_img.caption: The Saw Mill Run Creek has become a flood risk for the Overbrook neighborhood of Pittsburgh. (Photo by Ryan Loew/PublicSource)
-twitterlink.src: 
-facebooklink.src: 
+twitterlink.src: https://twitter.com/intent/tweet?url=http%3A%2F%2Fohiowatershed.org%2Fpittsburgh-working-across-political-boundaries-flooding.html&amp;text=A%20Pittsburgh-area%20test%20case%20in%20working%20across%20political%20boundaries%20to%20address%20flooding%20%23ohioriverstories
+facebooklink.src: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fohiowatershed.org%2Fpittsburgh-working-across-political-boundaries-flooding.html
 [+sections]
 Anthony Wolkiewicz had his picture taken with Fred Rogers while working at WQED in 1977. 
 Rogers made a special point to ask about Wolkiewicz’s youngest son. “Who is this? I don’t remember him in my neighborhood,” Wolkiewicz remembers him saying in the same voice he used on Mister Rogers’ Neighborhood.
@@ -21,8 +21,8 @@ He watched as a television was carried along the stream behind his house. The st
 “It’s like if a dam was up the road and someone opened the floodgates. Up it came and over the bank, and done deal,” he said. Insurance money covered his major appliances but not many of his other smaller items, including his electronics, which filled a dumpster. He estimates he lost $20,000 worth of items. The flood water was mixed with sewage, so his five nephews helped to spray the entire basement down with bleach water. He was without air conditioning for two weeks, which exacerbated a breathing condition.
 {.pullquote}
 text: “It’s like if a dam was up the road and someone opened the floodgates.”
-twitter: 
-facebook: 
+twitter: https://twitter.com/intent/tweet?url=http%3A%2F%2Fohiowatershed.org%2Fpittsburgh-working-across-political-boundaries-flooding.html&amp;text=%E2%80%9CIt%E2%80%99s%20like%20if%20a%20dam%20was%20up%20the%20road%20and%20someone%20opened%20the%20floodgates.%E2%80%9D%20%23ohioriverstories
+facebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fohiowatershed.org%2Fpittsburgh-working-across-political-boundaries-flooding.html
 {}
 Wolkiewicz bought his home along Provost Road in the Pittsburgh neighborhood of Overbrook in 2011 for about $34,000. He said his neighbors told him then that flooding wasn’t a big problem. But in June 2018, his house flooded again. 
 Now when it rains, he stays home to pile sand bags and make sure debris from the flooding in his basement doesn’t block up the sewage drain. 
@@ -51,8 +51,9 @@ Anthony Coghill, the Pittsburgh city councilman for most of the Saw Mill Run are
 
 "I’m tired of saying, ‘We’ll get an engineer out here,’” Coghill said. “The bottom line for me, when I see the devastation going on … Buy out.”
 
-{.single-photo-small}
-photo: ./assets/story-images/PUBLICSOURCE-flooding/flooding-saw-mill-map.png
+{.inline-img}
+img: ./assets/story-images/PUBLICSOURCE-flooding/flooding-saw-mill-map.png
+alt: A map of the Saw Mill Run Watershed from the U.S. Army Corps of Engineers.
 caption: A map of the Saw Mill Run Watershed from the U.S. Army Corps of Engineers.
 {}
 
@@ -60,13 +61,12 @@ The Saw Mill Run watershed includes more than 14 Pittsburgh neighborhoods and a 
 
 Steve Kaduck, who runs an auto upholstery business in the neighborhood, agreed with Coghill that the best solution was to buy out the Provost Road homes and turn it into a basin to catch floodwater. “Until they find a retaining space or a new pipe going to the river, it ain’t going to stop,” he said.
 
-But he’s seen flooding there for 50 years and nothing has been done. He said he feels frustrated that their problems have recently taken a backseat to flooding in suburban communities, like Bethel Park and Mt. Lebanon. “We don’t make the news anymore,” he said. “We’re not news. We’re old news.”
-
-{.single-photo-hero}
+{.single-photo-small}
 photo: ./assets/story-images/PUBLICSOURCE-flooding/flooding-brown.jpg
-alt: Lisa Werder Brown, the executive director of the Watersheds of South Pittsburgh, showing a flood area at the Beechview-Seldom Seen Greenway in Pittsburgh.
 caption: Lisa Werder Brown, the executive director of the Watersheds of South Pittsburgh, showing a flood area at the Beechview-Seldom Seen Greenway in Pittsburgh. (Photo by Terry Clark/PublicSource)
 {}
+But he’s seen flooding there for 50 years and nothing has been done. He said he feels frustrated that their problems have recently taken a backseat to flooding in suburban communities, like Bethel Park and Mt. Lebanon. “We don’t make the news anymore,” he said. “We’re not news. We’re old news.”
+
 h2: Saw Mill Run
 Back in October 2018, Lisa Werder Brown, the executive director of the Watersheds of South Pittsburgh, drove along Saw Mill Run Boulevard and started counting used car lots, which she perceives as a sign that new businesses are wary of flooding risks. 
 To really turn Saw Mill Run around, she said, the region needs to turn large chunks of the valley next to the creek back into a natural floodplain. She said it should become natural parkland that would become an amenity people would want to visit rather than avoid.
@@ -123,8 +123,8 @@ Although these actions, on their own, may not lead to great change, a report rel
 
 {.pullquote}
 text: “We are never going to fix the flooding. [We need to] improve the response to it, and improve the health of the stream and the communities around it.”
-twitter: 
-facebook: 
+twitter: https://twitter.com/intent/tweet?url=http%3A%2F%2Fohiowatershed.org%2Fpittsburgh-working-across-political-boundaries-flooding.html&amp;text=%E2%80%9CWe%20are%20never%20going%20to%20fix%20the%20flooding.%20%5BWe%20need%20to%5D%20improve%20the%20response%20to%20it%2C%20and%20improve%20the%20health%20of%20the%20stream%20and%20the%20communities%20around%20it.%E2%80%9D%20%23ohioriverstories
+facebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fohiowatershed.org%2Fpittsburgh-working-across-political-boundaries-flooding.html
 {}
 
 Some changes are being made regionally. In 2020, the Allegheny County Sanitary Authority [ALCOSAN] is taking over responsibility for the region’s largest sewage lines from local governments after years of recommendations and negotiations. It’s the beginning of a more centralized sewage system. Increasing pressure from government regulators to clean up polluted water is also spurring between $2 billion to $6 billion in investments over the next two decades by local municipalities and agencies like ALCOSAN and PWSA.
@@ -132,6 +132,8 @@ Some changes are being made regionally. In 2020, the Allegheny County Sanitary A
 Etna Borough Manager Mary Ellen Ramage said she believes local leaders will have to give up some control. Etna’s borough offices flooded up to its light switches in 2004. Since, Ramage has learned that stemming the flooding in Etna depends on fixes made by municipalities miles upstream. Etna is at the end of a sieve, she said: with less than 1% of the land in her watershed, most of the floodwater originates upstream.
 
 While experts have recommended changes to Allegheny County’s fragmentation for decades, there is precedent for regionalization. In 2018, the Wyoming Valley Sanitary Authority in northeastern Pennsylvania brought together 32 small communities to collectively manage their stormwater responsibilities. The agency’s leaders noted that they’re collectively saving as much as 50% of their costs by working together. 
+
+more_stories: 117
 
 The new authority can build stormwater projects "anywhere in the watershed,” Adrienne Vicari, a consultant for the authority, said at an October 2018 sewage conference in Monroeville. That freedom allows the authority to tackle the region’s biggest water problems at the lowest price. 
 
@@ -159,8 +161,10 @@ Batroney said it’s time for the region to come together again before another t
 
 *The Heinz Endowments also provides funding to PublicSource.
 
-*Oliver Morrison is PublicSource’s environment and health reporter. He can be reached at oliver@publicsource.org or on Twitter [@ORMorrison](https://twitter.com/ORMorrison).*
+*Oliver Morrison is PublicSource’s environment and health reporter. He can be reached at oliver@publicsource.org or on Twitter @ORMorrison.*
 
 *This story was fact-checked by Sierra Smith.*
 
 *Good River: Stories of the Ohio is a series about the environment, economy and culture of the Ohio River watershed, produced by seven nonprofit newsrooms. To see more, please visit [ohiowatershed.org](https://www.ohiowatershed.org/).*
+
+[]
