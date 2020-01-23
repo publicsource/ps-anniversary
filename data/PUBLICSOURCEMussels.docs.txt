@@ -2,7 +2,7 @@ headline: Fighting for mussels: Experts are working to get to the bottom of thei
 author: Carrie Blackmore Smith
 
 organization: PublicSource
-pub: Jan. 7, 2019
+pub: Jan. 7, 2020
 
 feature_img.src: ./assets/story-images/PUBLICSOURCE-mussels/IMG_5450.jpg
 feature_img.caption: U.S. Forest Service Fisheries Research Biologist Wendell R. Haag holds a wartyback mussel (top left) and a pimpleback mussel to show the differences in the species. (Photo by Carrie Blackmore Smith/PublicSource)

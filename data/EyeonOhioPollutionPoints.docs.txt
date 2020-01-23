@@ -2,7 +2,7 @@ headline: We mapped out the toxic wastewater discharges along the Ohio River. He
 
 author: Bonnie Jean Feldkamp
 organization: Eye on Ohio
-pub: Jan. 15, 2019
+pub: Jan. 15, 2020
 
 feature_img.src: ./assets/story-images/EYEONOHIO-pollutionpoints/Industrial-Waste-40.jpg
 feature_img.caption: Chuck Keller (left), from Fort Thomas Kentucky, and Jeremy Shannon, from Southgate, Kentucky, walk near the Licking River Greenway and Trails next to the Licking River in Covington, Kentucky. In addition to point pollution sources, non-point pollution like grass fertilizer runs off into the river as well. (Photo by Leigh Taylor/Eye on Ohio)

@@ -2,7 +2,7 @@ headline: Whose job is it to reduce toxic mercury in the Ohio River?
 author: Jeff Brooks-Gillies
 
 organization: Environmental Health News
-pub: Jan. 15, 2019
+pub: Jan. 15, 2020
 
 feature_img.src: ./assets/story-images/EHN-mercury/Anglers.jpg
 feature_img.caption: Anglers at the Falls of the Ohio State Park. (Courtesy of William Alden/flickr) 
@@ -18,7 +18,6 @@ Figuring out how much of the toxic is coming from local industries or wind curre
 There’s a legal pathway for further ratcheting down mercury releases directly to the river, but the regulated industries say they already meet strict permit requirements and that path has hit diminishing returns. The industries say the problem lies in regional and global air emissions, but the legal levers there aren’t as easy to pull.
 
 {.graphic}
-
 title: Ohio River fish found with high mercury levels 
 photo: ./assets/story-images/EHN-mercury/FINAL_map.jpg
 caption: This map shows the locations of 34 fish tissue samples collected from the Ohio River from 2010 to 2016 that met or exceeded 0.3 milligram methylmercury per kilogram fish tissue, the level deemed safe for human health by the U.S. Environmental Protection Agency. From the same data, 274 samples were below 0.3 mg/kg criteria. (Data Source: ORSANCO. Graphic by Remy Davison)
