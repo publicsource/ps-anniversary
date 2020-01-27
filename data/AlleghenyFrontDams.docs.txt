@@ -1,0 +1,155 @@
+headline: ‘Unbuilding’: What might happen if dams are removed in the Ohio River watershed
+author: Julie Grant
+organization: The Allegheny Front
+pub: Jan. 30, 2020
+
+feature_img.src: ./assets/story-images/ALLEGHENYFRONT-dams/LeavittsburgDam.jpg
+feature_img.caption: The dam in Leavittsburg, Ohio, is one of nine in a regional plan to be removed along the Mahoning River, once heavily polluted from steel mills and other industries. (Photo by Julie Grant/The Allegheny Front)
+twitterlink.src: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fdam-removal-ohio-river-watershed.html&amp;text=%E2%80%98Unbuilding%E2%80%99%3A%20What%20might%20happen%20if%20dams%20are%20removed%20in%20the%20Ohio%20River%20watershed%20%23ohioriverstories
+facebooklink.src: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fdam-removal-ohio-river-watershed.html
+[+sections]
+{.audio}
+link: ./assets/audio/river-safety.mp3
+{}
+The Ohio River watershed is dotted with thousands of small dams. Many are remnants of bygone days of grain mills and the steel industry, which used dams to pool water needed during production. The dams are no longer needed. And, because they can be a safety hazard to boats and a barrier to fish, there are efforts to remove them and restore free-flowing rivers. But not everyone is ready for it.
+
+h2: A mayor’s vision starts with dam removal
+
+After years of pushing for the removal of the old steel industry dam crossing the Mahoning River in his northeastern Ohio village near the Pennsylvania border, Lowellville Mayor Jim Iudiciani said it’s coming down this summer. 
+
+“They call me the dam mayor, and for good reason, finally,” Iudiciani joked.
+
+{.single-photo-small}
+photo: ./assets/story-images/ALLEGHENYFRONT-dams/Jim-Iudiciani_2.jpg
+caption: Jim Iudiciani, mayor of Lowellville, Ohio, stands in front of a dam that’s scheduled to be removed this summer. He hopes removing the dam will spur economic growth in his community. (Photo by Julie Grant/The Allegheny Front)
+{}
+Lowellville’s low-head dam will be the first in a [regional plan to remove nine dams](https://www.eastgatecog.org/environmental-planning/mahoningriver) along the Mahoning, a river that crosses into Pennsylvania and joins the Shenango to form the Beaver River, which flows into the Ohio. 
+
+The Lowellville dam is a series of eight concrete piers that point downstream. The river flows over them lengthwise. Right now, people can’t canoe and kayak on the Mahoning without pulling their boats out of the river at this and other dam sites. 
+
+“Getting around the hydraulics at the dams is very dangerous,” Iudiciani said.
+
+Ohio regulators describe low-head dams, which can range from a 25-foot drop-off to just 6 inches, as “[drowning machines](http://watercraft.ohiodnr.gov/lowheaddams)” because canoes and other watercraft can get trapped in the recirculating current below the dam and be drawn underwater. 
+
+{.single-photo-small}
+photo: ./assets/story-images/ALLEGHENYFRONT-dams/Lowellville_Dam.jpg
+caption: The Lowellville dam along the Mahoning River. Like many low-head dams, it’s considered a safety hazard. (Photo courtesy of Eastgate Regional Council of Governments)
+{}
+Once the Lowellville dam is removed, Iudiciani expects more people in canoes and kayaks to make their way down the Mahoning, and he wants his riverfront village to become an outdoor recreation hotspot. 
+
+Near the dam site, Iudiciani said Lowellville plans to build a new park with a livery to rent canoes. Along the riverfront, he said there’s talk of a new restaurant, bike and kayak rentals, a yoga studio, a bakery and new living space.
+
+“We're looking at four- or five-story buildings being built on the river, possibly B&Bs and/or condos with multi-use parking underneath,” Iudiciani said, “This whole thing's gonna be a catalyst for us for development.” 
+
+h2: The regional plan
+
+After the [steel mills closed in the Mahoning Valley](https://www.fishandboat.com/Transact/AnglerBoater/AnglerBoater2019/Documents/2019-0506mj07-fauna.pdf), from the 1960s through the early 1980s, the river was still polluted. 
+“Back in the early ‘80s and ‘90s when the [Ohio Environmental Protection Agency surveyed this region](https://www.epa.ohio.gov/portals/35/documents/mahon94.pdf), they found fish with lesions and tumors on them,” said Stephanie Dyer, who serves as environmental program manager for Eastgate Regional Council of Governments, the agency leading the Mahoning dam removal project. “The macroinvertebrate community was poor.” 
+Once the last steel mill shut down, “...things were slowly turning around. However, we still had the contamination of legacy pollutants there,” Dyer said. In the late 1990s, the U.S. Army Corps of Engineers started studying [dredging the river](http://www.villageoflowellville.com/wp-content/uploads/2013/07/MAHONING-MAIN-REPORT-EIS.pdf) to remove this legacy pollution from the streambed, but the Corps never moved forward with river cleanup, according to Dyer.
+{.inline-img}
+img: ./assets/story-images/ALLEGHENYFRONT-dams/FM-removal-construction.jpg
+caption: Removal of the Fairless Murray dam in Camp Allegheny in Ellwood City, Pa., in 2010. (Photo courtesy of American Rivers)
+{}
+A more recent [study by the Ohio EPA](https://www.epa.state.oh.us/Portals/35/tmdl/TSD/Lower%20Mahoning%202013/2013-LMAHO-2_Mahoning%20TSD_FINAL.pdf) found heavy metals, polychlorinated biphenyls (PCBs), and polycyclic aromatic hydrocarbons (PAHs) in Mahoning River sediment, especially behind low-head dams. Water slows behind dams, [creating a pool](https://science.jrank.org/pages/1942/Dams-Impact-dams.html) where sediment and pollution settle out.
+Eastgate and communities in the Mahoning Valley were looking for solutions. “One of the ideas that everybody tried to rally around ... was not just the dredging, but also the removal of the dams,” Dyer said.
+In the early 2000s, an Ohio EPA grant program assisted communities on the nearby Cuyahoga River to remove dams.
+“And that's when it started to click here at Eastgate, as well as within the region, that … we can do this on our own as a local community, as a region,” she said.
+According to Eastgate, Lowellville has since gotten funding through the Ohio EPA [Water Resource Restoration Sponsor Program](https://www.epa.ohio.gov/defa/Resource/the-water-resource-restoration-sponsor-program-wrrsp-protects-turkey-creek-estuary), in the amount of $2.38 million to remove the Lowellville dam. Three miles downstream, the village of Struthers has secured $2.33 million to remove a dam with funds from the same program and through a portion of a settlement with LTV Corporation, which once operated steel mills in Struthers and Youngstown. Youngstown has secured $6 million to remove three more dams along the Mahoning. 
+
+“This river built the valley,” Dyer said. “And so now it's time we all realized, which we're doing, is giving back to the river and creating the free-flowing state it should be in right now.”
+
+h2: ‘Leave the dam alone’
+
+About 20 miles up river, the view of dam removal is much different in Leavittsburg, a rural village in Warren Township.
+“You know what? We just want to be left alone,” said Edward Anthony, a Warren Township trustee, who points to an October [meeting about removing the dam](https://www.tribtoday.com/news/local-news/2019/10/warren-township-residents-question-leavittsburgh-dam-removal/) that was filled with people opposed to the idea. 
+{.single-photo-small}
+photo: ./assets/story-images/ALLEGHENYFRONT-dams/Edward_Anthony.jpg
+caption: Edward Anthony, a trustee in Ohio’s Warren Township, pictured at the township office along with residents who oppose removing the Leavittsburg dam. (Photo by Julie Grant/The Allegheny Front)
+{}
+Water currently pools behind the dam, and local fire officials say if the dam is removed, they won’t have that as a secondary water source for emergencies. Health officials also see a problem. There is no public sewer infrastructure in this part of Trumbull County, and some houses have OEPA permits to treat and release their own sewage into the Mahoning. Frank Migliozzi, health commissioner of the Trumbull County Combined Health District, is concerned that removing the dam will lower water levels, and, “...permitted pipes could be discharging on dry land, instead of into the water,” creating problems, he said. 
+“So it's a grave concern,” Anthony said, “If they proceed with this [dam removal], then we're going to be left with the mess. I think everybody would be happy if they would leave the dam alone.”
+Others in Warren Township worry about what the dam removal means for their pontoon boats. 
+{.inline-img}
+img: ./assets/story-images/ALLEGHENYFRONT-dams/Leave-the-Dam.jpg
+caption: Community opposition to removing the Leavittsburg dam is seen along the Mahoning River. (Photo courtesy of Eastgate Regional Council of Governments)
+{}
+Russell St. Clair, 70, grew up in Leavittsburg, and for 39 years worked at General Motors, which shut down last year. 
+“My kids grew up fishing in that river,” he said. “They fished there every day in the summer when they were off school.”
+His grandkids are being raised along the Mahoning too. The dam slows down water behind it, so it’s almost like a lake. Floating on pontoon boats, he and his neighbors report catching muskie and perch, seeing river otters and bald eagles.
+{.single-photo-small}
+photo: ./assets/story-images/ALLEGHENYFRONT-dams/Residents.jpg
+caption: Jim Haslett, Mike Arnold and Russell St. Clair (left to right) oppose taking down the Leavittsburg dam because they may lose their fishing spot as well as the slow-moving water that allows them to float on pontoon boats. (Photo by Julie Grant/The Allegheny Front)
+{}
+“The river now is better than it's ever been,” St. Clair said. They worry about how removing the dam will affect their fishing spots and other wildlife.
+“We're gonna lose the eagles, the blue herons we have here, the mink, the beaver, the river otter,” said Warren Township resident Mike Arnold. “There's nothing for them to eat. The fish will be gone. They can't survive in that kind of water.”
+h2: ‘If you unbuild it, they will come’
+The Ohio EPA studied water quality in the Mahoning in 2006 and found that the dams in Leavittsburg and other communities were contributing to impairment of fish and other species. According to Eastgate, there has been no “formal determination” of whether, and how much, dam removal in Leavittsburg would impact water levels.
+When a dam is released, there’s still going to be water running down the river, “That's not going anywhere, that will always be there,” according to Ben Lorson, a fish passage biologist with the Pennsylvania Fish and Boat Commission.
+“The type of recreation may change a little bit, rather than the large pleasure boats … pontoon boats … you may have more paddle craft canoes and kayaks,” he said.
+{.pullquote}
+text: “There's kind of this misconception that you're taking a good fishing spot away, when in reality those fish want to go upstream, they're just not able to because the dam’s in their way.” 
+twitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fdam-removal-ohio-river-watershed.html&amp;text=%E2%80%9CThere's%20kind%20of%20this%20misconception%20that%20you're%20taking%20a%20good%20fishing%20spot%20away%2C%20when%20in%20reality%20those%20fish%20want%20to%20go%20upstream%2C%20they're%20just%20not%20able%20to%20because%20the%20dam%E2%80%99s%20in%20their%20way.%E2%80%9D%20%20%23ohioriverstories
+facebook: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fdam-removal-ohio-river-watershed.html
+{}
+A dam can create good fishing spots because fish get blocked by the dam, but removing the dam is actually better for fish populations, he said. 
+“There's kind of this misconception that you're taking a good fishing spot away, when in reality those fish want to go upstream, they're just not able to because the dam’s in their way.” 
+Lorson gives the example of the high quality trout fishery at Spring Creek in Centre County, Pennsylvania. The [fish population behind the McCoy Dam](https://www.fishandboat.com/Transact/AnglerBoater/AnglerBoater2011/JanuaryFebruary/Documents/04spring_ck.pdf) was less than a third of that in the free-flowing parts of the stream. “And once that dam was removed, it slowly caught back up within about three years to what we would expect that trout population to be in the rest of the stream,” he said. 
+Lisa Hollingsworth-Segedy, director of river restoration for the nonprofit American Rivers, said she’s also seen this firsthand in Pennsylvania. “Removing a dam provides an almost instant response ecologically,” she said. “I've been out at dam removal sites and within 10 minutes of the equipment being turned off, I've seen fish moving up through where they couldn't get through before. It's that fast.”
+
+{.single-photo-small}
+photo: ./assets/story-images/ALLEGHENYFRONT-dams/Lisa_H_Segety.jpg
+caption: Lisa Hollingsworth-Segety, director of river restoration for American Rivers, has been involved in the removal of more than 75 obsolete dams in Pennsylvania, where she’s based. She stands in front of one of those removal locations along Slippery Rock Creek in the Beaver River watershed. (Photo by Julie Grant/The Allegheny Front)
+{}
+According to her calculations using the state’s dam safety database, about 10% of Pennsylvania’s dams have been removed in the past 20 years. That’s [330 dams removed of more than 3,000 dams total](https://www.google.com/maps/d/viewer?mid=11mZOCGI-p1i_qQl5aFSLPda9VHs9Yv7m&ll=47.25876822009996%2C-113.39461834999997&z=4), making Pennsylvania what she calls a national leader in dam removal.
+Dam removals remind U.S. Fish and Wildlife Service fish biologist Jessica Collier of the saying, ‘If we build it, they will come’ — with a twist. “Oftentimes when it comes to aquatic organism passage, we like to say, ‘If you unbuild it, they will come.’”
+h2: Bring back sturgeon to the Ohio
+As a graduate student at the University of Toledo, Collier worked on assessing the habitat for [lake sturgeon](http://wildlife.ohiodnr.gov/species-and-habitats/species-guide-index/fish/lake-sturgeon) in the Maumee River, where the Toledo Zoo & Aquarium and other partners have been attempting to repopulate the ancient species. The Maumee flows into Lake Erie.
+{.single-photo-small}
+photo: ./assets/story-images/ALLEGHENYFRONT-dams/Jessica_Collier.jpg
+caption: U.S. Fish and Wildlife Service fish biologist Jessica Collier holds a small lake sturgeon (Acipenser fulvescens) found while conducting population surveys on the Detroit River. (Photo courtesy of Justin Chiotti/U.S. Fish and Wildlife Service)
+{}
+Lake sturgeon have been largely wiped out from the Great Lakes region. But Collier loves these behemoth, long-nosed, long-lived fish, they can grow to 200 pounds, and live 150 years, and she hopes to see them return to the Ohio River basin as well. 
+“They've been around since the time when dinosaurs walked on the earth,” she said. “Their populations have really taken a hit because of human activity.” Today, the fish is considered ‘endangered’ by the Ohio Department of Natural Resources and in every other state and Canadian province throughout most of their range, according to Collier.
+At one time, sturgeon were considered valuable in many industries. Their meat could be smoked and eaten; their eggs were coveted as caviar; “their fat was used as oil for lights, lamps, and they were used to power steamships,” Collier explained. 
+But lake sturgeon were overfished, their habitat destroyed and their long migration paths to spawn, sometimes hundreds of miles long, were blocked off. “We started building a lot of dams on rivers and creating reservoirs,” she said. 
+In 2018, a large dam was removed in the Sandusky River, another Lake Erie waterway in the Toledo area. “And within a couple months of dam removal, there was a sturgeon that migrated up the river,” Collier recalled. “It was the first time a sturgeon had been seen in that river system in maybe a century.” 
+Collier thinks taking down a string of dams along one river could help the sturgeon’s recovery in the Ohio River basin. “Removing those nine dams from the Mahoning River could be incredibly important for increased populations of lake sturgeon,” she said.
+graphic-title: Mahoning River Restoration and Dam Removal
+
+<iframe width="100%" height="800px" src="https://eastgate.maps.arcgis.com/apps/MapJournal/index.html?appid=127a0e7b7db14b38b0b19548cbafaf0f" frameborder="0" scrolling="no"></iframe>
+The only known breeding population of lake sturgeon in the Ohio River watershed is in Indiana’s White River, according to Donovan Henry, fish biologist with the U.S. Fish and Wildlife Service, and coordinator of the [Ohio River Basin Fish Habitat Partnership](http://orbfhp.org/) and the [National Fish Passage Program](https://www.fws.gov/pacific/Fisheries/sphabcon/NationalFishPassage.html).
+“There is a dam there for hydropower,” Henry explained. “It's quite a large river, and [sturgeon] can't ascend it any farther, so they stop right there below that dam to spawn.”
+There is a push by [fishing groups](https://freetheriver.com) and others to have that dam removed and to restore the natural river flow. “In a natural setting, the habitats that they would spawn in would be more functional,” he said.
+h2: Addressing climate change
+Removing dams can also be a tool to mitigate some impacts of climate change, according to Henry, because it helps restore access to a variety of habitats for fish and other aquatic organisms. “That way they have access to different depths and different flows that as temperatures vary, they can actually be mobile and actually move to appropriate habitat for whatever climate condition there is,” he said.
+ 
+Parts of the Ohio River basin are [predicted](https://www.lrh.usace.army.mil/Portals/38/docs/orba/USACE%20Ohio%20River%20Basin%20CC%20Report_MAY%202017.pdf) to have more rainfall in the coming decades. Already, strong storms, when coupled with current land use practices “...are one of the biggest impairments to all of the streams in our Ohio River basin,” Henry said, eroding stream banks and washing away organisms in the streambed.
+
+{.pullquote}
+text: “It's impacting businesses and bridges and things like that. Removing that dam … keeps that stream functioning normally and keeps it in its historic channel.”
+twitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fdam-removal-ohio-river-watershed.html&amp;text=%E2%80%9CIt's%20impacting%20businesses%20and%20bridges%20and%20things%20like%20that.%20Removing%20that%20dam%20%E2%80%A6%20keeps%20that%20stream%20functioning%20normally%20and%20keeps%20it%20in%20its%20historic%20channel.%E2%80%9D%20%23ohioriverstories
+facebook: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fdam-removal-ohio-river-watershed.html
+{}
+ 
+Dams can play into this problem, as flows increase from intense rain events. Henry said experts are seeing stream and bank alignments move. “That's starting to wash away areas downstream, where it didn't historically wash away,” he said. “It's impacting businesses and bridges and things like that. Removing that dam … keeps that stream functioning normally and keeps it in its historic channel.”
+
+His group is creating wetlands and floodplains in upper watersheds to hold back some of this water. Together with removing dams, this “...mitigate[s] some of the impacts of climate change,” he said.
+
+h2: Economic vitality
+
+Experts like Henry and American Rivers say there is no exact watershed-wide inventory of dams in the Ohio River basin because there is a discrepancy over the definition of a dam, for instance, whether a dam in a pond should be counted. 
+
+But there are “...thousands and thousands we know in the Ohio River basin by any definition,” Henry said.
+
+Many communities are like Leavittsburg and have concerns about taking down dams, according to Henry. But as more are removed, not only does aquatic habitat, water quality and safety improve, Henry said, but so does the river-based economy in many places. 
+
+“Pretty soon you have people kayaking and paddling and canoeing on the rivers,” Henry said. “As people who are using the river are making stops along the way to dine and shop, the community and the river start tying together and it does promote economic vitality.”
+Standing on the banks of the Mahoning, Lowellville Mayor Jim Iudiciani wants that future for his village. He remembers his childhood here. “When I was a kid, if I went near that river, we’d get smacked,” he laughs, “...because it was so dirty and dangerous.” 
+He expects the water quality to improve once the dam is removed in Lowellville this summer. But looking at the river roll over the dam today, he sees beauty in it. 
+“And I'm getting this surreal feeling, a sad feeling, too, that now it's coming out, we're never going to see this again,” he choked up. 
+“But it needs done, you know?” 
+*Julie Grant, managing editor for The Allegheny Front, authored this story. She can be reached at julie@alleghenyfront.org.*
+
+*Good River: Stories of the Ohio is a series about the environment, economy and culture of the Ohio River watershed, produced by seven nonprofit newsrooms. To see more, please visit [ohiowatershed.org](https://www.ohiowatershed.org/).*
+
+[]
