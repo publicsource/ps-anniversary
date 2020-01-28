@@ -1,0 +1,133 @@
+headline: Halted Waters: The Seneca Nation and the building of the Kinzua Dam
+author: Maria Diaz-Gonzalez
+organization: PublicSource
+pub: Jan. 30, 2020
+
+feature_img.src: ./assets/story-images/PUBLICSOURCE-kinzuadam/lead.jpg
+feature_img.caption: Kinzua Dam and Allegheny Reservoir. (Photo by Maria Diaz-Gonzalez/PublicSource)
+twitterlink.src: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fseneca-nation-and-the-building-of-the-kinzua-dam.html&amp;text=Halted%20Waters%3A%20The%20Seneca%20Nation%20and%20the%20building%20of%20the%20Kinzua%20Dam%20%23ohioriverstories
+facebooklink.src: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fseneca-nation-and-the-building-of-the-kinzua-dam.html
+[+sections]
+Looking upstream, the Kinzua Dam seems to protrude brusquely from the Allegheny River. Nestled securely between the rolling hills of Warren County, Pennsylvania, the dam holds the river back. Behind it, the resulting Allegheny Reservoir stretches 27 miles long and 120 feet deep. 
+
+The Pittsburgh District of the United States Army Corps of Engineers completed construction of the Kinzua Dam in 1965 and manages it to this day. In 1936, Congress authorized the building of the dam as part of a system of reservoirs on the Monongahela and Allegheny rivers. According to Rose Reilly, a biologist with the Pittsburgh District of the Army Corps of Engineers, the Kinzua Dam has two congressional purposes: flood control and water quality improvement for the Pittsburgh region.
+
+The formidable Kinzua Dam, which protects Pittsburgh from flooding and pollution, came at a steep price for the Seneca Nation of Indians. They lost nine communities and 10,000 acres of their Allegany Territory to the dam. Pressure from climate change, however, could threaten the protection gained from the Seneca Nation’s coerced sacrifice.
+
+{.single-photo-small}
+photo: ./assets/story-images/PUBLICSOURCE-kinzuadam/map.jpg
+caption: (Map created by Blue Raster)
+{}
+
+In 1956, plans for the Kinzua Dam — which for the previous two decades had been vague and nebulous — began to move forward. Twenty years earlier, in the infamous St. Patrick’s Day Flood, the entire Ohio River Basin had experienced catastrophic flooding. In Pittsburgh alone, water levels rose 21 feet above the usual flood level. In one day. 
+
+The devastation caused by the flood lent urgency to long-standing calls for a flood control project on the Allegheny River. Congress responded by passing the Flood Control Act of 1936, which paved the way for the eventual construction of the Kinzua Dam. Fervor for the project waned for many years as the United States became embroiled in military conflict. By the mid-1950s, Congress and the Army Corps of Engineers were ready to move forward. Dennis Bowen Sr., a Seneca survivor of Kinzua Dam, considers dam building an essential part of the federal government’s post-war strategy. “Keep in mind,” he says, “that, by the early 1950s, this was after World War II and the Korean War. There were a lot of white families that needed jobs, they needed industry, and those factories, those industries all across the country needed electric power. And so why not steal Indian land and build a dam and make hydroelectric power?”
+
+In October 1956, against the Seneca Nation’s wishes, the Army Corps of Engineers began surveying Allegany Territory land in preparation for the Kinzua Dam. The proposed structure would require the flooding or condemnation of 10,000 acres of the Allegany Territory.
+
+Much was at stake in the Kinzua Dam challenge: losing their land would eventually cost around 600 Seneca people their homes. In the balance hung communities like Red House, New York. Bowen grew up there, on the Allegany Territory. Red House was a small town that spanned the Allegheny River; connected by the eponymous Red House Bridge. He remembers his town as self-sufficient; its residents regularly canned vegetables, cut firewood, fished and hunted. Living there, he was happy.
+
+{.single-photo-small}
+photo: ./assets/story-images/PUBLICSOURCE-kinzuadam/1.jpg
+caption: Fish near the base of Kinzua Dam. (Photo by Maria Diaz-Gonzalez/PublicSource)
+{}
+Red House lay in the Kinzua Dam’s “take area” — defined by the Army Corps of Engineers as any land behind the structure that fell below 1,365 feet of elevation. All of that land became subject to a flowage easement, meaning it could experience flooding due to the operations of the reservoir. Some of it is permanently inundated, construction or habitation is prohibited on the rest. The Army Corps used the flowage easement to forcefully relocate the inhabitants of the take area, including those of Red House and other towns. They then burned the towns. According to Bowen, his childhood home is the first one shown succumbing to the flames in the 2017 documentary Lake of Betrayal. Many of the markers of traditional Seneca life, like their houses, wood stoves and gardens, were consumed in such fires. The losses, both physical and intangible, reverberated across the Seneca Nation. 
+
+Stephen Gordon, a Seneca elder, grew up in a town called Coldspring, which was also within Kinzua Dam’s take area. In Coldspring, he was surrounded by fluent speakers of the Seneca language. According to Gordon, his great-grandmother, Hannah Abrams, championed the continued use of their language in the home. She would say to his mother, “You leave that English language at the road. You don’t bring it into this house. It isn’t spoken here.”
+
+In his mother’s time and in his own, the New York state public education system aggressively pushed assimilation for Native children. The education system, Gordon relates, hoped to erase his community’s indigeneity. “They wanted us to become a part of the melting pot. And in order to do that, it was important that the education system drill it into us that you have to learn English, you have to learn mathematics, you have to learn history. And that your history doesn’t matter,” he says. 
+
+Despite this, the Seneca language persisted, especially among older adults. Many Seneca elders however, passed away in the aftermath of the condemnation and burning of their homelands. They died, Bowen stresses, of broken hearts.
+
+{.single-photo-hero}
+photo:  ./assets/story-images/PUBLICSOURCE-kinzuadam/3.jpg
+alt: The Kinzua Dam spillway. (Photo by Maria Diaz-Gonzalez/PublicSource)
+caption: The Kinzua Dam spillway. (Photo by Maria Diaz-Gonzalez/PublicSource)
+{}
+The devastation nearly stifled the passing down of the Seneca language. “That was the signal,” Gordon says. He describes 1964 as “the signal of change, of leaving our past behind.”
+
+With an entire world at stake — a homeland, a way of life, a language — the Seneca Nation did not want to cede its territory and launched a legal case to protect it.
+
+The Seneca Nation grounded its legal defense in the Treaty of Canandaigua. The 1794 treaty affirmed a “permanent friendship” between the fledgling United States and the Hodinöhsö:ni (Iroquois Confederacy, of which the Seneca Nation was a member). 
+
+President George Washington ordered the negotiation of the treaty with the hope of preventing a military alliance between the Hodinöhsö:ni and Ohio Territory Natives, which would have posed an existential threat to the United States. The treaty established in writing the extent of the Seneca Nation’s territory: an area that encompassed the entirety of western New York. It declared of the land that “the United States will never claim the same, nor disturb the Seneka Nation ... in the free use and enjoyment thereof: but it shall remain theirs, until they choose to sell the same to the people of the United States, who have the right to purchase.”
+
+Robert Odawi Porter, a lawyer and former president of the Seneca Nation, asserts that treaties with Native Nations are legally the same as treaties with international ones. They are negotiated by the president, and ratified by a two-thirds vote in the Senate. They also carry the binding force of federal law.
+{.parallax_img}
+src: ./assets/story-images/PUBLICSOURCE-kinzuadam/12.jpg
+{}
+In 1956, the Seneca Nation believed in the words of the treaty, and in the significance of George Washington’s legally binding promises. Seneca leaders asserted that their lands could not be surveyed or condemned by the Army Corps of Engineers because the Treaty of Canandaigua remained in effect. In early 1957, however, a federal court decided against them. The judge in United States v. 21,250 Acres of Land Etc. ruled that the Seneca Nation could not bar federal agents from entering its territory and could not resist the taking of its land via eminent domain. The ruling declared that the Treaty of Canandaigua could not actually protect Seneca Nation land from seizure because it “cannot rise above the power of Congress to legislate.”
+
+Seneca leaders appealed the ruling. In doing so, they challenged centuries of racist legal precedent. The judge in United States v. 21,250 Acres of Land Etc. cited the 1903 Supreme Court Case Lone Wolf v. Hitchcock to affirm the federal government’s right to expropriate treaty-protected reservation lands. The opinion in Lone Wolf granted Congress the right to unilaterally abrogate an Indian treaty, arguing that that no treaty could be interpreted to “materially limit and qualify the controlling authority of Congress ... when the necessity might be urgent for a partition and disposal of the tribal lands.”
+
+The Supreme Court leaned on racist notions about Native Americans to defend this decision. The opinion cited a passage from an earlier Supreme Court case Beecher v. Wetherby. The passage stated that in exercising its power to displace Natives, the federal government would presumably “be governed by such considerations of justice as would control a Christian people in their treatment of an ignorant and dependent race.”
+
+By 1959, these centuries-old forces closed the Seneca Nation’s legal options against the Kinzua Dam. 
+
+The Seneca people offered yet another way. 
+
+In 1957, Seneca leaders hired civil engineer Arthur E. Morgan, the first chairman of the [Tennessee Valley Authority](https://www.tva.gov/About-TVA/Our-History), to explore alternate flood control solutions for the Pittsburgh region. Over the next three years, Morgan and the Seneca Nation argued in court, on television and before Congress that the Kinzua Dam was not an optimal solution to flooding in the Ohio River Basin. 
+
+{.pullquote}
+text: “They wanted us to become a part of the melting pot. And in order to do that, it was important that the education system drill it into us that you have to learn English...”
+twitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fseneca-nation-and-the-building-of-the-kinzua-dam.html&amp;text=%E2%80%9CThey%20wanted%20us%20to%20become%20a%20part%20of%20the%20melting%20pot.%20And%20in%20order%20to%20do%20that%2C%20it%20was%20important%20that%20the%20education%20system%20drill%20it%20into%20us%20that%20you%20have%20to%20learn%20English...%22%20%23ohioriverstories
+facebook: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fseneca-nation-and-the-building-of-the-kinzua-dam.html
+{}
+
+Instead, Morgan put forth the Conewango-Cattaraugus Plan. In it, he proposed a diversion dam near Coldspring, New York, to divide the flow of the Allegheny River. According to a Buffalo Courier-Express newspaper article from April 10, 1960, Morgan’s dam would reroute some of the river’s water into two outlets: Lake Erie and Conewango Creek by Waterboro, New York. On its way toward Lake Erie, diverted water would fill a natural depression in Conewango Valley, forming a recreational lake. 
+
+Morgan held that the Conewango-Cattaraugus plan had several advantages over the Kinzua Dam. He contended that having Lake Erie as an outlet provided his plan with much greater water storage capacity than the dam. This would afford the Pittsburgh region increased protection from flood waters and create greater opportunities for hydropower exploration, he says. The engineer also affirmed that the lake at Conewango Valley would be far more stable than the Allegheny Reservoir, whose seasonal fluctuations would reveal several miles of “unsightly mud flats” every year. 
+
+Morgan and the Seneca Nation’s efforts succeeded in delaying the construction of the dam and rallying moderate government and strong public support for their cause. Luminaries like Eleanor Roosevelt voiced support for a resolution to the region’s flooding problems that could leave Seneca lands undisturbed. Johnny Cash recorded a song “As Long as the Grass Shall Grow,” chronicling the battle against the Kinzua Dam. But it was not enough. In late 1957, the Corps hired engineering firm Tippetts-Abbett-McCarthy-Stratton [TAMS] to evaluate its plans and Morgan’s proposal. TAMS concluded that the Conewango-Cattaraugus plan would be too expensive. Morgan contended that TAMS was biased in favor of the Corps because the federal agency was its biggest client. 
+
+On Oct. 22, 1960, groundbreaking for the Kinzua Dam began, promising to drown an invaluable part of the Seneca’s world. 
+
+The federal government has a long history of betraying Native people for American gain. In Bowen’s words, “Indian people have always been the supermarket for America.”
+
+At the Kinzua Dam, the Seneca Nation’s loss protects the lower Allegheny valley from flooding and from the pollution of Pennsylvania’s heritage industries. The Army Corps of Engineers do this by varying the amount of water in the Allegheny Reservoir: they sequester water during periods of heavy precipitation and release it during dry spells. The former prevents downstream flooding and the latter dilutes pollution in the river’s water.
+
+{.single-photo-hero}
+photo:  ./assets/story-images/PUBLICSOURCE-kinzuadam/11.jpg
+alt: Kinzua Dam and Allegheny Reservoir. (Photo by Maria Diaz-Gonzalez/PublicSource)
+caption: Kinzua Dam and Allegheny Reservoir. (Photo by Maria Diaz-Gonzalez/PublicSource)
+{}
+
+Dams, like people, have lifespans. According to Reilly, the Corps biologist, the buildup of sediment (siltation) defines the lifespan of a dam and reservoir system. 
+
+Doug Helman, a supervisory natural resource manager with the Pittsburgh District of the Army Corps of Engineers, explains that when moving river water approaches a reservoir, it slows down. “And when the water slows down, then those nutrients and chemicals and silt drop down to the bottom of the river.”
+
+Over the years, the buildup of such (sometimes toxic) materials can fill an entire reservoir with sediment and render it [obsolete](https://caltrout.org/campaigns/matilija-dam) as a method of flood control. The Allegheny Reservoir is protected from siltation by its length; most of the river’s sediment drops off near the reservoir’s northern border in the Seneca’s Allegany Territory, over 20 miles away from the Kinzua Dam. 
+
+The system however, may face mounting pressure from climate change. According to members of the Pittsburgh District Army Corps of Engineers, the region has in recent years experienced record rainfall. Helman warns that these conditions may require that the Corps release reservoir water from the Kinzua Dam at a greater rate than they would like. This would likely increase flooding downstream. 
+
+Areas upstream of, and not protected by Kinzua Dam are also affected by the changing weather. Mike Debes, a floodplain manager with the Army Corps, says the Allegheny River valley’s development history is a leading cause of its flooding problems. “As more and more homes and roads and impervious structures and roads are built, more and more water is working its way into the small creeks, and more and more flooding is occurring.” 
+
+The growing imperviousness of the river’s floodplain, coupled with climate change, are bringing regular floods to communities that had rarely experienced them before. Those flood waters eventually find their way to the Allegheny Reservoir and Kinzua Dam, a system Reilly says is large enough to handle them, though it was built using climate data available before and during the 1960s.
+
+{.pullquote}
+text: “...There were a lot of white families that needed jobs, they needed industry, and those factories, those industries all across the country needed electric power. And so why not steal Indian land and build a dam and make hydroelectric power?”
+twitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fseneca-nation-and-the-building-of-the-kinzua-dam.html&amp;text=%E2%80%9C...There%20were%20a%20lot%20of%20white%20families%20that%20needed%20jobs%2C%20they%20needed%20industry%2C%20and%20those%20factories%2C%20those%20industries%20all%20across%20the%20country%20needed%20electric%20power.%20And%20so%20why%20not%20steal%20Indian%20land%20and%20build%20a%20dam%20and%20make%20hydroelectric%20power%3F%E2%80%9D%20%23ohioriverstories
+facebook: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fseneca-nation-and-the-building-of-the-kinzua-dam.html
+{}
+
+Debes says the education public officials and community members will need to deal with the wetter reality of the Allegheny River valley will take a lot of time. But the need is pressing. Homes, towns, communities — the very things the water now threatens — are, in Debes’ words, “one of the real basic things in life.” 
+
+The Kinzua Dam was built during a time in American politics known as the Termination Era: a period after World War II in which the country tried to assimilate all Native people. To this end, in 1953, Congress adopted House Concurrent Resolution 108, which called for dissolution of all Native Nations in New York, Florida, California and Texas as well as other nations it specifically named from other states. The resolution sought to “make the Indians within the territorial limits of the United States subject to the same laws and entitled to the same privileges and responsibilities as are applicable to other citizens of the United States.” Subjecting Natives to the “same laws” as other American citizens in effect dissolves their governments, institutions and land holdings. In essence, the resolution meant to terminate Native Nations as sovereign, culturally distinct entities. 
+
+Seneca people fought against the Kinzua Dam while the federal government held the position that their entire nation should cease to exist. Even the settlement act that the Seneca Nation negotiated with Congress in 1964, which secured funds for the relocation and rehabilitation of Seneca communities, demanded that the Seneca Nation submit a plan for its own termination by 1967.
+
+more_stories: 117
+
+The Seneca Nation was not terminated. Gordon explains that his people always consider seven generations. “The way it was explained to me,” he says, “it represents that first generation that we never saw ... and the seventh generation, we will not see.” In other words, the first of those seven generations is one’s great-great grandparents, and the last is one’s great-great grandchildren. According to Caleb Abrams, a young Seneca filmmaker, Seneca leaders used the settlement funds to create a foundation for their future generations by building robust infrastructure, education and social programs. 
+
+The Allegany Territory is a site of resurgence. “I feel like I’ve noticed a ... growing movement across Indian Country in Native communities all across Turtle Island — North America, as they call it,” says Abrams, “where indigenous people of all ages are taking steps to reclaim language and various cultural practices and integrate these things ... into their everyday life.”
+
+Gordon has been witnessing a revival of Seneca culture among the nation’s young people: “More of the children want to know who they are ... a lot of our children, if you go to ceremony, you’ll see that three-quarters of those in attendance are children.”
+
+The Seneca Nation has strengthened so as to never lose a part of itself again — for this generation and countless after. 
+
+*Maria Diaz-Gonzalez, a freelance journalist based in Queens, New York, authored this story for PublicSource. She can be reached at mdiaz94@alumni.stanford.edu.* 
+
+*This story was fact-checked by Matt Maielli.*
+
+*Good River: Stories of the Ohio is a series about the environment, economy and culture of the Ohio River watershed, produced by seven nonprofit newsrooms. To see more, please visit [ohiowatershed.org](https://www.ohiowatershed.org/).*
