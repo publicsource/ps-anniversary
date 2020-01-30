@@ -117,6 +117,7 @@ Collier thinks taking down a string of dams along one river could help the sturg
 graphic-title: Mahoning River Restoration and Dam Removal
 
 <iframe width="100%" height="800px" src="https://eastgate.maps.arcgis.com/apps/MapJournal/index.html?appid=127a0e7b7db14b38b0b19548cbafaf0f" frameborder="0" scrolling="no"></iframe>
+<div class="caption">(Courtesy of Eastgate Regional Council of Governments)</div>
 The only known breeding population of lake sturgeon in the Ohio River watershed is in Indiana’s White River, according to Donovan Henry, fish biologist with the U.S. Fish and Wildlife Service, and coordinator of the [Ohio River Basin Fish Habitat Partnership](http://orbfhp.org/) and the [National Fish Passage Program](https://www.fws.gov/pacific/Fisheries/sphabcon/NationalFishPassage.html).
 “There is a dam there for hydropower,” Henry explained. “It's quite a large river, and [sturgeon] can't ascend it any farther, so they stop right there below that dam to spawn.”
 There is a push by [fishing groups](https://freetheriver.com) and others to have that dam removed and to restore the natural river flow. “In a natural setting, the habitats that they would spawn in would be more functional,” he said.
