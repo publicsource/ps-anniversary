@@ -42,6 +42,9 @@
               <h2><%= section.value %></h2>
               <div class="wave-divider-inline"></div>
 
+              <% }else if(section.type == "graphic-title"){ %>
+                <h2><%= section.value %></h2>
+
             <% }else if(section.type == "divider"){ %>
               <div class="wave-divider-middle"></div>
 
@@ -316,7 +319,7 @@
                           <div class="row">
                             <div class="six columns offset-by-three">
                               <div class="story-page-body">
-                                
+
                       <% }else if(section.type == "embed"){ %>
                         </div> <!-- close story-page-body-->
                         </div> <!-- close eight columns-->
