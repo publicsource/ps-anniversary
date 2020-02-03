@@ -1,0 +1,147 @@
+headline: Could the Ohio River have rights? A movement to grant rights to the environment tests the power of local control
+author: Erin West
+
+organization: PublicSource
+
+pub: Feb. 4, 2020
+
+feature_img.src: ./assets/story-images/PUBLICSOURCE-riverrights/riverrights-collins2.jpg
+feature_img.caption: Emily Collins, executive director of Fair Shake Environmental Legal Services, on the bank of the Allegheny River in Pittsburgh. (Photo by Jay Manning/PublicSource)
+twitterlink.src: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fohio-river-rights-movement-grant-rights-environment-tests-power-local-control.html&amp;text=Good%20River%3A%20Could%20the%20Ohio%20River%20have%20rights%3F%20A%20movement%20to%20grant%20rights%20to%20the%20environment%20tests%20the%20power%20of%20local%20control
+facebooklink.src: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fohio-river-rights-movement-grant-rights-environment-tests-power-local-control.html
+[+sections]
+Can you imagine if the Ohio River and its tributaries had legal rights? While speculative, the idea isn’t necessarily far-fetched. This month marks the one-year anniversary of residents in Toledo, Ohio, bestowing Lake Erie with its own bill of rights.
+
+In 2014, Ohio declared a state of emergency after about 110 people fell sick from an algae bloom and about half a million area residents were instructed not to drink tap water for three days. Unhappy with existing state and federal environmental protection, area activists got creative.
+
+Using an emerging legal strategy termed “rights of nature,” they developed a ballot measure to give residents the ability to sue on behalf of Lake Erie, even if they can’t show harm to humans. 
+
+It’s a unique move — and it’s been challenged by conservative lawmakers and agribusiness groups like the Ohio Farm Bureau Federation. Opponents believe the measure will harm area industry and farmers, and after lobbying by the Ohio Chamber of Commerce, the Republican-controlled state Legislature added language intended to nullify it in an appropriations bill signed into law in May. The lake’s bill of rights also faces an ongoing lawsuit from an area farmer who said it wrongly exposes farmers to liability. 
+
+Thomas Linzey, co-founder and senior legal counsel of the Pennsylvania-based Community Environmental Legal Defense Fund [CELDF], sees the creation of the bill of rights as a tool to go beyond the protection offered by existing environmental regulations. His organization helped draft the measure, which has served as inspiration for similar proposals in cities like Buffalo, New York, and Flint, Michigan. 
+
+“I think Toledo is a real watershed moment,” Linzey said. Residents took local action because “it got bad enough for people to shift gears.” 
+
+In Pittsburgh, the idea of extending specific rights to a river is hypothetical — the mayor’s office said that rights-of-nature legislation is not currently being discussed. The city, however, was previously a leader in rights-of-nature legislation with a 2010 ordinance that banned natural gas drilling by giving Pittsburgh residents the legal standing to sue on behalf of the natural environment. 
+
+Ordinances of this type, however, are largely symbolic until courts either uphold or strike them down.
+
+{.single-photo-small}
+photo: ./assets/story-images/PUBLICSOURCE-riverrights/riverrights-ohio-river.jpg
+caption: A tugboat pushes barges along the Ohio River at the confluence of the Monongahela and Allegheny rivers, near Point State Park in Pittsburgh. (Photo by Ryan Loew/PublicSource)
+{}
+
+“In Pittsburgh and wherever else these laws exist, they’re just sitting there, not doing any good there,” Linzey said. “Folks need to start picking them up and enforcing.”
+
+But not everyone feels that way. Industry groups largely bristle at local ordinances that go beyond state and federal regulations, and state courts have struck down several local ordinances with language rebuking municipalities for overstepping their authority. And though they agree with the end goal, even some environmentalists question if the fight to push an untested area of law is worth the potential financial costs from litigation and loss in community morale if a law is defeated. 
+
+A recent complaint involving a “community bill of rights” adopted by Todd Township in Huntingdon County, Pa., is an example of the pushback rights-of-nature ordinances can face. The 2018 ordinance, which was later repealed, included a ban on two types of industrial agriculture and was drafted with help from CELDF. It’s been bluntly opposed by Pennsylvania Attorney General’s office, which said in a March 2019 response to the complaint that the ordinance is “without doubt” in violation of state law and must be repealed to avoid costly litigation.  
+
+ “CELDF knows this,” the filing said. “[M]ore to the point, so do the Courts.”
+
+h2: State of the law
+
+So why give rights to nature? Don’t the state and federal government already enforce environmental regulations?
+
+That’s the argument made by some industry groups that contend local environmental ordinances create a burdensome patchwork of rules municipalities aren’t authorized to enforce.
+
+David Spigelmyer, president of the Marcellus Shale Coalition, said in a statement to PublicSource that oil and gas drilling in Pennsylvania is already regulated appropriately and “so-called model ordinances or zoning proposals” pushed by environmental groups “are nothing more than backdoor attempts at banning strongly regulated natural gas development.”
+
+Linzey and other advocates, meanwhile, think current state and federal rules don’t do enough.
+
+"What we’ve worked on for the past 15 years is actually creating a legal argument that says the city does have that authority, and the city authority can override the state permit” Linzey said. “And that’s still a radical notion in legal circles.”
+
+In 2006, Tamaqua Borough in Schuylkill County, Pa., became the first place in the United States to recognize rights of nature in law when it banned toxic sewage dumping. 
+
+In 2013 and 2014, Highland Township in Chester County and Grant Township in Indiana County, respectively, adopted ordinances that banned hydraulic fracturing waste dumping. Both laws were challenged by the Pennsylvania Department of Environmental Protection [DEP] on the notion that they violated the state’s exclusive right to regulate natural gas activity under the 2012 Oil and Gas Act. Highland’s case was settled in favor of the DEP, but Grant’s case is ongoing. 
+
+{.parallax_img}
+src: ./assets/story-images/PUBLICSOURCE-riverrights/riverrights-allegheny-river.jpg
+{}
+
+A case involving the local authority of Robinson Township in Allegheny County to regulate fracking opened a pathway to limited local control. 
+
+In 2013, the Pennsylvania Supreme Court ruled that Robinson Township did not have authority to ban fracking, though it could restrict where it happens. The ruling was partly based on a provision in the state Constitution called the Pennsylvania Environmental Rights Amendment. 
+
+The 1971 amendment bestows the right to a clean environment on all Pennsylvania residents. In 2017, the state Supreme Court reaffirmed its 2013 decision, stating that the Robinson Township ruling was widely applicable to other municipalities.
+
+Grant MacIntyre, director of the University of Pittsburgh’s Environmental Law Clinic, sees this ruling as a landmark environmental decision. The initial case “started to upend what people assumed was the existing structure for interpreting that amendment,” he said, and the 2017 case “firmly placed the Environmental Rights Amendment back into the legal narrative.”
+
+The amendment grants rights to people — not natural entities like the Ohio River. But MacIntyre said the “the values in that amendment are certainly those that express value for the environment in a way that would seem to align with a natural rights movement.”
+
+Industry and agricultural groups view the Environmental Rights Amendment differently.
+
+Mark O’Neill, director of media and strategic communications for the Pennsylvania Farm Bureau, said current state regulation is consistent with the charge of the amendment. Local governments are permitted “considerable latitude in regulating farming” under state restrictions, O’Neill said. But “the key here for municipalities is that they exercise their regulatory authority in a reasonable, not punitive way.”
+
+O’Neill also noted that Pennsylvania courts have repeatedly struck down local ordinances.
+
+Emily Collins is watching rights-of-nature cases closely. She is the executive director of Fair Shake Environmental Legal Services, a Pittsburgh-based nonprofit law firm.
+
+Collins said potential clients come to her organization “literally out of desperation...mostly because they thought they had a right [to protect their environment], but the government isn’t treating them like they do.”
+
+{.single-photo-small}
+photo: ./assets/story-images/PUBLICSOURCE-riverrights/riverrights-collins1.jpg
+caption: Emily Collins, executive director of Fair Shake Environmental Legal Services, on the bank of the Allegheny River in Pittsburgh. (Photo by Jay Manning/PublicSource)
+{}
+
+But she’s cautious to recommend rights-of-nature ordinances. She’s seen communities “feel complete burnout” after seeing their ordinances fail to be upheld in the courts. 
+
+“I think there’s a limited amount of civic engagement and energy that you can put into these environmental questions that communities are facing,” she said. “I would rather harness that energy to do something that I know is possible.”
+
+h2: Costs and strategy
+
+Chad Nicholson sees both promise and risk in rights-of-nature ordinances. 
+
+One afternoon in April, Nicholson stood at the Braddock, Pa., “beach,” the site of a small cement dock for boats to come out of the river, adjacent to U.S. Steel’s Edgar Thomson Steel Works. U.S. Steel has faced public criticism and multiple lawsuits over the harm of pollution and violation of air quality permits. Plans to allow fracking at the plant have also drawn criticism, though officials in nearby boroughs [both support and oppose the move](https://www.publicsource.org/the-well-next-door-east-pittsburgh-and-north-braddock-diverge-on-the-local-impact-of-proposed-fracking).
+
+“The system is too cooked. We can’t tweak it,” Nicholson said, looking out at the Monongahela River. “We have to create something new.” Nicholson, a Pennsylvania-based organizer for CELDF, believes rights-of-nature laws could be that something. 
+
+{.pullquote}
+text: “The system is too cooked. We can’t tweak it. We have to create something new.” 
+twitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ohiowatershed.org%2Fohio-river-rights-movement-grant-rights-environment-tests-power-local-control.html&amp;text=Good%20River%3A%20%22The%20system%20is%20too%20cooked.%20We%20can%E2%80%99t%20tweak%20it.%20We%20have%20to%20create%20something%20new.%22
+facebook: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ohiowatershed.org%2Fohio-river-rights-movement-grant-rights-environment-tests-power-local-control.html
+{}
+
+He notes, though, that a small borough like Braddock might not be well-positioned to pursue a hypothetical rights of nature legal battle — they’re costly, both monetarily and in community morale. When towns are considering an ordinance, he asks, “Are you prepared to go bankrupt?”
+
+Grant Township in Indiana County is concerned about that prospect. In an attempt to stop a frack-waste injection site, township supervisors in 2014 adopted a community bill of rights containing rights-of-nature language. Shortly after, Pennsylvania General Energy [PGE] filed a lawsuit that settled in April, after five years of litigation. Grant Township owes PGE just more than $100,000 in compensation for legal fees the corporation spent suing the township.
+
+
+
+“We don’t have it,” said Stacy Long, vice chair of the Grant Township Board of Supervisors and board member of the East Run Hellbenders Society, an environmental group formed to oppose drilling. “I offered them a $250 Sheetz card,” she said, chuckling. 
+
+In a [June 2015 Reuters article](https://www.reuters.com/article/us-usa-fracking-lawsuits-insight/green-groups-unconventional-fight-against-fracking-idUSKCN0P90E320150629) about the township’s efforts, Linzey was quoted saying that bankruptcy may be a necessary consequence for a municipality to push the rights-of-nature movement forward.
+
+{.side-by-side-photo}
+left: ./assets/story-images/PUBLICSOURCE-riverrights/riverrights-braddock-fisher.jpg
+right: ./assets/story-images/PUBLICSOURCE-riverrights/riverrights-rankin-bridge.jpg
+caption: (left) David McKeag of Chalfant, Pa., casts into the Monongahela River at the Braddock boat ramp on Jan. 30, 2020. (right) The Rankin Bridge crosses over the Monongahela River between the boroughs of Rankin and Whitaker, near Pittsburgh. (Photos by Kimberly Rowen/PublicSource)
+{}
+
+Long said she feels Pennsylvania’s current environmental law has failed her community and the natural environment: “You have to wait to get polluted or poisoned, and then you can sue, but not before that.”
+
+In October, the DEP presented opening arguments in its [lawsuit against Grant Township](https://www.indianagazette.com/news/hellbenders-have-their-day-in-court/article_a3381998-edaf-5743-8277-e2ac71ee60e6.html) for its attempts to limit oil and gas fracking. The DEP asserted the township’s efforts were in direct opposition to the DEP’s permitting process. 
+
+Lauren Fraley, the southwest regional community relations coordinator for the DEP, said the agency cannot comment on ongoing litigation. She referred to filings in the case in which DEP affirms the rights of municipalities to use zoning restrictions to promote environmental health. She also noted that if Pennsylvania residents believe DEP protections are insufficient, they have a right to advocate for change. 
+
+more_stories: 122
+
+“Where citizens and local officials believe that existing regulation is insufficient, they have a few options: lobby state and federal representatives to pass laws providing more legal authority to regulate an activity; pass lawful ordinances within local authority to address the issues of concern (where the local government holds authority and is not preempted), and petition the regulatory authorities directly, like EPA, DEP, PUC, etc. to seek to have enhanced rules created,” Fraley wrote in an email. 
+
+Thomas Hoffman, a clean water organizer for the Pennsylvania chapter of the Sierra Club, noted the importance of political organizing. 
+
+“The current strategy of the environmental movement is too reliant on legal strategy,” he said. 
+
+For instance, he criticizes the Allegheny County Sanitary Authority [ALCOSAN] for not doing enough to address flooding and industrial runoff in its plans to invest $2 billion to reduce sewage contamination in local rivers. [ALCOSAN has repeatedly said](https://www.publicsource.org/how-much-green-infrastructure-will-be-included-in-alcosans-2-billion-upgrade-to-prevent-sewage-overflows/) that its scope is limited to reducing sewage overflows. To advocate for more, the Sierra Club’s Clean Rivers Campaign has a political strategy that includes public education, walking tours, petition signing and lobbying. 
+
+In Linzey’s view, rights-of-nature laws are about more than court battles.
+
+“What you’re seeing is not just a legal strategy, it’s an organizing strategy,” he said. Ultimately, Linzey doesn’t want to only see laws change. “It’s not just a seismic shift in the law that has to happen,” he said. “It’s a seismic shift in thinking about nature that has to happen.”
+
+*\*The Heinz Endowments provided funding to the Community Environmental Legal Defense Fund. The Heinz Endowments provides unrelated funding to PublicSource.*
+
+*Erin West is a freelance writer and former PublicSource editorial intern. She can be contacted at [west.erinr@gmail.com](west.erinr@gmail.com).*
+
+*This story was fact-checked by Shannon Kavanagh.*
+
+*Good River: Stories of the Ohio is a series about the environment, economy and culture of the Ohio River watershed, produced by seven nonprofit newsrooms. To see more, please visit [ohiowatershed.org](https://www.ohiowatershed.org/).*
