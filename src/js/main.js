@@ -1,10 +1,5 @@
 // require("./lib/pym");
 
-require("./scrollama");
-const Plyr = require('plyr');
-const player = new Plyr('#player');
-
-
 // not using jquery
 window.onload = function(){
   var story = document.getElementById('story-page-body');
@@ -18,3 +13,9 @@ window.onload = function(){
     }
   }
 }
+
+// animate on scroll
+AOS.init({
+  easing: 'ease-in',
+  duration: 5000
+});

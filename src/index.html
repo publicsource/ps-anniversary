@@ -4,34 +4,38 @@
   <%= t.include("partials/_head.html", grunt.data.json) %>
   <link rel="stylesheet" type="text/css" href="style.css">
 </head>
+
 <body id="homepage">
+
+  <%= t.include("partials/_intro.html") %>
+
   <div class="section">
-    <%= t.include("partials/_main_nav.html") %>
-  </div>
-  <div class="section">
-    <%= t.include("partials/_intro.html") %>
-  </div>
-  <div class="section">
-    <%= t.include("partials/_intro_about.html") %>
-  </div>
-  <div class="section">
-    <%= t.include("partials/_scrollama.html") %>
-  </div>
-  <div class="section">
-    <%= t.include("partials/_story_list.html") %>
-    </div>
-  <div class="section">
-    <%= t.include("partials/_footer.html") %>
+    <%= t.include("partials/_about.html") %>
   </div>
 
+  <div class="section">
+    <%= t.include("partials/_2012.html") %>
+  </div>
+
+  <div class="section">
+    <%= t.include("partials/_2012cutout.html") %>
+  </div>
+
+  <div class="section">
+    <%= t.include("partials/_2013.html") %>
+  </div>
+
+  <div class="section">
+    <%= t.include("partials/_2012cutout.html") %>
+  </div>
+
+
+  <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.6/highlight.min.js"></script>
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
   <script src="app.js" async></script>
 
-  <script
-    src="https://code.jquery.com/jquery-3.4.1.min.js"
-    integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
-    crossorigin="anonymous">
-  </script>
-  
+
   <%= t.include("partials/_analytics.html") %>
 </body>
 </html>

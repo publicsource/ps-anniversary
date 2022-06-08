@@ -12,9 +12,6 @@
 <!-- Safari, you're the worst -->
 <meta name='format-detection' content='telephone=no'>
 
-<!-- Font Awesome -->
-<script src="https://kit.fontawesome.com/ddd1535883.js" crossorigin="anonymous"></script>
-
 <% if (!project.embedded) { %>
 
 <!-- BEGIN TWITTER SUMMARY CARD -->
@@ -27,10 +24,22 @@
 <!-- Social sharing meta -->
 <meta property="og:type" content="article">
 <meta property="og:title" content="<%= project.title %>">
-<meta property="og:site_name" content="Good River: Stories of the Ohio">
+<meta property="og:site_name" content="10 years of PublicSource">
 <meta property="og:url" content="<%= project.url %>">
 <meta property="og:image" content="<%= project.url + project.image %>">
 <meta property="og:description" content="<%= project.description %>">
+
+<!-- Favicon -->
+<link rel="icon" type="image/png" href="/assets/images/favicon.png">
+
+<!-- Font Awesome -->
+<script src="https://kit.fontawesome.com/ddd1535883.js" crossorigin="anonymous"></script>
+
+<!-- Fonts -->
+<link rel="stylesheet" href="https://use.typekit.net/hph4ujk.css">
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css" />
 
 <%
 // if !project.embedded...

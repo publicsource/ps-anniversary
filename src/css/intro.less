@@ -1,0 +1,72 @@
+/* Hiding video controls
+* See: https://css-tricks.com/custom-controls-in-html5-video-full-screen/
+* --------------------------------------- */
+video::-webkit-media-controls {
+  display:none !important;
+}
+
+/*solves problem with overflowing video in Mac with Chrome */
+#intro{
+  overflow: hidden;
+  text-align: center;
+  color:#ffffff;
+  height: 135vh;
+}
+
+#intro video{
+  max-width:100%;
+}
+
+
+/* Layer with position absolute in order to have it over the video
+* --------------------------------------- */
+#intro .layer{
+  position: absolute;
+  z-index: 4;
+  width: 100%;
+  left: 0;
+  top: 43%;
+
+  /*
+  * Preventing flicker on some browsers
+  * See http://stackoverflow.com/a/36671466/1081396  or issue #183
+  */
+  -webkit-transform: translate3d(0,0,0);
+  -ms-transform: translate3d(0,0,0);
+  transform: translate3d(0,0,0);
+}
+
+#mobile-no-show {
+  @media @mobile {
+    display:none;
+  }
+}
+
+@media (max-width: 767px) {
+    #intro {
+        background: url('./assets/story-images/mobile-cover.jpg');
+        background-size: cover;
+    }
+}
+
+#intro #intro-text{
+  position: absolute;
+  width:100%;
+  bottom:20px;
+  left:50%;
+  transform: translateX(-50%);
+}
+
+#intro #intro-text h1{
+  // letter-spacing: 1px;
+  font-size: 3em;
+  margin:0;
+  padding:0;
+  line-height: 1em;
+  color:#e1e1e1;
+  animation-duration: 2.3s;
+  animation-delay: 1s;
+  @media @mobile {
+    font-size: 3.2em;
+  }
+}

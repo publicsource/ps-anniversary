@@ -1,86 +1,12 @@
 @import "values";
 @import "skeleton";
+@import "normalize";
 @import "nav";
-@import "landing";
+@import "intro";
+@import "text";
 @import "footer";
-@import "animate";
-@import "wavy";
-@import "story";
-@import "parallax";
-@import "partners";
-@import "scrollama";
-@import "plyr";
-@import "archive";
+@import "cutout";
 
-@font-face {
-  font-family: 'LatoThin';
-  src: url('assets/fonts/lato/Lato-Thin.ttf');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'LatoLight';
-  src: url('assets/fonts/lato/Lato-Light.ttf');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'LatoReg';
-  src: url('assets/fonts/lato/Lato-Regular.ttf');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'LatoBold';
-  src: url('assets/fonts/lato/Lato-Bold.ttf');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'LatoBoldItalic';
-  src: url('assets/fonts/lato/Lato-BoldItalic.ttf');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'PeaceSans';
-  src: url('assets/fonts/peace-sans/Peace-Sans-Webfont.ttf');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'CrimsonRoman';
-  src: url('assets/fonts/crimson-text/CrimsonText-Roman.ttf');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'NotoSerif-Reg';
-  src: url('assets/fonts/noto-serif/NotoSerif-Regular.ttf');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'NotoSerif-Italic';
-  src: url('assets/fonts/noto-serif/NotoSerif-Italic.ttf');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'NotoSerif-Bold';
-  src: url('assets/fonts/noto-serif/NotoSerif-Bold.ttf');
-  font-weight: normal;
-  font-style: normal;
-}
 
 //defensive coding
 * {
@@ -98,30 +24,68 @@
 body {
   padding: 0;
   margin: 0;
-  //remove 300ms click delay in Safari, AKA still the worst
   touch-action: manipulation;
-  font-family: "CrimsonRoman", @sans;
-  font-size: 14px;
+  font-family: garamond-premier-pro, serif;
+  font-weight: 400;
+  font-size: 21.5px;
+  color: #000000;
   line-height: 1.4;
 }
+
+.section{
+  // position:relative;
+  padding: 1rem 0 3rem;
+}
+
+.vl {
+  border-left: 1px solid black;
+  height: 500px;
+}
+
+.animated-line {
+  margin:0 auto;
+  width:2px;
+  height:200px;
+  overflow:hidden;
+  background:#5271ae;
+  position:relative;
+}
+
+.animated-line::before {
+  content:'';
+  display:block;
+  width:2px;
+  height:200px;
+  background:black;
+  position:absolute;
+  top:-100%;
+  left:0;
+  animation: animate 5s ease-in-out infinite;
+}
+
+@keyframes animate {
+  0% { top: -100%; }
+  50% { top: 0; }
+  100% { top: 100%; }
+}
+
 
 img, svg {
   max-width: 100%;
 }
 
 h1 {
-  font-family: "PeaceSans";
-  font-size: 20px;
-  color: #666;
+  font-size: 5em;
+  font-family: mallory, sans-serif;
+  font-weight: 800;
+  text-align: center;
 }
 
 h2{
-  font-family: "LatoReg";
   font-size: 2em;
 }
 
 h3{
-  font-family: "LatoReg";
   font-size: 1.2em;
 }
 
