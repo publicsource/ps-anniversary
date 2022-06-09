@@ -10,7 +10,10 @@ video::-webkit-media-controls {
   overflow: hidden;
   text-align: center;
   color:#ffffff;
-  height: 135vh;
+  height: 130vh;
+  @media @mobile {
+    height: 120vh;
+  }
 }
 
 #intro video{
@@ -42,6 +45,13 @@ video::-webkit-media-controls {
   }
 }
 
+#desktop-no-show {
+  display: none;
+  @media @mobile {
+    display:block;
+  }
+}
+
 @media (max-width: 767px) {
     #intro {
         background: url('./assets/story-images/mobile-cover.jpg');
@@ -59,7 +69,7 @@ video::-webkit-media-controls {
 
 #intro #intro-text h1{
   // letter-spacing: 1px;
-  font-size: 3em;
+  font-size: 3.35em;
   margin:0;
   padding:0;
   line-height: 1em;
